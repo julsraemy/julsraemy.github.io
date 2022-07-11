@@ -26,7 +26,7 @@ Have a look at my [CV](../cv/) for further information about my background, my p
 
 ## [What about this website?]
 
-This website is about my work, views and expectations on Information Interoperability, Knowledge Representation, Linked Open Data, Digital Preservation, Science and Technology Studies and all sorts of things related to the Cultural Heritage field.
+This website is about my work, views and expectations on Information Interoperability, Knowledge Representation, Linked Open Data (LOD), Digital Preservation, Science and Technology Studies (STS) and all sorts of things related to the Cultural Heritage field.
 
 [elt]: https://elt.oup.com/
 [celta]: http://www.cambridgeenglish.org/teaching-english/teaching-qualifications/celta/
