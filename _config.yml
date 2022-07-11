@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # default" # "air", "aqua", "contrast", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Site Title"
+title                    : "Julien A. Raemy"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Thoughts and discombobulations"
 name                     : "Your Name"
-description              : "An amazing website."
+description              : "Thoughts and discombobulations of Julien A. Raemy, An Information Science and Digital Humanities Specialist interested in the Information Interoperability, Knowledge Representation, Linked Open Data, Digital Preservation, Science and Technology Studies and all sorts of things related to the Cultural Heritage field."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "julsraemy/julsraemy.ch"
@@ -54,8 +54,8 @@ comments:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
-  siteKey                :
-  secret                 :
+  siteKey                : "6Lemut8gAAAAALVTnQfqMuheavUcu6XCiYI1mGuW"
+  secret                 : "6Lemut8gAAAAAEU77hMwBV_bGNsGdqOSEmGp-gHr"
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
@@ -65,34 +65,41 @@ search_provider          : # lunr (default), algolia, google
 lunr:
   search_within_pages    : # true, false (default)
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  application_id         : "K2X8ORMWZE"
+  index_name             : "dev_julsraemy"
+  search_only_api_key    : "915049e2d18180f0b1dddb76cb9d3ca8"
+  powered_by             : true # (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
-bing_site_verification   :
+google_site_verification : "N2u8ci8IT_ly94H_YevbdGi1qxEoc31fjx54QHK4ilU"
+bing_site_verification   : "FD3F9DD8EAD95C825B92020E24B75D27"
 naver_site_verification  :
-yandex_site_verification :
+yandex_site_verification : "9df8f85fdc6a53eb"
 baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "julsraemy"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/portrait-px.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : Person
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links:
+    - "https://orcid.org/0000-0002-4711-5759"
+    - "https://twitter.com/julsraemy/"
+    - "https://www.linkedin.com/in/julienaraemy/"
+    - "https://www.researchgate.net/profile/Julien_Raemy"
+    - "https://www.zotero.org/juls14"
+    - "https://scholar.google.ch/citations?user=pGROUG0AAAAJ"
+    - "https://viaf.org/viaf/1239155284804887060759/"
 
 # Analytics
 analytics:
@@ -105,9 +112,9 @@ analytics:
 # Site Author
 author:
   name             : "Julien A. Raemy"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  avatar           : "/assets/images/portrait-px.png"
+  bio              : "PhD Candidate in Digital Humanities at the University of Basel. Interoperability and Metadata Consultant for the DaSCH. International Image Interoperability Framework (IIIF) Technical Review Committee Member."
+  location         : "Basel, Switzerland"
   email            :
   links:
     - label: "Email"
@@ -134,13 +141,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/julsraemy"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/julsraemy"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -217,10 +224,10 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:categories/:year/:month/:day/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Zurich # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
