@@ -12,6 +12,7 @@ tags:
   - TICKS
   - White paper
 date: 2019-07-01 12:00:42 +0100
+link: https://doi.org/10.5281/zenodo.2640416
 ---
 
 ![TICKS Logo][ticks-logo]
