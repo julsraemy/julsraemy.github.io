@@ -63,10 +63,8 @@ Below is the recording of the defence which began with a twenty-minute presentat
 
 <iframe src="https://player.vimeo.com/video/453003769" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Slide deck available on <https://zenodo.org/record/3975523/preview/Raemy_master_thesis_oral_presentation_20200828.pdf>
-
 [master-is]: https://www.hesge.ch/heg/formation-base/masters-science/master-en-sciences-linformation
-[tm]: doc/Mastersthesis_europeana_raemyjulien_FV.pdf
+[tm]: ../doc/Mastersthesis_europeana_raemyjulien_FV.pdf
 [tm-defence]: https://vimeo.com/453003769
 [rg]: https://doi.org/10.13140/RG.2.2.14690.35521
 [rerodoc]: https://doc.rero.ch/record/329698
