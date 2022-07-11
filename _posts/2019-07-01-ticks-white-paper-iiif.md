@@ -125,9 +125,9 @@ It would be very interesting to have more feedback from institutions or individu
 
 I am thinking about how to carry out a follow-up project and see which institutions would be interested in a TICKS V2 while also relying on the results of the break-out session that happened during the [Bern IIIF Showcase Event](https://campus.hesge.ch/id_bilingue/projekte/ticks/bern-iiif-showcase-event_fr.html) on May 15th (presentations and notes of this event can be found at the following URL address: <http://bit.ly/iiifbern>). The event participants were particularly interested in a platform that would guide institutions wishing to implement IIIF based somewhat on the French approach provided by Biblissima, known as [IIIF360](https://projet.biblissima.fr/en/resources/iiif-360).  
 
-[ticks-logo]: ../assets/images/ticks.png
-[ticks-steps]: ../assets/images/iiif-step-by-step.jpg
-[map-switzerland]: ../assets/images/iiif-map-switzerland.png 
-[wp-ecosystem]: ../assets/images/wp-ecosystem.png
-[wp-usecases]: ../assets/images/wp-usecases.png
-[wp-further]: ../assets/images/wp-further.png
+[ticks-logo]: https://julsraemy.ch/assets/images/ticks.png
+[ticks-steps]: https://julsraemy.ch/assets/images/iiif-step-by-step.jpg
+[map-switzerland]: https://julsraemy.ch/assets/images/iiif-map-switzerland.png 
+[wp-ecosystem]: https://julsraemy.ch/assets/images/wp-ecosystem.png
+[wp-usecases]: https://julsraemy.ch/assets/images/wp-usecases.png
+[wp-further]: https://julsraemy.ch/assets/images/wp-further.png
