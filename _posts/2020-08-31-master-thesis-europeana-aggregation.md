@@ -53,7 +53,7 @@ In order to encourage the adoption of new aggregation mechanisms, a list of prop
 
 ## Dissertation
 
-The final version in PDF is available on this [website][tm], on [ResearchGate][rg] as well as on the [Réro doc][rerodoc] repository.
+The final version in PDF is available on this [website][tm], on [ResearchGate][rg] as well as on [Sonar][sonar].
 
 ## Oral defence
 
@@ -67,7 +67,7 @@ Below is the recording of the defence which began with a twenty-minute presentat
 [tm]: ../doc/Mastersthesis_europeana_raemyjulien_FV.pdf
 [tm-defence]: https://vimeo.com/453003769
 [rg]: https://doi.org/10.13140/RG.2.2.14690.35521
-[rerodoc]: https://doc.rero.ch/record/329698
+[sonar]: https://sonar.ch/hesso/documents/315109
 
 
 
