@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : "Thoughts and discombobulations"
 name                     : "Julien Antoine Raemy"
 description              : "Thoughts and discombobulations of Julien A. Raemy, An Information Science and Digital Humanities Specialist interested in Information Interoperability, Knowledge Representation, Linked Open Data, Digital Preservation, Science and Technology Studies and all sorts of things related to the Cultural Heritage field."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://julsraemy.ch
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "julsraemy/julsraemy.ch"
+repository               : julsraemy/julsraemy.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
