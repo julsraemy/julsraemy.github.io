@@ -299,6 +299,7 @@ defaults:
       read_time: true
       comments: true
       show_date: true
+      date_format: "%d-%m-%Y"
       share: true
       related: true
   # _pages
