@@ -108,9 +108,10 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 - March 2018 to February 2019: *Towards IIIF-Compliance Knowledge in Switzerland* (TICKS) - Hasler Foundation funded project [:link:][ticks]
 - June 2017 to December 2018: *Identités de confiance pour les données de l’art et du design* (ICOPAD) [:link:][icopad]
 
-## Conducted workshops and training programmes :mortar_board:
+## Conducted workshops, lectures and training programmes :mortar_board:
 
-- 26 February 2021: *IIIF* - Half-day course given with Elias Kreyenbühl in the context of the Certificate of Advanced Study (CAS) Datenmanagement und Informationstechnologien, University of Zürich and ZB Zürich [:link:][cas-dmit]
+- 2022: *IIIF* - A four-hour course on IIIF given with Elias Kreyenbühl (ZB Lab) in the context of the Master of Advanced Study (MAS) Bibliotheks- und Informationswissenschaft (BIW), University of Zürich and ZB Zürich [:link:][mas-biw]
+- 2021, 2022: *IIIF* - An height-hour course on IIIF given with Elias Kreyenbühl (ZB Lab) in the context of the Certificate of Advanced Study (CAS) Datenmanagement und Informationstechnologien (DMIT), University of Zürich and ZB Zürich [:link:][cas-dmit]
 - 11 November 2019: *Research Data Literacy : acquérir des compétences
 pour la gestion des données de la recherche*  One-day workshop given in the context of the Bibliosuisse's continuing education programme at Bibliomedia, Lausanne [:link:][bibliosuisse]
 - 30 September - 1 October 2019: *User centred design for the Handschriftenportal project* Two-day workshop given in the context of the creation of the Handschriftenportal, a DFG-funded project, at the Berlin State Library (Staatsbibliothek zu Berlin) [:link:][hsp]
@@ -136,6 +137,9 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 - RAEMY, Julien Antoine. [*The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions*][tb]. Bachelor’s thesis. Geneva, Switzerland : HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève, 2020.
 - RAEMY, Julien Antoine, FORNARO, Peter and ROSENTHALER, Lukas. [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 2017, no. 1, p. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68.
 
+## Scientific posters :scroll:
+- CEVEY, Matthieu and RAEMY, Julien Antoine. [Swiss PID Hub : création d’un Hub pour la gestion des identifiants pérennes en Suisse][hub-poster]. *Session des posters scientifiques*. Scientific poster. Haute école de gestion de Genève, Geneva, Switzerland. 12 December 2019. DOI 10.5281/zenodo.3551008
+
 ## Presentations :microphone:
 
 - RAEMY, Julien Antoine 2022. [Améliorer la valorisation des données du patrimoine culturel grâce au Linked Open Usable Data (LOUD)][hnws-prezi]. *Humanités numériques et Web sémantique*. Archives Henri-Poincaré, Nancy, France. 21 June 2022. DOI: 10.5281/zenodo.6696205
@@ -152,7 +156,6 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 - SCHNEIDER, René and RAEMY, Julien Antoine. [Auspacken, Identifizieren, Anpacken: Überlegungen zur Konvergenz von Linked Data und persistenter Identifikation][digitalverpackt]. *Informationen - digital verpackt*. Virtual event - Zentralbibliothek Zürich, Switzerland. 22 September 2020 DOI: 10.5281/zenodo.4043572. [:video_camera:][dv-video]
 - RAEMY, Julien Antoine. [Enabling better aggregation and discovery of cultural heritage content for Europeana and its partner institutions][tm-prezi]. *Master's thesis oral defence*. Haute école de gestion de Genève, Geneva, Switzerland. 28 August 2020. DOI: 10.5281/zenodo.3975522. [:video_camera:][tm-defence]
 - RAEMY, Julien Antoine and FREIRE, Nuno. [Overview of alternative technologies for (meta)data aggregation][eaf-prezi]. *Europeana Aggregators Forum Spring 2020*. Virtual event. 6 May 2020. DOI: 10.5281/zenodo.4011512. [:video_camera:][eaf-video]
-- CEVEY, Matthieu and RAEMY, Julien Antoine. [Swiss PID Hub : création d’un Hub pour la gestion des identifiants pérennes en Suisse][hub-poster]. *Session des posters scientifiques*. Scientific poster. Haute école de gestion de Genève, Geneva, Switzerland. 12 December 2019. DOI 10.5281/zenodo.3551008
 - RAEMY, Julien Antoine. [Das International Image Interoperability Framework (IIIF): eine Reihe von Standards für eine bessere Veröffentlichung der Ressourcen im Web][iiif-alexandria]. *Informationsanlass Alexandria*. Bibliothek am Guisanplatz, Bern, Switzerland. 30 October 2019. DOI 10.5281/zenodo.3463088
 - RAEMY, Julien Antoine, SCHNEIDER, René. [Swiss institutions climbing up the IIIF ladder][ticks-19]. *2019 IIIF Conference*. Alte Mensa, Georg-August-Universität, Göttingen, Germany. 26 June 2019. DOI 10.5281/zenodo.3238161. [:video_camera:][climbing-video]
 - RAEMY, Julien Antoine, SCHNEIDER, René. [Assigning persistent identifiers to art and design entities][vkks]. *Fourth Swiss Congress for Art History, Quid pro quo: linked data in art history research. VKKS 2019*. Accademia di architettura, Mendrisio, Switzerland. 7 June 2019. DOI 10.5281/zenodo.3241453
@@ -182,6 +185,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [arks-arketype]: https://arks.org/blog/new-service-arketype/
 [arketype]: https://www.arketype.ch/
 [cas-dmit]: https://www.biw.uzh.ch/de/casdmit.html
+[mas-biw]: https://www.biw.uzh.ch/de/masbiw.html
 [cnifallvideo]: https://www.youtube.com/watch?v=giw9stetjy8
 [cniprezi]: https://doi.org/10.5281/zenodo.4302427
 [bibioinfo]: https://julsraemy.github.io/assets/doc/biblioinfo_4_2020_oai_pmh_europeana.pdf
