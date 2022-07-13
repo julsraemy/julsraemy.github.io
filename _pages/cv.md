@@ -12,7 +12,7 @@ permalink: /cv/
 
 ## Curriculum vitae 
 
-### Experience :office:
+### Experience :office:
 
 Since February 2021: **Assistant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab]
 - _PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / [Participatory Knowledge Practices in Analogue and Digital Image Archives][pia]" (PIA) funded by the Swiss National Science Foundation (SNSF)_
@@ -105,7 +105,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 - 2010-2011: **Professional Business Baccalaureate** ("Maturité professionnelle commerciale") at the Ecole professionnelle artisanale et commerciale (EPAC)
 - 2005-2008: **Federal Diploma of Vocational Education and Training - Bookseller** ("Certificat fédéral de capacité de libraire") at the Ecole professionnelle commerciale de Lausanne (EPCL)
 
-## Projects :wrench:
+### Projects :wrench:
 
 - Since February 2021: *Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA)* - Swiss National Science Foundation (SNSF) Sinergia funded project [:link:][pia]
 - January 2020 to December 2020: *Infrastructure Nationale d’un Complément d’Identifiants Pérennes, Interopérables et Traçables* (INCIPIT) - swissuniversities-p5 funded project [:link:][incipit]
