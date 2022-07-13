@@ -6,7 +6,7 @@ toc_label: Table of Contents
 permalink: /cv/
 ---
 
-Below are a selected list of things I am doing or that I have done. See [here][name] my preferred pronouns and how to pronounce my name.
+[Julien Antoine Raemy][name] (he/him)
 
 ## Experience :office:
 
