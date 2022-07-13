@@ -6,9 +6,13 @@ toc_label: Table of Contents
 permalink: /cv/
 ---
 
-[Julien Antoine Raemy][name] (he/him)
+## Summary (ld;dr)
 
-## Experience :office:
+[Julien Antoine Raemy][name] (he/him) works as a Project Assistant and Doctoral Student at the Digital Humanities Lab of the University of Basel as well as Interoperability and Metadata Consultant for DaSCH, Swiss National Data & Service Center for the Humanities. Within the Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA) research project, he is involved in the extension of the data infrastructure, the uptake of the International Image Interoperability Framework (IIIF) as well as designing the data model. He obtained a BSc (2017) and a MSc in Information Science (2020) from the Haute école de gestion de Genève (HEG-GE). He previously worked as a Research and Teaching Assistant in Information Science at the HEG-GE (2017-2021), as IIIF Systems Architect for the Swiss Art Research Infrastructure (SARI) coordinated at the University of Zürich (2020) as well as Photo Archivist at the Ecole Polytechnique Fédérale de Lausanne (EPFL) in the context of the Montreux Jazz Digital Project (2015-2017). Furthermore, he is a member of the IIIF Technical Review Committee and the IIIF Coordinating Committee as well as being an active member of the Archival Resource Key (ARK) Alliance.
+
+## Curriculum vitae 
+
+### Experience :office:
 
 Since February 2021: **Assistant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab]
 - _PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / [Participatory Knowledge Practices in Analogue and Digital Image Archives][pia]" (PIA) funded by the Swiss National Science Foundation (SNSF)_
@@ -60,40 +64,40 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 - Conducting video transcoding tests with FFmpeg
 - Writing up a conference paper which demonstrate the benefits of elaborating a structure for digital video assets based on the IIIF concepts for the use in archival environments
 
-## Memberships :busts_in_silhouette:
+### Memberships :busts_in_silhouette:
 
-### International Image Interoperability Framework (IIIF) [:link:][iiif]
+#### International Image Interoperability Framework (IIIF) [:link:][iiif]
 
 - Since May 2020: IIIF Coordinating Committee Member
 - Since February 2019: IIIF [Technical Review Committee][trc] Member
 - September 2017 - July 2020: IIIF [Code of Conduct][coc] Team Member
 - January 2018 - September 2019: IIIF [Outreach Community Group][outreach] Co-Chair
 
-### Archival Resource Key (ARK) Alliance [:link:][aito]
+#### Archival Resource Key (ARK) Alliance [:link:][aito]
 *formerly "ARKs in the Open (AITO)"*
 
 - Since January 2020: ARK Alliance [Outreach Working Group][aito-outreach] Member
 
-### Bibliosuisse [:link:][bibliosuisse]
+#### Bibliosuisse [:link:][bibliosuisse]
 *formerly "Bibliothèque Information Suisse" (BIS)*
 
 - Since March 2014: Member
 
-### Association genevoise des bibliothécaires et professionnels diplômés en information documentaire (AGBD) [:link:][agbd]
+#### Association genevoise des bibliothécaires et professionnels diplômés en information documentaire (AGBD) [:link:][agbd]
 
 - May 2018 - February 2021: Member
 
-### Fri-Son [:link:][fri-son]
+#### Fri-Son [:link:][fri-son]
 
 - Since October 2010: Member
 - September 2013 - July 2016: Bar Manager
 - September 2010 - August 2013: Bartender
 
-### Association des amis de la Maison d'Ailleurs (AMDA) [:link:][amda]
+#### Association des amis de la Maison d'Ailleurs (AMDA) [:link:][amda]
 
 - Since January 2008: Member
 
-## Education :school:
+### Education :school:
 
 - 2021-2025 (expected): **PhD in Digital Humanities** at the University of Basel
 - 2018-2020: **Master of Science in Information Science** at the HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève
@@ -108,7 +112,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 - March 2018 to February 2019: *Towards IIIF-Compliance Knowledge in Switzerland* (TICKS) - Hasler Foundation funded project [:link:][ticks]
 - June 2017 to December 2018: *Identités de confiance pour les données de l’art et du design* (ICOPAD) [:link:][icopad]
 
-## Conducted workshops, lectures and training programmes :mortar_board:
+### Conducted workshops, lectures and training programmes :mortar_board:
 
 - 2022: *IIIF* - A four-hour course on IIIF given with Elias Kreyenbühl (ZB Lab) in the context of the Master of Advanced Study (MAS) Bibliotheks- und Informationswissenschaft (BIW), University of Zürich and ZB Zürich [:link:][mas-biw]
 - 2021, 2022: *IIIF* - An height-hour course on IIIF given with Elias Kreyenbühl (ZB Lab) in the context of the Certificate of Advanced Study (CAS) Datenmanagement und Informationstechnologien (DMIT), University of Zürich and ZB Zürich [:link:][cas-dmit]
@@ -121,7 +125,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 - 27-28 November 2017: *Web Usability* Two-day workshop given at the European Organization for Nuclear Research (CERN)
 - October 2017 - December 2019: *User Friendly Online Services for Scientific Information* (UFO), a mandate funded by swissuniversities-p5, in collaboration with the Fachhochschule Graubünden [:link:][ufo]. Assessed projects: SWITCH Swiss edu-ID (2018), Enhancer (2018), SWITCHhub (2019), histHub (2019)
 
-## Publications :pencil:
+### Publications :pencil:
 
 - RAEMY, Julien Antoine. [*Applying Effective Data Modelling Approaches for the Creation of a Participatory Archive Platform*][dhsemepfl2021-paper]. Human Factors in Digital Humanities (PhD Seminar). Ecole Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland. 16 December 2021.
 - FREIRE, Nuno, MEIJERS, Enno, DE VALK, Sjors, RAEMY, Julien Antoine, ISAAC, Antoine. [*Metadata Aggregation via Linked Data: Results of the Europeana Common Culture Project*][eccp]. In GAROUFALLOU E., OVALLE-PERANDONES, M.-A. (Eds.). Metadata and Semantic Research. MTSR 2020. Communications in Computer and Information Science, vol 1355 (pp. 383–394). 2021
@@ -137,10 +141,10 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 - RAEMY, Julien Antoine. [*The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions*][tb]. Bachelor’s thesis. Geneva, Switzerland : HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève, 2020.
 - RAEMY, Julien Antoine, FORNARO, Peter and ROSENTHALER, Lukas. [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 2017, no. 1, p. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68.
 
-## Scientific posters :scroll:
+### Scientific posters :scroll:
 - CEVEY, Matthieu and RAEMY, Julien Antoine. [Swiss PID Hub : création d’un Hub pour la gestion des identifiants pérennes en Suisse][hub-poster]. *Session des posters scientifiques*. Scientific poster. Haute école de gestion de Genève, Geneva, Switzerland. 12 December 2019. DOI 10.5281/zenodo.3551008
 
-## Presentations :microphone:
+### Presentations :microphone:
 
 - RAEMY, Julien Antoine 2022. [Améliorer la valorisation des données du patrimoine culturel grâce au Linked Open Usable Data (LOUD)][hnws-prezi]. *Humanités numériques et Web sémantique*. Archives Henri-Poincaré, Nancy, France. 21 June 2022. DOI: 10.5281/zenodo.6696205
 - RAEMY, Julien Antoine 2022. [Actor-network theory (ANT) as a preliminary approach to data modelling][dhch22]. *DHCH@ISR 2022 – Digital Humanities Methodologies*. Istituto Svizzero, Rome, Italy. 14 June 2022. DOI: 10.5281/zenodo.6636276. [:video_camera:][dhch22-rec]
@@ -165,7 +169,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 - RAEMY, Julien Antoine. [Présentation brève de IIIF et du travail de bachelor][seminaire]. *Séminaire en bibliothéconomie*. Haute école de gestion de Genève, Carouge, Switzerland. 9 November 2017.
 - Raemy, Julien Antoine. [Usability testing conducted on the UV and Mirador][vatican-prezi], *2017 IIIF Conference*. Augustinianum, The Vatican City. 5 June 2017.
 
-## Posts :computer:
+### Posts :computer:
 
 - MANZ, Marian Clemens, RAEMY, Julien Antoine, GAUVAIN, Béatrice, CHIQUET, Vera. [Let's talk about standards – A write-up of a discussion on metadata standardization in the Digital Humanities][standards-dhch]. *DH-CH*. 29 September 2021
 - RAEMY, Julien Antoine. [IIIF: there is more than meets the eye][iiif-dhch]. *DH-CH*. 20 April 2021
@@ -174,7 +178,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 - CEVEY, Matthieu and RAEMY, Julien Antoine. [Un PID pour (enfin?) les gouverner tous][swisspidhub-post1]. *Recherche d’IdéeS*. 2 September 2019.
 - RAEMY, Julien Antoine. [De la nécessité de la visualisation face au déluge des données][blog-necessite]. *Recherche d’IdéeS*. 21 November 2018.
 
-## Awards :tada:
+### Awards :tada:
 
 - November 2017: [Prix romand en bibliothéconomie][romand]
 
