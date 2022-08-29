@@ -172,7 +172,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ### Posts :computer:
 
-- MANZ, Marian Clemens, RAEMY, Julien Antoine, GAUVAIN, Béatrice, CHIQUET, Vera (2021). [Let's talk about standards – A write-up of a discussion on metadata standardization in the Digital Humanities][standards-dhch]. *DH-CH*. 29 September 2021
+- MANZ, Marian Clemens, RAEMY, Julien Antoine, GAUVAIN, Béatrice, CHIQUET, Vera (2022). [Let's talk about standards – A write-up of a discussion on metadata standardization in the Digital Humanities][standards-dhch]. *DH-CH*. 18 January 2022
 - RAEMY, Julien Antoine (2021). [IIIF: there is more than meets the eye][iiif-dhch]. *DH-CH*. 20 April 2021
 - RAEMY, Julien Antoine (2021). [New service: ARKetype][arks-arketype]. *ARK Alliance*. 20 January 2021
 - CEVEY, Matthieu and RAEMY, Julien Antoine 2020. [Ce Hub a plus d’une corde à son arc !][swisspidhub-post2]. *Recherche d’IdéeS*. 28 January 2020.
