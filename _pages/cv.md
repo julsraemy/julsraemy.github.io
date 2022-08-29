@@ -222,8 +222,8 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [ressi1]: http://www.ressi.ch/num18/article_142
 [ressi2]: http://www.ressi.ch/num18/article_143
 [vatican-prezi]: https://www.slideshare.net/JulienARaemy/iiif-preconference-usability-testing-conducted-on-the-uv-and-mirador
-[tb]: https://doc.rero.ch/record/306498
-[tm]: https://doc.rero.ch/record/329698
+[tb]: https://sonar.ch/hesso/documents/314853
+[tm]: https://sonar.ch/hesso/documents/315109
 [tm-prezi]: https://doi.org/10.5281/zenodo.3975522
 [tm-defence]: https://vimeo.com/453003769
 [midi-agbd]: https://www.agbd.ch/wp-content/uploads/JARaemy_IIIF_pr%C3%A9sentation-min.pdf
@@ -233,7 +233,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [outreach]: https://iiif.io/community/groups/outreach/
 [heg]: https://www.hesge.ch/heg/
 [hub-poster]: https://doi.org/10.5281/zenodo.3551007
-[hub-rero]: https://doc.rero.ch/record/328460
+[hub-rero]: https://sonar.ch/hesso/documents/315101
 [mmc]: https://metamedia.epfl.ch/
 [mjhl]: http://www.epfl-ecal-lab.ch/work/montreux-jazz-heritage-lab-ii/
 [dhlab]: https://dhlab.philhist.unibas.ch/
@@ -243,8 +243,8 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [ticks-18]: https://doi.org/10.5281/zenodo.1252084
 [ticks-19]: https://doi.org/10.5281/zenodo.3238160
 [trc]: https://iiif.io/community/trc/
-[arodes-ht1]: https://hesso.tind.io/record/2394
-[arodes-ht2]: https://hesso.tind.io/record/4063
+[arodes-ht1]: https://arodes.hes-so.ch/record/2394
+[arodes-ht2]: https://arodes.hes-so.ch/record/4063
 [vkks]: https://doi.org/10.5281/zenodo.3241452
 [standards-dhch]: https://dh-ch.ch/blog/posts/let's-talk-about-standards-a-write-up-of-a-discussion-on-metadata-standardization-in-the-digital-humanities.html
 [swisspidhub-post1]: https://campus.hesge.ch/blog-master-is/un-pid-pour-les-gouverner-tous/
