@@ -127,7 +127,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ### Publications :pencil:
 
-- RAEMY, J. A. (2022). Améliorer la valorisation des données du patrimoine culturel grâce au Linked Open Usable Data (LOUD). *Actes des journées humanités numériques et Web sémantique*. Nancy, France. In N. Lasolle, O. Bruneau & J. Lieber (Eds.), p. 132-149. DOI: 10.5281/zenodo.7014341
+- RAEMY, J. A. (2022). [Améliorer la valorisation des données du patrimoine culturel grâce au Linked Open Usable Data (LOUD)][hnws2022-paper]. *Actes des journées humanités numériques et Web sémantique*. Nancy, France. In N. Lasolle, O. Bruneau & J. Lieber (Eds.), p. 132-149. DOI: 10.5281/zenodo.7014341
 - RAEMY, J. A. (2021). [*Applying Effective Data Modelling Approaches for the Creation of a Participatory Archive Platform*][dhsemepfl2021-paper]. Human Factors in Digital Humanities (PhD Seminar). Ecole Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland. 16 December 2021.
 - FREIRE, Nuno, MEIJERS, Enno, DE VALK, Sjors, RAEMY, Julien Antoine, ISAAC, Antoine (2021). [*Metadata Aggregation via Linked Data: Results of the Europeana Common Culture Project*][eccp]. In GAROUFALLOU E., OVALLE-PERANDONES, M.-A. (Eds.). Metadata and Semantic Research. MTSR 2020. Communications in Computer and Information Science, vol 1355 (pp. 383–394). 2021
 - RAEMY, Julien Antoine (2020). [*Vers la fin d’OAI-PMH pour Europeana ?*][bibioinfo]. Bibliosuisse INFO. 2020. Vol. 2, no. 4, p. 10. ISSN 2624-8646
@@ -147,7 +147,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ### Presentations :microphone:
 
-- RAEMY, Julien Antoine (2022). [Améliorer la valorisation des données du patrimoine culturel grâce au Linked Open Usable Data (LOUD)][hnws-prezi]. *Humanités numériques et Web sémantique*. Archives Henri-Poincaré, Nancy, France. 21 June (2022). DOI: 10.5281/zenodo.6696205
+- RAEMY, Julien Antoine (2022). [Améliorer la valorisation des données du patrimoine culturel grâce au Linked Open Usable Data (LOUD)][hnws2022-prezi]. *Humanités numériques et Web sémantique*. Archives Henri-Poincaré, Nancy, France. 21 June (2022). DOI: 10.5281/zenodo.6696205
 - RAEMY, Julien Antoine 2022. [Actor-network theory (ANT) as a preliminary approach to data modelling][dhch22]. *DHCH@ISR 2022 – Digital Humanities Methodologies*. Istituto Svizzero, Rome, Italy. 14 June 2022. DOI: 10.5281/zenodo.6636276. [:video_camera:][dhch22-rec]
 - RAEMY, Julien Antoine (2022). [Designing a proof-of-concept for the implementation of the Presentation API 3.0 and Change Discovery API 1.0 within the DaSCH Service Platform (DSP)][iiif-2022]. *2022 IIIF Conference*. Harvard University, Cambridge MA, USA, 8 June 2022. DOI: 10.5281/zenodo.6595132. [:video_camera:][iiif-2022-rec]
 - RAEMY, Julien Antoine (2021). [Data modelling and Citizen Science: impact of user-generated content within the PIA research project][dhsemepfl2021]. *Digital Humanities PhD Seminar. Human Factors in DH*. Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland, 2 December 2021. DOI: 10.5281/zenodo.5763545
@@ -198,7 +198,8 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [dasch]: https://dasch.swiss/
 [digitalverpackt]: https://doi.org/10.5281/zenodo.4043572
 [eccp]: https://doi.org/10.1007/978-3-030-71903-6_35
-[hnws-prezi]: https://doi.org/10.5281/zenodo.6696205
+[hnws2022-prezi]: https://doi.org/10.5281/zenodo.6696205
+[hnws2022-paper]: https://doi.org/10.5451/unibas-ep89725
 [iiif]: https://iiif.io/
 [iiif-dhch]: https://www.dh-ch.ch/blog/posts/iiif:-there-is-more-than-meets-the-eye.html
 [iiif-2022]: https://doi.org/10.5281/zenodo.6595132
