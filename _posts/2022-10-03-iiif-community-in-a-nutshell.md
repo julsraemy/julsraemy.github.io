@@ -8,7 +8,6 @@ categories:
 tags:
   - IIIF
   - Community
-  - Actants
 date: 2022-10-03 12:00:42 +0100
 ---
 
