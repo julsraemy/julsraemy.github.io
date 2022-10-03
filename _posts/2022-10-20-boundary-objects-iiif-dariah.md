@@ -86,8 +86,8 @@ The interpretation of IIIF resources and their related features provides the ini
 5. Cross, R. (2013). The rise and fall of spinning tops. _American Journal of Physics, 81_(4), 280–289. https://doi.org/10.1119/1.4776195
 
 
-[fig1_star_boundaryobject][https://julsraemy.ch/assets/images/star_boundaryobject.svg]
-[fig2_iiifmanifests_pia][https://julsraemy.ch/assets/images/pia_iiif_mirador.png]
-[fig3_spinningtop_iiif][https://julsraemy.ch/assets/images/spinningtop_iiif.svg]
-[fig4_viewersupport][https://julsraemy.ch/assets/images/viewer_support.svg]
-[fig5_summary][https://julsraemy.ch/assets/images/summary_viewers_tops.svg]
+[fig1_star_boundaryobject]: https://julsraemy.ch/assets/images/star_boundaryobject.svg
+[fig2_iiifmanifests_pia]: https://julsraemy.ch/assets/images/pia_iiif_mirador.png
+[fig3_spinningtop_iiif]: https://julsraemy.ch/assets/images/spinningtop_iiif.svg
+[fig4_viewersupport]: https://julsraemy.ch/assets/images/viewer_support.svg
+[fig5_summary]: https://julsraemy.ch/assets/images/summary_viewers_tops.svg
