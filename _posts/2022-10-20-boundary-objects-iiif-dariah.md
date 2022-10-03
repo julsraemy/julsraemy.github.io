@@ -17,7 +17,7 @@ tags:
   - Mirador
   - Annona
   - Universal Viewer
-date: 2022-10-03 12:00:42 +0100
+date: 2022-10-20 12:00:42 +0100
 ---
 
 ## DARIAH-CH Study Day - Poster Script
@@ -76,13 +76,14 @@ The interpretation of IIIF resources and their related features provides the ini
 ### References
 
 1. Star, S. L., & Griesemer, J. R. (1989). Institutional Ecology, ‘Translations’ and Boundary Objects: Amateurs and Professionals in Berkeley’s Museum of Vertebrate Zoology, 1907-39. _Social Studies of Science, 19_(3), 387–420.
-2. Snydman, S., Sanderson, R., & Cramer, T. (2015). The International Image Interoperability Framework (IIIF): A community & technology approach for web-based images. _Archiving Conference, 2015_, 16–21. https://purl.stanford.edu/df650pk4327
-3. Star, S. L. (2010). This is Not a Boundary Object: Reflections on the Origin of a Concept. _Science, Technology, & Human Values, 35_(5), 601–617. https://doi.org/10.1177/0162243910377624
+2. Snydman, S., Sanderson, R., & Cramer, T. (2015). [The International Image Interoperability Framework (IIIF): A community & technology approach for web-based images](https://purl.stanford.edu/df650pk4327). _Archiving Conference, 2015_, 16–21. 
+3. Star, S. L. (2010). [This is Not a Boundary Object: Reflections on the Origin of a Concept]. _Science, Technology, & Human Values, 35_(5), 601–617. [https://doi.org/10.1177/0162243910377624](https://doi.org/10.1177/0162243910377624)
 4. Latour, B. (2005). _Reassembling the social: An introduction to actor-network-theory_. Oxford University Press. ISBN 978-0-19-925604-4
-5. Cross, R. (2013). The rise and fall of spinning tops. _American Journal of Physics, 81_(4), 280–289. https://doi.org/10.1119/1.4776195
+5. Cross, R. (2013). The rise and fall of spinning tops. _American Journal of Physics, 81_(4), 280–289. [https://doi.org/10.1119/1.4776195](https://doi.org/10.1119/1.4776195)
 
 **Cite the poster as**
-RAEMY, J. A. (2022, October 20). _Back and Forth from Boundary Objects to IIIF resources: The Recipes of a Community-driven Initiative Specifying Standards_. DARIAH CH Study Day. Università della Svizzera Italiana (USI), Mendrisio, Switzerland. https://doi.org/10.5281/zenodo.7015255
+
+RAEMY, J. A. (2022, October 20). _Back and Forth from Boundary Objects to IIIF resources: The Recipes of a Community-driven Initiative Specifying Standards_. DARIAH CH Study Day. Università della Svizzera Italiana (USI), Mendrisio, Switzerland. [https://doi.org/10.5281/zenodo.7015255](https://doi.org/10.5281/zenodo.7015255)
 
 [fig1_star_boundaryobject]: https://julsraemy.ch/assets/images/star_boundaryobject.svg
 [fig2_iiifmanifests_pia]: https://julsraemy.ch/assets/images/pia_iiif_mirador.png
