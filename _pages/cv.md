@@ -147,7 +147,8 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ### Presentations :microphone:
 
-- RAEMY, Julien Antoine (2022). [Améliorer la valorisation des données du patrimoine culturel grâce au Linked Open Usable Data (LOUD)][hnws2022-prezi]. *Humanités numériques et Web sémantique*. Archives Henri-Poincaré, Nancy, France. 21 June (2022). DOI: 10.5281/zenodo.6696205
+- CORNUT, Murielle and RAEMY, Julien Antoine (2022). [This photo shows my family home! How to make annotations of cultural heritage objects more accessible through IIIF][2022crkn]. *2022 CRKN Conference: Strength in Community*. Online Conference. 3 October 2022. DOI: 10.5281/zenodo.7139251
+- RAEMY, Julien Antoine (2022). [Améliorer la valorisation des données du patrimoine culturel grâce au Linked Open Usable Data (LOUD)][hnws2022-prezi]. *Humanités numériques et Web sémantique*. Archives Henri-Poincaré, Nancy, France. 21 June 2022. DOI: 10.5281/zenodo.6696205
 - RAEMY, Julien Antoine 2022. [Actor-network theory (ANT) as a preliminary approach to data modelling][dhch22]. *DHCH@ISR 2022 – Digital Humanities Methodologies*. Istituto Svizzero, Rome, Italy. 14 June 2022. DOI: 10.5281/zenodo.6636276. [:video_camera:][dhch22-rec]
 - RAEMY, Julien Antoine (2022). [Designing a proof-of-concept for the implementation of the Presentation API 3.0 and Change Discovery API 1.0 within the DaSCH Service Platform (DSP)][iiif-2022]. *2022 IIIF Conference*. Harvard University, Cambridge MA, USA, 8 June 2022. DOI: 10.5281/zenodo.6595132. [:video_camera:][iiif-2022-rec]
 - RAEMY, Julien Antoine (2021). [Data modelling and Citizen Science: impact of user-generated content within the PIA research project][dhsemepfl2021]. *Digital Humanities PhD Seminar. Human Factors in DH*. Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland, 2 December 2021. DOI: 10.5281/zenodo.5763545
@@ -183,6 +184,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 - November 2017: [Prix romand en bibliothéconomie][romand]
 
+[2022crkn]: https://doi.org/10.5281/zenodo.7139251
 [agbd]: https://www.agbd.ch/
 [aito]: https://wiki.lyrasis.org/display/ARKs/ARKs+in+the+Open+Project
 [aito-outreach]: https://wiki.lyrasis.org/display/ARKs/Outreach+Working+Group
