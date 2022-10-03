@@ -24,9 +24,6 @@ date: 2022-10-20 12:00:42 +0100
 
 Title of the poster: _Back and Forth from Boundary Objects to IIIF Resources. The Recipes of a Community-driven Initiative Specifying Standards_
 
-**Cite the poster as**
-RAEMY, J. A. (2022, October 20). _Back and Forth from Boundary Objects to IIIF resources: The Recipes of a Community-driven Initiative Specifying Standards_. DARIAH CH Study Day. Università della Svizzera Italiana (USI), Mendrisio, Switzerland. https://doi.org/10.5281/zenodo.7015255
-
 # (Submitted) Abstract
 
 The exchange of digital objects and their associated metadata is simplified when these meet established standards, but the capture of all the (meta)information is still very much in tension, at the limits of resources, knowledge and indeed the underlying capabilities of given standards. These limitations can be translated into what Susan Leigh Star defines as residual categories and consequently the generation of boundary objects. The question of these non-standardised residuals within the cultural heritage and digital humanities fields is an iterative identification issue that institutions and individuals have sought to mitigate. 
@@ -84,6 +81,8 @@ The interpretation of IIIF resources and their related features provides the ini
 4. Latour, B. (2005). _Reassembling the social: An introduction to actor-network-theory_. Oxford University Press. ISBN 978-0-19-925604-4
 5. Cross, R. (2013). The rise and fall of spinning tops. _American Journal of Physics, 81_(4), 280–289. https://doi.org/10.1119/1.4776195
 
+**Cite the poster as**
+RAEMY, J. A. (2022, October 20). _Back and Forth from Boundary Objects to IIIF resources: The Recipes of a Community-driven Initiative Specifying Standards_. DARIAH CH Study Day. Università della Svizzera Italiana (USI), Mendrisio, Switzerland. https://doi.org/10.5281/zenodo.7015255
 
 [fig1_star_boundaryobject]: https://julsraemy.ch/assets/images/star_boundaryobject.svg
 [fig2_iiifmanifests_pia]: https://julsraemy.ch/assets/images/pia_iiif_mirador.png
