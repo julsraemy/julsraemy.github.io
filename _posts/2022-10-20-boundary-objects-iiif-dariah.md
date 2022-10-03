@@ -18,7 +18,6 @@ tags:
   - Annona
   - Universal Viewer
 date: 2022-10-20 12:00:42 +0100
-link: https://doi.org/10.5281/zenodo.7015255
 ---
 
 # DARIAH-CH Study Day - Poster Script
