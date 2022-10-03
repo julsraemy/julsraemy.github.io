@@ -1,5 +1,5 @@
 ---
-title: "IIIF Community in a nutshell"
+title: "The IIIF Community in a nutshell (or rather in a graph)"
 excerpt: "I have created a diagram providing an overview of the IIIF Community"
 toc: true
 toc_label: "Table of Contents"
