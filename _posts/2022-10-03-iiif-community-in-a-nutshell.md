@@ -1,6 +1,6 @@
 ---
 title: "The IIIF Community in a nutshell (or rather in a graph)"
-excerpt: "I have created a diagram providing an overview of the IIIF Community"
+excerpt: "I have created a graph providing an overview of the International Image Interoperablity Framework (IIIF) Community which illustrates the intricate connections between the different actors and their respective involvement."
 toc: true
 toc_label: "Table of Contents"
 categories:
