@@ -38,13 +38,13 @@ While on the surface or theoretically these IIIF Manifests, which are also refer
 
 The exchange of digital objects and their associated metadata is simplified when these meet established standards, but the capture of all the (meta)information is still very much in tension, at the limits of resources, knowledge and indeed the underlying capabilities of given standards.
 
-These limitations can be translated into what Susan Leigh Star defines as residual categories and consequently the generation of boundary objects[1]. The question of these non-standardised residuals within the cultural heritage (CH) and digital humanities fields is an iterative identification issue that institutions and individuals have sought to mitigate. A good example still to be investigated are the resources conforming to the application programming interfaces (APIs) of the International Image Interoperability Framework (IIIF) [2], which have been growing in popularity in the CH field for the past decade for disseminating (image-based) digital objects at scale.
+These limitations can be translated into what Susan Leigh Star defines as residual categories and consequently the generation of boundary objects(1). The question of these non-standardised residuals within the cultural heritage (CH) and digital humanities fields is an iterative identification issue that institutions and individuals have sought to mitigate. A good example still to be investigated are the resources conforming to the application programming interfaces (APIs) of the International Image Interoperability Framework (IIIF) (2), which have been growing in popularity in the CH field for the past decade for disseminating (image-based) digital objects at scale.
 
 ### Boundary objects and residual categories
 
-Star [3], in one of her last articles, revisits the often misused concept of boundary object and the temporality aspect illustrated in Figure 1 below, demonstrating to some extent the life cycle of a standardisation effort to restructure the residual categories that generated said boundary objects.
+Star (3), in one of her last articles, revisits the often misused concept of boundary object and the temporality aspect illustrated in Figure 1 below, demonstrating to some extent the life cycle of a standardisation effort to restructure the residual categories that generated said boundary objects.
 
-![Relationships between standards and residual categories. Schema adapted from [3]][fig1_star_boundaryobject]
+![Relationships between standards and residual categories][fig1_star_boundaryobject]
 
 ### IIIF Resources
 
@@ -56,9 +56,9 @@ While on the surface or theoretically these IIIF Manifests could be quite the an
 
 ### The angular momentum of web objects
 
-![Analogy to the angular momentum [5] and IIIF resources as spinning tops][fig3_spinningtop_iiif]
+![Analogy to the angular momentum and IIIF resources as spinning tops][fig3_spinningtop_iiif]
 
-The interpretation of IIIF resources and their related features provides the initial entry point for most end users and are genuine mediators and not mere intermediaries, to echo the words of Latour[4]. For determining what are IIIF-compliant resources, one indicator seems relevant to me: the support of patterns correctly interpreted by existing viewers, i.e. the cookbook recipes compiled by IIIF Community members. Metaphorically, my idea is to make an analogy between web content, here IIIF resources, to spinning tops when they are at their augular momentum, which would mean that their rotational inertia (Ι) equals their compliance timeframe (L) as long as the angular velocity (ω) works as expected (1 ≡ yes). Each viewer would be a surface on which force is applied (cf. Figure 3). As of September 2022, the [Viewer Matrix ](https://iiif.io/api/cookbook/recipe/matrix/) lists currently 42 unique recipes - divided by functionalities or types - and their support (yes, no, partial) by Mirador, the Universal Viewer (UV) and Annona (cf. Figure 4).
+The interpretation of IIIF resources and their related features provides the initial entry point for most end users and are genuine mediators and not mere intermediaries, to echo the words of Latour(4). For determining what are IIIF-compliant resources, one indicator seems relevant to me: the support of patterns correctly interpreted by existing viewers, i.e. the cookbook recipes compiled by IIIF Community members. Metaphorically, my idea is to make an analogy between web content, here IIIF resources, to spinning tops when they are at their augular momentum, which would mean that their rotational inertia (Ι) equals their compliance timeframe (L) as long as the angular velocity (ω) works as expected (1 ≡ yes). Each viewer would be a surface on which force is applied (cf. Figure 3). As of September 2022, the [Viewer Matrix](https://iiif.io/api/cookbook/recipe/matrix/) lists currently 42 unique recipes - divided by functionalities or types - and their support (yes, no, partial) by Mirador, the Universal Viewer (UV) and Annona (cf. Figure 4).
 
 ![Viewer support of the IIIF Cookbook recipes (as of September 2022)][fig4_viewersupport]
 
