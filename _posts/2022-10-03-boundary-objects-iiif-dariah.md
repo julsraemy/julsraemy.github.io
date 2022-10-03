@@ -17,7 +17,7 @@ tags:
   - Mirador
   - Annona
   - Universal Viewer
-date: 2022-10-20 12:00:42 +0100
+date: 2022-10-03 12:00:42 +0100
 ---
 
 ## DARIAH-CH Study Day - Poster Script
