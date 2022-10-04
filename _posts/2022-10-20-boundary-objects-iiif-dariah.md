@@ -92,7 +92,7 @@ The interpretation of IIIF resources and their related features provides the ini
 4. Latour, B. (2005). _Reassembling the social: An introduction to actor-network-theory_. Oxford University Press. ISBN 978-0-19-925604-4
 5. Cross, R. (2013). The rise and fall of spinning tops. _American Journal of Physics, 81_(4), 280–289. [https://doi.org/10.1119/1.4776195](https://doi.org/10.1119/1.4776195)
 
-### Slide deck
+### Slide deck on Exhibit
 
 <iframe src="https://www.exhibit.so/exhibits/cXc5lm2e0G10tDVywh9b?embedded=true" width="640" height="480" allowfullscreen allow="autoplay" frameborder="0"></iframe>
 
