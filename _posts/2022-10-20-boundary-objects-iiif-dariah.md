@@ -94,7 +94,7 @@ The interpretation of IIIF resources and their related features provides the ini
 
 ### Slide deck
 
-Here goes the Exhibit link...
+<iframe src="https://www.exhibit.so/exhibits/cXc5lm2e0G10tDVywh9b?embedded=true" width="640" height="480" allowfullscreen allow="autoplay" frameborder="0"></iframe>
 
 **Cite the poster as**
 
