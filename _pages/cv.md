@@ -143,6 +143,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 - RAEMY, Julien Antoine, FORNARO, Peter and ROSENTHALER, Lukas (2017). [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 2017, no. 1, p. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68.
 
 ### Scientific posters :scroll:
+- RAEMY, Julien Antoine (2022). [Back and Forth from Boundary Objects to IIIF resources: The Recipes of a Community-driven Initiative Specifying Standards][dariahchposter]. *DARIAH-CH Study Day*. Università della Svizzera Italiana (USI), Mendrisio, Switzerland. DOI 10.5281/zenodo.7015255
 - CEVEY, Matthieu and RAEMY, Julien Antoine (2019). [Swiss PID Hub : création d’un Hub pour la gestion des identifiants pérennes en Suisse][hub-poster]. *Session des posters scientifiques*. Scientific poster. Haute école de gestion de Genève, Geneva, Switzerland. 12 December 2019. DOI 10.5281/zenodo.3551008
 
 ### Presentations :microphone:
@@ -197,6 +198,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [cniprezi]: https://doi.org/10.5281/zenodo.4302427
 [bibioinfo]: https://julsraemy.github.io/assets/doc/biblioinfo_4_2020_oai_pmh_europeana.pdf
 [bibliosuisse]: https://bibliosuisse.ch/
+[dariahchposter]: https://doi.org/10.5281/zenodo.7015255
 [dasch]: https://dasch.swiss/
 [digitalverpackt]: https://doi.org/10.5281/zenodo.4043572
 [eccp]: https://doi.org/10.1007/978-3-030-71903-6_35
