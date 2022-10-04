@@ -28,9 +28,9 @@ Title of the poster: _Back and Forth from Boundary Objects to IIIF Resources. Th
 
 The exchange of digital objects and their associated metadata is simplified when these meet established standards, but the capture of all the (meta)information is still very much in tension, at the limits of resources, knowledge and indeed the underlying capabilities of given standards. These limitations can be translated into what Susan Leigh Star defines as residual categories and consequently the generation of boundary objects. The question of these non-standardised residuals within the cultural heritage and digital humanities fields is an iterative identification issue that institutions and individuals have sought to mitigate. 
 
-Take for instance resources conforming to the application programming interfaces (APIs) of the International Image Interoperability Framework (IIIF). These are JSON-LD serialised objects duly specified and vetted by a community trying to break institutional silos. Of particular interest are resources compliant with the [IIIF Presentation API](https://iiif.io/api/presentation/3.0/) which underpins what a Manifest is, i.e. a description of the structure and properties of an object which can be interpreted by a client and displayed to end-users, typically disseminated openly on the Web.
+Take for instance resources conforming to the application programming interfaces (APIs) of the [International Image Interoperability Framework](https://iiif.io) (IIIF). These are JSON-LD serialised objects duly specified and vetted by a community trying to break institutional silos. Of particular interest are resources compliant with the [IIIF Presentation API](https://iiif.io/api/presentation/3.0/) which underpins what a Manifest is, i.e. *a description of the structure and properties of the compound object* which can be interpreted by a client and displayed to end-users, typically disseminated openly on the Web.
 
-While on the surface or theoretically these IIIF Manifests, which are also referred to as compound objects, could be quite the antithesis of boundary objects, it remains to be seen to what extent IIIF-compatible resources revolve around residual categories and also from what point onward these Manifests have been at some point or revert to boundary objects, whether they are not well-structured or simply because the architecture and constituent software serving and interpreting them do not operate correctly.
+While on the surface or theoretically these IIIF Manifests, or *compound objects*, could be quite the antithesis of boundary objects, it remains to be seen to what extent IIIF-compatible resources revolve around residual categories and also from what point onward these Manifests have been at some point or revert to boundary objects, whether they are not well-structured or simply because the architecture and constituent software serving and interpreting them do not operate correctly.
 
 ## Poster (verbose version)
 
@@ -42,29 +42,39 @@ These limitations can be translated into what Susan Leigh Star defines as residu
 
 ### Boundary objects and residual categories
 
-Star (3), in one of her last articles, revisits the often misused concept of boundary object and the temporality aspect illustrated in Figure 1 below, demonstrating to some extent the life cycle of a standardisation effort to restructure the residual categories that generated said boundary objects.
+Star (3), in one of her last articles, revisits the often misused concept of boundary object and the temporality aspect illustrated in Figure 1, demonstrating to some extent the life cycle of a standardisation effort to restructure the residual categories that generated said boundary objects.
 
-![Relationships between standards and residual categories][fig1_star_boundaryobject]
+|![Relationships between standards and residual categories][fig1_star_boundaryobject]|
+|:--|
+|Figure 1. Relationships between standards and residual categories|
 
 ### IIIF Resources
 
-IIIF resources are JSON-LD serialised objects duly specified and vetted by a community trying to break institutional silos. Of particular interest are resources compliant with the IIIF Presentation API which underpins what a Manifest is, i.e. a description of the structure and properties of the compound object which can be interpreted by a client and displayed to end-users. IIIF Manifests are typically displayed through compatible viewers such as Mirador, the Universal Viewer, or Tify.
+IIIF resources are JSON-LD serialised objects duly specified and vetted by a community trying to break institutional silos. Of particular interest are resources compliant with the IIIF Presentation API which underpins what a Manifest is, i.e. a description of the structure and properties of the compound object which can be interpreted by a client and displayed to end-users. IIIF Manifests are typically displayed through compatible viewers.
 
 While on the surface or theoretically these IIIF Manifests could be quite the antithesis of boundary objects, it remains to be seen to what extent IIIF-compatible resources revolve around residual categories and also from what point onward these Manifests have been at some point or revert to boundary objects, whether they are not well-structured or simply because the architecture and constituent software serving and interpreting them do not operate correctly.
 
-![IIIF Manifests generated as part of the PIA research project and displayed in Mirador][fig2_iiifmanifests_pia]
+|![IIIF Manifests generated as part of the PIA research project and displayed in Mirador][fig2_iiifmanifests_pia]|
+|:--|
+|Figure 2. IIIF Manifests generated as part of the PIA research project and displayed in Mirador|
 
 ### The angular momentum of web objects
 
-![Analogy to the angular momentum and IIIF resources as spinning tops][fig3_spinningtop_iiif]
+|![Analogy to the angular momentum and IIIF resources as spinning tops][fig3_spinningtop_iiif]|
+|:--|
+|Figure 3. Analogy to the angular momentum and IIIF resources as spinning tops|
 
 The interpretation of IIIF resources and their related features provides the initial entry point for most end users and are genuine mediators and not mere intermediaries, to echo the words of Latour(4). For determining what are IIIF-compliant resources, one indicator seems relevant to me: the support of patterns correctly interpreted by existing viewers, i.e. the cookbook recipes compiled by IIIF Community members. Metaphorically, my idea is to make an analogy between web content, here IIIF resources, to spinning tops when they are at their augular momentum, which would mean that their rotational inertia (Ι) equals their compliance timeframe (L) as long as the angular velocity (ω) works as expected (1 ≡ yes). Each viewer would be a surface on which force is applied (cf. Figure 3). As of September 2022, the [Viewer Matrix](https://iiif.io/api/cookbook/recipe/matrix/) lists currently 42 unique recipes - divided by functionalities or types - and their support (yes, no, partial) by Mirador, the Universal Viewer (UV) and Annona (cf. Figure 4).
 
-![Viewer support of the IIIF Cookbook recipes (as of September 2022)][fig4_viewersupport]
+|![Viewer support of the IIIF Cookbook recipes (as of September 2022)][fig4_viewersupport]|
+|:--|
+|Figure 4. Viewer support of the IIIF Cookbook recipes (as of September 2022)|
 
 ### Results
 
-![Summary of IIIF Presentation API 3.0 viewer support as spinning tops (Mirador, UV, Annona)][fig5_summary]
+|![Summary of IIIF Presentation API 3.0 viewer support as spinning tops (Mirador, UV, Annona)][fig5_summary]|
+|:--|
+|Figure 5. Summary of IIIF Presentation API 3.0 viewer support as spinning tops (Mirador, UV, Annona)|
 
 ### Conclusion
 
@@ -80,6 +90,10 @@ The interpretation of IIIF resources and their related features provides the ini
 3. Star, S. L. (2010). [This is Not a Boundary Object: Reflections on the Origin of a Concept]. _Science, Technology, & Human Values, 35_(5), 601–617. [https://doi.org/10.1177/0162243910377624](https://doi.org/10.1177/0162243910377624)
 4. Latour, B. (2005). _Reassembling the social: An introduction to actor-network-theory_. Oxford University Press. ISBN 978-0-19-925604-4
 5. Cross, R. (2013). The rise and fall of spinning tops. _American Journal of Physics, 81_(4), 280–289. [https://doi.org/10.1119/1.4776195](https://doi.org/10.1119/1.4776195)
+
+### Slide deck
+
+Here goes the Exhibit link...
 
 **Cite the poster as**
 
