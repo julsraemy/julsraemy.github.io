@@ -65,7 +65,11 @@ While on the surface or theoretically these IIIF Manifests could be quite the an
 |:--|
 |Figure 3. Analogy to the angular momentum [^5] and IIIF resources as spinning tops|
 
-The interpretation of IIIF resources and their related features provides the initial entry point for most end users and are genuine mediators and not mere intermediaries, to echo the words of Latour [^4]. For determining what are IIIF-compliant resources, one indicator seems relevant to me: the support of patterns correctly interpreted by existing viewers, i.e. the cookbook recipes compiled by IIIF Community members. Metaphorically, my idea is to make an analogy between web content, here IIIF resources, to spinning tops when they are at their augular momentum, which would mean that their rotational inertia (Ι) equals their compliance timeframe (L) as long as the angular velocity (ω) works as expected (1 ≡ yes). Each viewer would be a surface on which force is applied (cf. Figure 3). As of September 2022, the [Viewer Matrix](https://iiif.io/api/cookbook/recipe/matrix/) lists currently 42 unique recipes - divided by functionalities or types - and their support (yes, no, partial) by Mirador, the Universal Viewer (UV) and Annona (cf. Figure 4).
+The interpretation of IIIF resources and their related features provides the initial entry point for most end users and are genuine mediators and not mere intermediaries, to echo the words of Latour [^4]. For determining what are IIIF-compliant resources, one indicator seems relevant to me: the support of patterns correctly interpreted by existing viewers, i.e. the cookbook recipes compiled by IIIF Community members. 
+
+Metaphorically, my idea is to make an analogy between web content, here IIIF resources, to spinning tops when they are at their augular momentum, which would mean that their rotational inertia (Ι) equals their compliance timeframe (L) as long as the angular velocity (ω) works as expected (1 ≡ yes). Each viewer would be a surface on which force is applied (cf. Figure 3). 
+
+As of September 2022, the [Viewer Matrix](https://iiif.io/api/cookbook/recipe/matrix/) lists currently 42 unique recipes - divided by functionalities or types - and their support (yes, no, partial) by Mirador, the Universal Viewer (UV) and Annona (cf. Figure 4).
 
 |![Viewer support of the IIIF Cookbook recipes (as of September 2022)][fig4_viewersupport]|
 |:--|
