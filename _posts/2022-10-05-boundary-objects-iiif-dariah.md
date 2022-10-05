@@ -23,7 +23,7 @@ date: 2022-10-05 12:00:42 +0100
 
 ## DARIAH-CH Study Day - Poster Script
 
-Title of the poster: _Back and Forth from Boundary Objects to IIIF Resources. The Recipes of a Community-driven Initiative Specifying Standards_
+Title of the poster: [_Back and Forth from Boundary Objects to IIIF Resources. The Recipes of a Community-driven Initiative Specifying Standards_](https://doi.org/10.5281/zenodo.7015255)
 
 ### (Submitted) Abstract
 
@@ -95,10 +95,6 @@ The interpretation of IIIF resources and their related features provides the ini
 ### Slide deck on Exhibit
 
 <iframe src="https://www.exhibit.so/exhibits/cXc5lm2e0G10tDVywh9b?embedded=true" width="640" height="480" allowfullscreen allow="autoplay" frameborder="0"></iframe>
-
-**Cite the poster as**
-
-RAEMY, J. A. (2022, October 20). _Back and Forth from Boundary Objects to IIIF resources: The Recipes of a Community-driven Initiative Specifying Standards_. DARIAH CH Study Day. Università della Svizzera Italiana (USI), Mendrisio, Switzerland. [https://doi.org/10.5281/zenodo.7015255](https://doi.org/10.5281/zenodo.7015255)
 
 [fig1_star_boundaryobject]: https://julsraemy.ch/assets/images/star_boundaryobject.svg
 [fig2_iiifmanifests_pia]: https://julsraemy.ch/assets/images/pia_iiif_mirador.png
