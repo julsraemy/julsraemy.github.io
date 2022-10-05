@@ -84,8 +84,6 @@ The interpretation of IIIF resources and their related features provides the ini
 - Further processing is needed as IIIF resources with unsupported patterns are not always discarded by viewers or do not come with a warning.
 - The angular momentum analogy is not to set aside the whole underlying architecture of the Web, but rather to acknowledge relevant actants within a given network.
 
-### References
-
 [^1]: Star, S. L., & Griesemer, J. R. (1989). Institutional Ecology, ‘Translations’ and Boundary Objects: Amateurs and Professionals in Berkeley’s Museum of Vertebrate Zoology, 1907-39. _Social Studies of Science, 19_(3), 387–420.
 [^2]: Snydman, S., Sanderson, R., & Cramer, T. (2015). [The International Image Interoperability Framework (IIIF): A community & technology approach for web-based images](https://purl.stanford.edu/df650pk4327). _Archiving Conference, 2015_, 16–21. 
 [^3]: Star, S. L. (2010). [This is Not a Boundary Object: Reflections on the Origin of a Concept]. _Science, Technology, & Human Values, 35_(5), 601–617. [https://doi.org/10.1177/0162243910377624](https://doi.org/10.1177/0162243910377624)
