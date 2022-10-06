@@ -23,7 +23,8 @@ date: 2022-10-05 12:00:42 +0100
 
 ## DARIAH-CH Study Day - Poster Script
 
-Title of the poster: [_Back and Forth from Boundary Objects to IIIF Resources. The Recipes of a Community-driven Initiative Specifying Standards_](https://doi.org/10.5281/zenodo.7015255)
+- Title of the poster: [_Back and Forth from Boundary Objects to IIIF Resources. The Recipes of a Community-driven Initiative Specifying Standards_](https://doi.org/10.5281/zenodo.7015255)
+- [IIIF Manifest of the poster displayed on Mirador](https://projectmirador.org/embed/?iiif-content=https://julsraemy.ch/hostiiing/manifests/backandforth.json)
 
 ### (Submitted) Abstract
 
