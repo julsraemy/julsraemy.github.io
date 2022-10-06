@@ -1,0 +1,45 @@
+{
+    "inLanguage": {
+      "alternateName": "eng", 
+      "@type": "Language", 
+      "name": "English"
+    }, 
+    "description": "<p><strong>Back and Forth from Boundary Objects to IIIF Resources: The Recipes of a Community-driven Initiative Specifying Standards</strong></p>\n\n<p>Scientific poster&nbsp;presented at the <a href=\"https://dariah.ch/\">DARIAH-CH</a> Study Day in Mendrisio, Switzerland, on 20 October 2022</p>\n\n<p><strong>Abstract</strong></p>\n\n<p>The exchange of digital objects and their associated metadata is simplified when these meet established standards, but the capture of all the (meta)information is still very much in tension, at the limits of resources, knowledge and indeed the underlying capabilities of given standards. These limitations can be translated into what Susan Leigh Star defines as residual categories and consequently the generation of boundary objects. The question of these non-standardised residuals within the cultural heritage and digital humanities fields is an iterative identification issue that institutions and individuals have sought to mitigate.&nbsp;</p>\n\n<p>Take for instance resources conforming to the application programming interfaces (APIs) of the <a href=\"https://iiif.io\">International Image Interoperability Framework</a> (IIIF). These are JSON-LD serialised objects duly specified and vetted by a community trying to break institutional silos. Of particular interest are resources compliant with the <a href=\"https://iiif.io/api/presentation/3.0/\">IIIF Presentation API</a> which underpins what a <strong>Manifest</strong> is, i.e.:</p>\n\n<blockquote>\n<p>a&nbsp;description of the structure and properties of the compound object&nbsp;</p>\n</blockquote>\n\n<p>which can be interpreted by a client and displayed to end-users, typically disseminated openly on the Web.</p>\n\n<p>While on the surface or theoretically these IIIF Manifests, or&nbsp;<em>compound objects</em>, could be quite the antithesis of boundary objects, it remains to be seen to what extent IIIF-compatible resources revolve around residual categories and also from what point onward these Manifests have been at some point or revert to boundary objects, whether they are not well-structured or simply because the architecture and constituent software serving and interpreting them (known as viewers in the IIIF ecosystem) do not operate correctly.</p>\n\n<p><strong>Additional resources:</strong></p>\n\n<ul>\n\t<li>Presentation made on Exhibit:&nbsp;<a href=\"https://www.exhibit.so/exhibits/cXc5lm2e0G10tDVywh9b\">https://www.exhibit.so/exhibits/cXc5lm2e0G10tDVywh9b</a></li>\n\t<li>Verbose script as a blog post: <a href=\"https://julsraemy.ch/posts/2022/10/05/boundary-objects-iiif-dariah/\">https://julsraemy.ch/posts/2022/10/05/boundary-objects-iiif-dariah/</a></li>\n\t<li>IIIF Manifest:&nbsp;<a href=\"https://julsraemy.ch/hostiiing/manifests/backandforth.json\">https://julsraemy.ch/hostiiing/manifests/backandforth.json</a></li>\n</ul>", 
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode", 
+    "creator": [
+      {
+        "affiliation": "Digital Humanities Lab, University of Basel", 
+        "@id": "https://orcid.org/0000-0002-4711-5759", 
+        "@type": "Person", 
+        "name": "Julien A. Raemy"
+      }
+    ], 
+    "url": "https://zenodo.org/record/7015256", 
+    "datePublished": "2022-10-20", 
+    "version": "1.0", 
+    "@type": "CreativeWork", 
+    "keywords": [
+      "Annona", 
+      "Boundary object", 
+      "IIIF", 
+      "JSON-LD", 
+      "LOUD", 
+      "Mirador", 
+      "Participatory Knowledge Practices in Analogue and Digital Image Archives", 
+      "Universal Viewer", 
+      "Heuristic evaluation", 
+      "Application programming interface", 
+      "Viewer", 
+      "Linked Open Usable Data"
+    ], 
+    "@context": "https://schema.org/", 
+    "identifier": "https://doi.org/10.5281/zenodo.7015256", 
+    "@id": "https://doi.org/10.5281/zenodo.7015256", 
+    "workFeatured": {
+      "url": "https://www.dariah.ch/", 
+      "location": "Universit\u00e0 della Svizzera Italiana (USI), Mendrisio, Switzerland", 
+      "@type": "Event", 
+      "name": "DARIAH-CH Study Day"
+    }, 
+    "name": "Back and Forth from Boundary Objects to IIIF Resources: The Recipes of a Community-driven Initiative Specifying Standards"
+  }
