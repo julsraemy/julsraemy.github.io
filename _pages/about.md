@@ -22,8 +22,6 @@ Starting July 2020 and in parallel to my assistantship in Geneva, I started work
 
 Since February 2021, I have embarked on a PhD in Digital Humanities at the University of Basel, [Digital Humanities Lab][dhlab] in the context of the multidisciplinary project funded by the SNSF titled [Participatory Knowledge Practices in Analogue and Digital Image Archive][pia] (PIA). Simultaneously, I have also started working as an Interoperability Specialist at DaSCH, the [Swiss National Data and Service Center for the Humanities][dasch].
 
-Have a look at my [CV](../cv/) for further information about my background, my projects and my publications
-
 ## [What about this website?]
 
 This website is about my work, views and expectations on Information Interoperability, Knowledge Representation, Linked Open Data (LOD), Digital Preservation, Science and Technology Studies (STS) and all sorts of things related to the Cultural Heritage field.
