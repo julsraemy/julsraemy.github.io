@@ -6,15 +6,11 @@ main:
     url: /categories/
   - title: "CV"
     url: /cv
-  - title: "Academia"
-    subfolderitems:
-    - page: "PhD"
-      url: https://phd.julsraemy.ch/
-    - page: "Projects"
-      url: /projects
-    - page: "Publications"
-      url: /publications
-    - page: "Teaching"
-      url: /teaching  
+  - title: "Projects"
+    url: /projects
+  - title: "Publications"
+    url: /publications
+  - title: "Teaching"
+    url: /teaching  
   # - title: "Sitemap"
   #   url: /sitemap/
