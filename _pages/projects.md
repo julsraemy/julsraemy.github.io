@@ -13,7 +13,7 @@ permalink: /projects/
 | 2021-2025    | Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA)                         | University of Basel (PhD Candidate)            | Swiss National Science Foundation (SNSF), Sinergia |
 | 2020-2022[^1]    | Bilder der Schweiz Online (BSO)                                                                        | University of Zürich (Scientific Collaborator) | Stiftung Familie Fehlmann                          |
 | 2020         | Infrastructure Nationale d’un Complément d’Identifiants Pérennes, Interopérables et Traçables (ICOPAD) | Haute école de gestion de Genève (Assistant)   | swissuniversities-p5                               |
-| 2018-2019    | Towards IIIF-Compliance Knowledge in Switzerland (TICKS)                                               | Haute école de gestion de Genève (Assistant    | Hasler Foundation                                  |
+| 2018-2019    | Towards IIIF-Compliance Knowledge in Switzerland (TICKS)                                               | Haute école de gestion de Genève (Assistant)    | Hasler Foundation                                  |
 | 2017-2018    | Identités de confiance pour les données de l’art et du design (ICOPAD)                                 | Haute école de gestion de Genève (Assistant)   | HES-SO                                             |
 
 ### PIA
@@ -21,7 +21,7 @@ permalink: /projects/
 *Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA)* - Swiss National Science Foundation (SNSF) Sinergia funded project [:link:][pia]
 
 ### BSO
-*Bilder der Schweiz Online (BSO)* - funded by the Stiftung Familie Fehlmann [:link][bso]
+*Bilder der Schweiz Online (BSO)* - funded by the Stiftung Familie Fehlmann [:link:][bso]
 
 ### INCIPIT
 
