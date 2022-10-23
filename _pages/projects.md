@@ -8,21 +8,28 @@ permalink: /projects/
 
 ## Projects
 
-### PIA (2021-2025)
+| **Timeline** | **Research Project**                                                                                   | **Institution**                  | **Funder**                                         |
+|--------------|--------------------------------------------------------------------------------------------------------|----------------------------------|----------------------------------------------------|
+| 2021-2025    | Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA)                         | University of Basel              | Swiss National Science Foundation (SNSF), Sinergia |
+| 2020         | Infrastructure Nationale d’un Complément d’Identifiants Pérennes, Interopérables et Traçables (ICOPAD) | Haute école de gestion de Genève | swissuniversities-p5                               |
+| 2018-2019    | Towards IIIF-Compliance Knowledge in Switzerland (TICKS)                                               | Haute école de gestion de Genève | Hasler Foundation                                  |
+| 2017-2018    | Identités de confiance pour les données de l’art et du design (ICOPAD)                                 | Haute école de gestion de Genève | HES-SO                                             |
 
-- Since February 2021: *Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA)* - Swiss National Science Foundation (SNSF) Sinergia funded project [:link:][pia]
+### PIA
 
-### INCIPIT (2020)
+*Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA)* - Swiss National Science Foundation (SNSF) Sinergia funded project [:link:][pia]
 
-- January 2020 to December 2020: *Infrastructure Nationale d’un Complément d’Identifiants Pérennes, Interopérables et Traçables* (INCIPIT) - swissuniversities-p5 funded project [:link:][incipit]
+### INCIPIT
 
-### TICKS (2018-2019)
+*Infrastructure Nationale d’un Complément d’Identifiants Pérennes, Interopérables et Traçables* (INCIPIT) - swissuniversities-p5 funded project [:link:][incipit]
 
-- March 2018 to February 2019: *Towards IIIF-Compliance Knowledge in Switzerland* (TICKS) - Hasler Foundation funded project [:link:][ticks]
+### TICKS
 
-### ICOPAD (2017-2018)
+*Towards IIIF-Compliance Knowledge in Switzerland* (TICKS) - Hasler Foundation funded project [:link:][ticks]
 
-- June 2017 to December 2018: *Identités de confiance pour les données de l’art et du design* (ICOPAD) [:link:][icopad]
+### ICOPAD
+
+*Identités de confiance pour les données de l’art et du design* (ICOPAD) [:link:][icopad]
 
 
 [icopad]: https://campus.hesge.ch/id_bilingue/projekte/icopad/index_fr.asp
