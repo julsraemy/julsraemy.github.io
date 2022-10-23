@@ -14,8 +14,7 @@ permalink: /cv/
 
 ### Experience :office:
 
-Since February 2021: **Assistant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab] - [1]
-[1]_PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / [Participatory Knowledge Practices in Analogue and Digital Image Archives][pia]" (PIA) funded by the Swiss National Science Foundation (SNSF)_
+Since February 2021: **Assistant and PhD Candidate in Digital Humanities**[^1] at the University of Basel, [Digital Humanities Lab][dhlab]
 
 - Current working title of the dissertation: "Linked Open Usable Data in the Humanities: Perspectives on Knowledge Representation and Interoperability" [:link:][phd]
 - Fourth working title of the dissertation: "Linked Open Usable Data for Citizen Science: Perspectives on Interoperability and Knowledge Representation through and beyond an Actor-Network Theory Lens"
@@ -107,6 +106,8 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 - 2010-2011: **Professional Business Baccalaureate** ("Maturité professionnelle commerciale") at the Ecole professionnelle artisanale et commerciale (EPAC)
 - 2005-2008: **Federal Diploma of Vocational Education and Training - Bookseller** ("Certificat fédéral de capacité de libraire") at the Ecole professionnelle commerciale de Lausanne (EPCL)
 
+
+[^1]: _PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / [Participatory Knowledge Practices in Analogue and Digital Image Archives][pia]" (PIA) funded by the Swiss National Science Foundation (SNSF)_
 
 [agbd]: https://www.agbd.ch/
 [aito]: https://wiki.lyrasis.org/display/ARKs/ARKs+in+the+Open+Project
