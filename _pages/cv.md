@@ -15,8 +15,9 @@ permalink: /cv/
 ### Experience :office:
 
 Since February 2021: **Assistant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab]
-- _PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / [Participatory Knowledge Practices in Analogue and Digital Image Archives][pia]" (PIA) funded by the Swiss National Science Foundation (SNSF)_
-- Current working title of the dissertation: "Linked Open Usable Data in the Humanities: Perspectives on Interoperability and Knowledge Representation" [:link:][phd]
+_PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / [Participatory Knowledge Practices in Analogue and Digital Image Archives][pia]" (PIA) funded by the Swiss National Science Foundation (SNSF)_
+
+- Current working title of the dissertation: "Linked Open Usable Data in the Humanities: Perspectives on Knowledge Representation and Interoperability" [:link:][phd]
 - Fourth working title of the dissertation: "Linked Open Usable Data for Citizen Science: Perspectives on Interoperability and Knowledge Representation through and beyond an Actor-Network Theory Lens"
 - Third working title of the dissertation: "Deploying a Citizen Humanities infrastructure with Linked Open Usable Data (LOUD) standards: perspectives on Interoperability and Knowledge Representation"
 - Second working title of the dissertation: "Web-based standards for Citizen Science initiatives in the cultural heritage domain: from data modelling to deploying an open infrastructure"
