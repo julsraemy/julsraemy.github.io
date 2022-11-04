@@ -29,6 +29,7 @@ permalink: /publications/
 
 ## Presentations :microphone:
 
+- RAEMY, Julien Antoine and DEMLEITNER, Adrian (2022). [Implementation of the IIIF Presentation API 3.0 based on Software Support: Use Case of an Incremental IIIF Deployment within a Citizen Science Project][euromed2022-prezi]. *International Conference on Digital Heritage (EuroMed2022)*. Limassol, Cyprus. 7 November 2022. DOI: 10.5281/zenodo.7194021
 - CORNUT, Murielle and RAEMY, Julien Antoine (2022). [This photo shows my family home! How to make annotations of cultural heritage objects more accessible through IIIF][2022crkn]. *2022 CRKN Conference: Strength in Community*. Online Conference. 3 October 2022. DOI: 10.5281/zenodo.7139251
 - RAEMY, Julien Antoine (2022). [Améliorer la valorisation des données du patrimoine culturel grâce au Linked Open Usable Data (LOUD)][hnws2022-prezi]. *Humanités numériques et Web sémantique*. Archives Henri-Poincaré, Nancy, France. 21 June 2022. DOI: 10.5281/zenodo.6696205
 - RAEMY, Julien Antoine (2022). [Actor-network theory (ANT) as a preliminary approach to data modelling][dhch22]. *DHCH@ISR 2022 – Digital Humanities Methodologies*. Istituto Svizzero, Rome, Italy. 14 June 2022. DOI: 10.5281/zenodo.6636276. [:video_camera:][dhch22-rec]
@@ -74,6 +75,7 @@ permalink: /publications/
 [dariahchposter]: https://doi.org/10.5281/zenodo.7015255
 [digitalverpackt]: https://doi.org/10.5281/zenodo.4043572
 [eccp]: https://doi.org/10.1007/978-3-030-71903-6_35
+[euromed2022-prezi]: https://doi.org/10.5281/zenodo.7194021
 [hnws2022-prezi]: https://doi.org/10.5281/zenodo.6696205
 [hnws2022-paper]: https://doi.org/10.5451/unibas-ep89725
 [iiif-dhch]: https://www.dh-ch.ch/blog/posts/iiif:-there-is-more-than-meets-the-eye.html
