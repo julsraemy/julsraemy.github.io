@@ -97,6 +97,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links:
     - "https://orcid.org/0000-0002-4711-5759"
+    - "https://toot.io/@julsraemy"
     - "https://twitter.com/julsraemy/"
     - "https://www.linkedin.com/in/julienaraemy/"
     - "https://www.researchgate.net/profile/Julien_Raemy"
@@ -126,6 +127,9 @@ author:
     - label: "PhD Website"
       icon: "fas fa-fw fa-link"
       url: "https://phd.julsraemy.ch"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://toot.io/@julsraemy"  
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/julsraemy"
