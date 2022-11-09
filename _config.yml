@@ -129,7 +129,7 @@ author:
       url: "https://phd.julsraemy.ch"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://toot.io/@julsraemy"  
+      url: "https://hcommons.social/@julsraemy"  
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/julsraemy"
@@ -148,7 +148,7 @@ footer:
   links:
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://toot.io/@julsraemy"
+      url: "https://hcommons.social/@julsraemy"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
