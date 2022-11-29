@@ -56,7 +56,8 @@ permalink: /publications/
 
 ## Posts :computer:
 
-- MANZ, Marian Clemens, RAEMY, Julien Antoine, GAUVAIN, Béatrice, CHIQUET, Vera (2022). [Let's talk about standards – A write-up of a discussion on metadata standardization in the Digital Humanities][standards-dhch]. *DH-CH*. 18 January 2022
+- RAEMY, Julien Antoine, JUNG, John, and KUNZE, John (2022). [Images and the promise of ARKs with IIIF][ark-iiif]. *ARK Alliance*. 23 November 2022
+- MANZ, Marian Clemens, RAEMY, Julien Antoine, GAUVAIN, Béatrice, and CHIQUET, Vera (2022). [Let's talk about standards – A write-up of a discussion on metadata standardization in the Digital Humanities][standards-dhch]. *DH-CH*. 18 January 2022
 - RAEMY, Julien Antoine (2021). [IIIF: there is more than meets the eye][iiif-dhch]. *DH-CH*. 20 April 2021
 - RAEMY, Julien Antoine (2021). [New service: ARKetype][arks-arketype]. *ARK Alliance*. 20 January 2021
 - CEVEY, Matthieu and RAEMY, Julien Antoine 2020. [Ce Hub a plus d’une corde à son arc !][swisspidhub-post2]. *Recherche d’IdéeS*. 28 January 2020.
@@ -68,6 +69,7 @@ permalink: /publications/
 - November 2017: [Prix romand en bibliothéconomie][romand]
 
 [2022crkn]: https://doi.org/10.5281/zenodo.7139251
+[ark-iiif]: https://arks.org/blog/images-and-the-promise-of-arks-with-iiif/
 [arks-arketype]: https://arks.org/blog/new-service-arketype/
 [cnifallvideo]: https://www.youtube.com/watch?v=giw9stetjy8
 [cniprezi]: https://doi.org/10.5281/zenodo.4302427
