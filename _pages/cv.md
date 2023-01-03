@@ -16,7 +16,7 @@ permalink: /cv/
 
 Since February 2021: **Assistant and PhD Candidate in Digital Humanities**[^1] at the University of Basel, [Digital Humanities Lab][dhlab]
 
-- Current working title of the dissertation: "Linked Open Usable Data for Cultural Heritage: Perspectives on Semantics and Interoperability" [:link:][phd]
+- Current working title of the dissertation: "Linked Open Usable Data for Cultural Heritage and Digital Humanities: Perspectives on Semantics and Interoperability" [:link:][phd]
 - Fourth working title of the dissertation: "Linked Open Usable Data for Citizen Science: Perspectives on Interoperability and Knowledge Representation through and beyond an Actor-Network Theory Lens"
 - Third working title of the dissertation: "Deploying a Citizen Humanities infrastructure with Linked Open Usable Data (LOUD) standards: perspectives on Interoperability and Knowledge Representation"
 - Second working title of the dissertation: "Web-based standards for Citizen Science initiatives in the cultural heritage domain: from data modelling to deploying an open infrastructure"
