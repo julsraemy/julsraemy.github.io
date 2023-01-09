@@ -69,12 +69,12 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 #### International Image Interoperability Framework (IIIF) [:link:][iiif]
 
-- Since May 2020: IIIF Coordinating Committee Member
-- Since February 2019: IIIF [Technical Review Committee][trc] Member
+- Since May 2020: IIIF [Coordinating Committee (CoCo)][coco] Member
+- Since February 2019: IIIF [Technical Review Committee (TRC)][trc] Member
 - September 2017 - July 2020: IIIF [Code of Conduct][coc] Team Member
 - January 2018 - September 2019: IIIF [Outreach Community Group][outreach] Co-Chair
 
-#### Archival Resource Key (ARK) Alliance [:link:][aito]
+#### Archival Resource Key (ARK) Alliance [:link:][ark]
 *formerly "ARKs in the Open (AITO)"*
 
 - Since January 2020: ARK Alliance [Outreach Working Group][aito-outreach] Member
@@ -110,12 +110,13 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 [^1]: _PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / [Participatory Knowledge Practices in Analogue and Digital Image Archives][pia]" (PIA) funded by the Swiss National Science Foundation (SNSF)_
 
 [agbd]: https://www.agbd.ch/
-[aito]: https://wiki.lyrasis.org/display/ARKs/ARKs+in+the+Open+Project
+[arks]: https://arks.org/
 [aito-outreach]: https://wiki.lyrasis.org/display/ARKs/Outreach+Working+Group
 [amda]: http://www.ailleurs.ch/en/amda/
 [arketype]: https://www.arketype.ch/
 [bibliosuisse]: https://bibliosuisse.ch/
 [coc]: https://iiif.io/event/conduct/
+[coco]: https://iiif.io/community/coordinating-committee/
 [dasch]: https://dasch.swiss/
 [dhlab]: https://dhlab.philhist.unibas.ch/
 [fri-son]: https://fri-son.ch/
