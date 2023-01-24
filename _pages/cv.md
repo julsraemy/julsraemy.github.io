@@ -14,13 +14,10 @@ permalink: /cv/
 
 ### Experience :office:
 
-Since February 2021: **Assistant and PhD Candidate in Digital Humanities**[^1] at the University of Basel, [Digital Humanities Lab][dhlab]
+Since February 2021: **Assistant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab]
 
+- PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / [Participatory Knowledge Practices in Analogue and Digital Image Archives][pia]" (PIA) funded by the Swiss National Science Foundation (SNSF)
 - Current working title of the dissertation: "Linked Open Usable Data for Cultural Heritage and Digital Humanities: Perspectives on Semantics and Interoperability" [:link:][phd]
-- Fourth working title of the dissertation: "Linked Open Usable Data for Citizen Science: Perspectives on Interoperability and Knowledge Representation through and beyond an Actor-Network Theory Lens"
-- Third working title of the dissertation: "Deploying a Citizen Humanities infrastructure with Linked Open Usable Data (LOUD) standards: perspectives on Interoperability and Knowledge Representation"
-- Second working title of the dissertation: "Web-based standards for Citizen Science initiatives in the cultural heritage domain: from data modelling to deploying an open infrastructure"
-- First working title of the dissertation: "The role of open and interoperable standards in the dissemination of digital cultural heritage objects"
 
 Since February 2021: **Interoperability Specialist** at the [DaSCH, Swiss National Data and Service Center for the Humanities][dasch]
 - Representing DaSCH within the International Image Interoperability Framework (IIIF), notably through the Coordinating Committee and Technical Review Committee
@@ -104,7 +101,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 - 2005-2008: **Federal Diploma of Vocational Education and Training - Bookseller** ("Certificat fédéral de capacité de libraire") at the Ecole professionnelle commerciale de Lausanne (EPCL)
 
 
-[^1]: _PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / [Participatory Knowledge Practices in Analogue and Digital Image Archives][pia]" (PIA) funded by the Swiss National Science Foundation (SNSF)_
+
 
 [agbd]: https://www.agbd.ch/
 [arks]: https://arks.org/
