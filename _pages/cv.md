@@ -23,13 +23,10 @@ Since February 2021: **Assistant and PhD Candidate in Digital Humanities**[^1] a
 - First working title of the dissertation: "The role of open and interoperable standards in the dissemination of digital cultural heritage objects"
 
 Since February 2021: **Interoperability Specialist** at the [DaSCH, Swiss National Data and Service Center for the Humanities][dasch]
-- Representing DaSCH on the Coordinating Committee and Technical Review Committee of the International Image Interoperability Framework (IIIF).
-- Representing DaSCH within the Archival Resource Key (ARK) Alliance community, notably though the Outreach Working Group.
-- Raising awareness of the use of IIIF and ARK identifiers in the humanities and social sciences
-- Conducting an assessment of the tools developed by DaSCH in terms of compatibility and future upgrades in relation to the IIIF APIs and the broader IIIF ecosystem.
-- Promoting DaSCH through seminars, workshops and conferences as well as on social networks.
-- Writing papers and reports in collaboration with the rest of the DaSCH team on the topics of information interoperability, digital preservation, and linked open data.
-- Identifying further initiatives that DaSCH could engage in with a view to improving its infrastructure.
+- Representing DaSCH within the International Image Interoperability Framework (IIIF), notably through the Coordinating Committee and Technical Review Committee
+- Analysing and advising DaSCH on IIIF norms and APIs to be integrated into the DaSCH Service Platform (DSP)
+- Identifying and communicating potential synergies between the DHLab of the University of Basel and DaSCH
+- Conducting proofs of concept and reporting the results at relevant international conferences
 
 July 2020 - December 2020: **Knowledge Graph Engineer / IIIF Systems Architect** for the [Swiss Art Research Infrastructure (SARI)][sari] at the University of Zurich
 - Developing an overarching strategy for the integration of the International Image Interoperability Framework (IIIF) within the Swiss Art Research Infrastructure (SARI)
