@@ -30,7 +30,7 @@ permalink: /publications/
 ## Presentations :microphone:
 
 
-- RAEMY, Julien Antoine (2023). [The intersection of Archival Resource Keys (ARKs) and IIIF resources][ark-iiif-prezi]. *IIIF Community Call*. 25 January 2023
+- RAEMY, Julien Antoine (2023). [The intersection of Archival Resource Keys (ARKs) and IIIF resources][ark-iiif-prezi]. *IIIF Community Call*. 25 January 2023 [:video_camera:][ark-iiif-rec]
 - RAEMY, Julien Antoine and DEMLEITNER, Adrian (2022). [Implementation of the IIIF Presentation API 3.0 based on Software Support: Use Case of an Incremental IIIF Deployment within a Citizen Science Project][euromed2022-prezi]. *International Conference on Digital Heritage (EuroMed2022)*. Limassol, Cyprus. 7 November 2022. DOI: 10.5281/zenodo.7194021
 - CORNUT, Murielle and RAEMY, Julien Antoine (2022). [This photo shows my family home! How to make annotations of cultural heritage objects more accessible through IIIF][2022crkn]. *2022 CRKN Conference: Strength in Community*. Online Conference. 3 October 2022. DOI: 10.5281/zenodo.7139251
 - RAEMY, Julien Antoine (2022). [Améliorer la valorisation des données du patrimoine culturel grâce au Linked Open Usable Data (LOUD)][hnws2022-prezi]. *Humanités numériques et Web sémantique*. Archives Henri-Poincaré, Nancy, France. 21 June 2022. DOI: 10.5281/zenodo.6696205
@@ -73,6 +73,7 @@ permalink: /publications/
 [2022crkn]: https://doi.org/10.5281/zenodo.7139251
 [ark-iiif]: https://arks.org/blog/images-and-the-promise-of-arks-with-iiif/
 [ark-iiif-prezi]: https://julsraemy.ch/prezi/ark-iiif.html
+[ark-iiif-rec]: https://www.youtube.com/watch?v=it5LA3VRXpE
 [arks-arketype]: https://arks.org/blog/new-service-arketype/
 [cnifallvideo]: https://www.youtube.com/watch?v=giw9stetjy8
 [cniprezi]: https://doi.org/10.5281/zenodo.4302427
