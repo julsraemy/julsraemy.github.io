@@ -29,7 +29,7 @@ permalink: /publications/
 
 ## Presentations :microphone:
 
-
+- FELSING, Ulrike, FORNARO, Peter, FRISCHKNECHT, Max, RAEMY, Julien Antoine (2023). [Community and Interoperability at the Core of Sustaining Image Archives][dhnb23-prezi]. *Digital Humanities in the Nordic & Baltic Countries 2023 (DHNB 2023 — Sustainability: Environment, Community)*. 10 March 2023
 - RAEMY, Julien Antoine (2023). [The intersection of Archival Resource Keys (ARKs) and IIIF resources][ark-iiif-prezi]. *IIIF Community Call*. 25 January 2023 [:video_camera:][ark-iiif-rec]
 - RAEMY, Julien Antoine and DEMLEITNER, Adrian (2022). [Implementation of the IIIF Presentation API 3.0 based on Software Support: Use Case of an Incremental IIIF Deployment within a Citizen Science Project][euromed2022-prezi]. *International Conference on Digital Heritage (EuroMed2022)*. Limassol, Cyprus. 7 November 2022. DOI: 10.5281/zenodo.7194021
 - CORNUT, Murielle and RAEMY, Julien Antoine (2022). [This photo shows my family home! How to make annotations of cultural heritage objects more accessible through IIIF][2022crkn]. *2022 CRKN Conference: Strength in Community*. Online Conference. 3 October 2022. DOI: 10.5281/zenodo.7139251
@@ -79,6 +79,7 @@ permalink: /publications/
 [cniprezi]: https://doi.org/10.5281/zenodo.4302427
 [bibioinfo]: https://julsraemy.github.io/assets/doc/biblioinfo_4_2020_oai_pmh_europeana.pdf
 [dariahchposter]: https://doi.org/10.5281/zenodo.7015255
+[dhnb23-prezi]: https://doi.org/10.5281/zenodo.7690740
 [digitalverpackt]: https://doi.org/10.5281/zenodo.4043572
 [eccp]: https://doi.org/10.1007/978-3-030-71903-6_35
 [euromed2022-prezi]: https://doi.org/10.5281/zenodo.7194021
