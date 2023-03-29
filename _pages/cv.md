@@ -17,7 +17,7 @@ permalink: /cv/
 Since February 2021: **Assistant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab]
 
 - PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / [Participatory Knowledge Practices in Analogue and Digital Image Archives][pia]" (PIA) funded by the Swiss National Science Foundation (SNSF)
-- Current working title of the dissertation: "Linked Open Usable Data for Cultural Heritage: Perspectives on Semantics and Interoperability" [:link:][phd]
+- Current working title of the dissertation: "Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability" [:link:][phd]
 
 Since February 2021: **Interoperability Specialist** at the [DaSCH, Swiss National Data and Service Center for the Humanities][dasch]
 - Representing DaSCH within the International Image Interoperability Framework (IIIF), notably through the Coordinating Committee and Technical Review Committee
