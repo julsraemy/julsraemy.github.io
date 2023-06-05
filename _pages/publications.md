@@ -8,6 +8,7 @@ permalink: /publications/
 
 ## Articles :pencil:
 
+- RAEMY, Julien Antoine and GAUTSCHY, Rita (2023). [Élaboration d'un processus pour les images 3D reposant sur IIIF][humanistica2023-hal]. *Humanistica 2023*. Université de Genève, Geneva, Switzerland. June 2023.
 - RAEMY, J. A. (2022). [Améliorer la valorisation des données du patrimoine culturel grâce au Linked Open Usable Data (LOUD)][hnws2022-paper]. *Actes des journées humanités numériques et Web sémantique*. Nancy, France. In N. Lasolle, O. Bruneau & J. Lieber (Eds.), p. 132-149. DOI: 10.5281/zenodo.7014341
 - RAEMY, J. A. (2021). [*Applying Effective Data Modelling Approaches for the Creation of a Participatory Archive Platform*][dhsemepfl2021-paper]. Human Factors in Digital Humanities (PhD Seminar). Ecole Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland. 16 December 2021.
 - FREIRE, Nuno, MEIJERS, Enno, DE VALK, Sjors, RAEMY, Julien Antoine, ISAAC, Antoine (2021). [*Metadata Aggregation via Linked Data: Results of the Europeana Common Culture Project*][eccp]. In GAROUFALLOU E., OVALLE-PERANDONES, M.-A. (Eds.). Metadata and Semantic Research. MTSR 2020. Communications in Computer and Information Science, vol 1355 (pp. 383–394). 2021
@@ -24,6 +25,7 @@ permalink: /publications/
 - RAEMY, Julien Antoine, FORNARO, Peter and ROSENTHALER, Lukas (2017). [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 2017, no. 1, p. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68.
 
 ## Scientific posters :scroll:
+- RAEMY, Julien Antoine and GAUTSCHY, Rita (2023). [Élaboration d'un processus pour les images 3D reposant sur IIIF][humanistica2023-poster]. *Humanistica 2023*. Université de Genève, Geneva, Switzerland. 28 June 2023. DOI 10.5281/zenodo.7927861
 - RAEMY, Julien Antoine (2022). [Back and Forth from Boundary Objects to IIIF resources: The Recipes of a Community-driven Initiative Specifying Standards][dariahchposter]. *DARIAH-CH Study Day*. Università della Svizzera Italiana (USI), Mendrisio, Switzerland. 20 October 2022. DOI 10.5281/zenodo.7015255
 - CEVEY, Matthieu and RAEMY, Julien Antoine (2019). [Swiss PID Hub : création d’un Hub pour la gestion des identifiants pérennes en Suisse][hub-poster]. *Session des posters scientifiques*. Scientific poster. Haute école de gestion de Genève, Geneva, Switzerland. 12 December 2019. DOI 10.5281/zenodo.3551008
 
@@ -85,6 +87,8 @@ permalink: /publications/
 [euromed2022-prezi]: https://doi.org/10.5281/zenodo.7194021
 [hnws2022-prezi]: https://doi.org/10.5281/zenodo.6696205
 [hnws2022-paper]: https://doi.org/10.5451/unibas-ep89725
+[humanistica2023-hal]: https://hal.science/hal-04099506
+[humanistica2023-poster]: https://doi.org/10.5281/zenodo.7927861
 [iiif-dhch]: https://www.dh-ch.ch/blog/posts/iiif:-there-is-more-than-meets-the-eye.html
 [iiif-2022]: https://doi.org/10.5281/zenodo.6595132
 [iiif-2022-rec]: https://youtu.be/5ZzgOvBpKL4?t=5544
