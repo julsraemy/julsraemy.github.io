@@ -31,6 +31,8 @@ permalink: /publications/
 
 ## Presentations :microphone:
 
+- MANZ, Marian Clemens, RAEMY, Julien Antoine, FORNARO, Peter (2023). [Recommended 3D Workflow for Digital Heritage Practices][archiving2023-prezi]. *Archiving 2023*. Oslo, Norway. 20 June 2023. DOI: 10.5281/zenodo.7870044
+- RAEMY, Julien Antoine (2023). [The LOUD Social Fabrics of IIIF][2023iiif-prezi]. *2023 IIIF Conference*. Naples, Italy, 8 June 2023. DOI: 10.5281/zenodo.7870044
 - FELSING, Ulrike, FORNARO, Peter, FRISCHKNECHT, Max, RAEMY, Julien Antoine (2023). [Community and Interoperability at the Core of Sustaining Image Archives][dhnb23-prezi]. *Digital Humanities in the Nordic & Baltic Countries 2023 (DHNB 2023 — Sustainability: Environment, Community)*. 10 March 2023
 - RAEMY, Julien Antoine (2023). [The intersection of Archival Resource Keys (ARKs) and IIIF resources][ark-iiif-prezi]. *IIIF Community Call*. 25 January 2023 [:video_camera:][ark-iiif-rec]
 - RAEMY, Julien Antoine and DEMLEITNER, Adrian (2022). [Implementation of the IIIF Presentation API 3.0 based on Software Support: Use Case of an Incremental IIIF Deployment within a Citizen Science Project][euromed2022-prezi]. *International Conference on Digital Heritage (EuroMed2022)*. Limassol, Cyprus. 7 November 2022. DOI: 10.5281/zenodo.7194021
@@ -72,7 +74,9 @@ permalink: /publications/
 
 - November 2017: [Prix romand en bibliothéconomie][romand]
 
+[archiving2023-prezi]: https://doi.org/10.5281/zenodo.7870044
 [2022crkn]: https://doi.org/10.5281/zenodo.7139251
+[2023iiif-prezi]: https://doi.org/10.5281/zenodo.7825410
 [ark-iiif]: https://arks.org/blog/images-and-the-promise-of-arks-with-iiif/
 [ark-iiif-prezi]: https://julsraemy.ch/prezi/ark-iiif.html
 [ark-iiif-rec]: https://www.youtube.com/watch?v=it5LA3VRXpE
