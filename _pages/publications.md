@@ -25,14 +25,16 @@ permalink: /publications/
 - RAEMY, Julien Antoine, FORNARO, Peter and ROSENTHALER, Lukas (2017). [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 2017, no. 1, p. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68.
 
 ## Scientific posters :scroll:
-- RAEMY, Julien Antoine and GAUTSCHY, Rita (2023). [Élaboration d'un processus pour les images 3D reposant sur IIIF][humanistica2023-poster]. *Humanistica 2023*. Université de Genève, Geneva, Switzerland. 28 June 2023. DOI 10.5281/zenodo.7927861
+- RAEMY, Julien Antoine, GRAY, Tanya, COLLINSON, Alwyn and PAGE, Kevin R. (2023). [Enabling Participatory Data Perspectives for Image Archives through a Linked Art Workflow][dh2023-poster]. *Digital Humanities 2023*. Graz, Austria. DOI: 10.5281/zenodo.7878358
+- RAEMY, Julien Antoine and GAUTSCHY, Rita (2023). [Élaboration d'un processus pour les images 3D reposant sur IIIF][humanistica2023-poster]. *Colloque Humanistica 2023*. Université de Genève, Geneva, Switzerland. 28 June 2023. DOI 10.5281/zenodo.7927861
 - RAEMY, Julien Antoine (2022). [Back and Forth from Boundary Objects to IIIF resources: The Recipes of a Community-driven Initiative Specifying Standards][dariahchposter]. *DARIAH-CH Study Day*. Università della Svizzera Italiana (USI), Mendrisio, Switzerland. 20 October 2022. DOI 10.5281/zenodo.7015255
 - CEVEY, Matthieu and RAEMY, Julien Antoine (2019). [Swiss PID Hub : création d’un Hub pour la gestion des identifiants pérennes en Suisse][hub-poster]. *Session des posters scientifiques*. Scientific poster. Haute école de gestion de Genève, Geneva, Switzerland. 12 December 2019. DOI 10.5281/zenodo.3551008
 
 ## Presentations :microphone:
 
+- RAEMY, Julien Antoine (2023). [Les données ouvertes liées et utilisables (LOUD): Les protocoles IIIF et Linked Art][humanistica2023-tableronde]. In: CARBONI, Nicola, LINI, Gabriela, and BARRAS, Marie. Ouvrir les musées au(x) numérique(s) (Table ronde). *Colloque Humanistica 2023*. Musée d'Art et d'Histoire de Genève, Geneva, Switzerland. 26 June 2023. DOI: 10.5281/zenodo.8027954
 - MANZ, Marian Clemens, RAEMY, Julien Antoine, FORNARO, Peter (2023). [Recommended 3D Workflow for Digital Heritage Practices][archiving2023-prezi]. *Archiving 2023*. Oslo, Norway. 20 June 2023. DOI: 10.5281/zenodo.7870044
-- RAEMY, Julien Antoine (2023). [The LOUD Social Fabrics of IIIF][2023iiif-prezi]. *2023 IIIF Conference*. Naples, Italy, 8 June 2023. DOI: 10.5281/zenodo.7870044
+- RAEMY, Julien Antoine (2023). [The LOUD Social Fabrics of IIIF][2023iiif-prezi]. *2023 IIIF Conference*. Naples, Italy, 8 June 2023. DOI: 10.5281/zenodo.7870044 [:video_camera:][2023iiif-rec]
 - FELSING, Ulrike, FORNARO, Peter, FRISCHKNECHT, Max, RAEMY, Julien Antoine (2023). [Community and Interoperability at the Core of Sustaining Image Archives][dhnb23-prezi]. *Digital Humanities in the Nordic & Baltic Countries 2023 (DHNB 2023 — Sustainability: Environment, Community)*. 10 March 2023
 - RAEMY, Julien Antoine (2023). [The intersection of Archival Resource Keys (ARKs) and IIIF resources][ark-iiif-prezi]. *IIIF Community Call*. 25 January 2023 [:video_camera:][ark-iiif-rec]
 - RAEMY, Julien Antoine and DEMLEITNER, Adrian (2022). [Implementation of the IIIF Presentation API 3.0 based on Software Support: Use Case of an Incremental IIIF Deployment within a Citizen Science Project][euromed2022-prezi]. *International Conference on Digital Heritage (EuroMed2022)*. Limassol, Cyprus. 7 November 2022. DOI: 10.5281/zenodo.7194021
@@ -77,6 +79,7 @@ permalink: /publications/
 [archiving2023-prezi]: https://doi.org/10.5281/zenodo.7870044
 [2022crkn]: https://doi.org/10.5281/zenodo.7139251
 [2023iiif-prezi]: https://doi.org/10.5281/zenodo.7825410
+[2023iiif-rec]: https://youtu.be/3Hnagx6TlEM
 [ark-iiif]: https://arks.org/blog/images-and-the-promise-of-arks-with-iiif/
 [ark-iiif-prezi]: https://julsraemy.ch/prezi/ark-iiif.html
 [ark-iiif-rec]: https://www.youtube.com/watch?v=it5LA3VRXpE
@@ -86,6 +89,7 @@ permalink: /publications/
 [bibioinfo]: https://julsraemy.github.io/assets/doc/biblioinfo_4_2020_oai_pmh_europeana.pdf
 [dariahchposter]: https://doi.org/10.5281/zenodo.7015255
 [dhnb23-prezi]: https://doi.org/10.5281/zenodo.7690740
+[dh2023-poster]: https://doi.org/10.5281/zenodo.7878358
 [digitalverpackt]: https://doi.org/10.5281/zenodo.4043572
 [eccp]: https://doi.org/10.1007/978-3-030-71903-6_35
 [euromed2022-prezi]: https://doi.org/10.5281/zenodo.7194021
@@ -93,6 +97,7 @@ permalink: /publications/
 [hnws2022-paper]: https://doi.org/10.5451/unibas-ep89725
 [humanistica2023-hal]: https://hal.science/hal-04099506
 [humanistica2023-poster]: https://doi.org/10.5281/zenodo.7927861
+[humanistica2023-tableronde]: https://doi.org/10.5281/zenodo.8027954
 [iiif-dhch]: https://www.dh-ch.ch/blog/posts/iiif:-there-is-more-than-meets-the-eye.html
 [iiif-2022]: https://doi.org/10.5281/zenodo.6595132
 [iiif-2022-rec]: https://youtu.be/5ZzgOvBpKL4?t=5544
