@@ -54,10 +54,10 @@ For instance, static images or audiovisual resources (since version 3 of the III
 
 Anyway, I just wanted to point out that you can implement either or both APIs, even if as a IIIF advocate, I agree that implementing both core APIs is convenient and a well-established practice in the cultural heritage field.
 
-[^1]: Branco, D., Amato, A., Venticinque, S., & Aversa, R. (2023). Agents Based Cyber-Physical Diffused Museums Over Web Interoperability Standards. _IEEE Access, 11_, 44107–44122. https://doi.org/10.1109/ACCESS.2023.3272641
+[^1]: Branco, D., Amato, A., Venticinque, S., & Aversa, R. (2023). Agents Based Cyber-Physical Diffused Museums Over Web Interoperability Standards. _IEEE Access, 11_, 44107–44122. [https://doi.org/10.1109/ACCESS.2023.3272641](https://doi.org/10.1109/ACCESS.2023.3272641)
 
-[^2]: Raemy, J. A. (2017). _The International Image Interoperability Framework (IIIF): Raising awareness of the user benefits for scholarly editions_ [Bachelor’s thesis, Haute école de gestion de Genève]. https://sonar.ch/hesso/documents/314853
+[^2]: Raemy, J. A. (2017). _The International Image Interoperability Framework (IIIF): Raising awareness of the user benefits for scholarly editions_ [Bachelor’s thesis, Haute école de gestion de Genève]. [https://sonar.ch/hesso/documents/314853](https://sonar.ch/hesso/documents/314853)
 
-[^3]: Pitta, C. P. C. (2023). _Implementing the International Image Interoperability Framework (IIIF) for accessibility and reuse of cultural heritage resources on the web – Challenges and Advantages_ [Master’s thesis, Universidade NOVA de Lisboa]. http://hdl.handle.net/10362/154579
+[^3]: Pitta, C. P. C. (2023). _Implementing the International Image Interoperability Framework (IIIF) for accessibility and reuse of cultural heritage resources on the web – Challenges and Advantages_ [Master’s thesis, Universidade NOVA de Lisboa]. [http://hdl.handle.net/10362/154579](http://hdl.handle.net/10362/154579)
 
-[^4]: Raemy, J. A. (2020). _Enabling better aggregation and discovery of cultural heritage content for Europeana and its partner institutions_ [Master’s thesis, HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève]. https://sonar.ch/hesso/documents/315109
+[^4]: Raemy, J. A. (2020). _Enabling better aggregation and discovery of cultural heritage content for Europeana and its partner institutions_ [Master’s thesis, HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève]. [https://sonar.ch/hesso/documents/315109](https://sonar.ch/hesso/documents/315109)
