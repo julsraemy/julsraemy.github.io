@@ -17,7 +17,7 @@ tags:
   - Citation
   - Academia
   - IIIF
-date: 2023-07-03 11:25:42 +0100
+date: 2023-07-03 10:25:42 +0100
 ---
 
 ## Being (correctly) cited
