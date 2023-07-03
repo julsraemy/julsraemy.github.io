@@ -38,7 +38,7 @@ Of course, this makes me smile and it will be another (at least) two years befor
 
 ### Conjunction(s)
 
-On page 22 of Pitta's master's thesis[^3], she wrotes the following:
+On page 22 of Pitta's master's thesis[^3], she wrote the following:
 
 > The IIIF presentation API only works in combination with the Image API, since in order to implement the IIIF presentation API, institutions must implement the Image API (Raemy, 2020, p.37). Raemy confirms this since he found that all the institutions that implemented the IIIF presentation API also had implemented the Image API (Raemy, 2020, p.37).  
 
@@ -52,7 +52,11 @@ For instance, static images or audiovisual resources (since version 3 of the III
 
 > In the well established principle of doing one thing well, IIIF specifications should address their own area of concern and be loosely coupled rather than tightly bound together. This allows for independent implementation and tooling, and simplifies the process for deployment by adopters and API updates by the community. For example, it is possible to implement the Image API without the Presentation API and vice versa. A counter example is that the Search API is necessarily more tightly linked to the Presentation API.
 
-Anyway, I just wanted to point out that you can implement either or both APIs, even if as a IIIF advocate, I agree that implementing both core APIs is convenient and a well-established practice in the cultural heritage field.
+### In a nutshell
+
+Anyway, I just wanted to point out that I haven't yet finished my PhD and that you can implement either or both APIs, even if as a IIIF advocate, I agree that implementing both core APIs is convenient and a well-established practice in the cultural heritage field.
+
+In any case, I don't want to blame anyone and I'm sure that I've misquoted others already. 
 
 [^1]: Branco, D., Amato, A., Venticinque, S., & Aversa, R. (2023). Agents Based Cyber-Physical Diffused Museums Over Web Interoperability Standards. _IEEE Access, 11_, 44107–44122. [https://doi.org/10.1109/ACCESS.2023.3272641](https://doi.org/10.1109/ACCESS.2023.3272641)
 
