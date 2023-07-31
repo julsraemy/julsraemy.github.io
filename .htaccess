@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^assets/doc/Mastersthesis_europeana_raemyjulien_FV.pdf$ https://sonar.ch/hesso/documents/315109 [R=301,L]
