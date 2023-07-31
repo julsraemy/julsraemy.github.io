@@ -86,7 +86,7 @@ permalink: /publications/
 [arks-arketype]: https://arks.org/blog/new-service-arketype/
 [cnifallvideo]: https://www.youtube.com/watch?v=giw9stetjy8
 [cniprezi]: https://doi.org/10.5281/zenodo.4302427
-[bibioinfo]: https://julsraemy.github.io/assets/doc/biblioinfo_4_2020_oai_pmh_europeana.pdf
+[bibioinfo]: https://www.researchgate.net/publication/372768635_Vers_la_fin_d'OAI-PMH_pour_Europeana
 [dariahchposter]: https://doi.org/10.5281/zenodo.7015255
 [dhnb23-prezi]: https://doi.org/10.5281/zenodo.7690740
 [dh2023-poster]: https://doi.org/10.5281/zenodo.7878358
