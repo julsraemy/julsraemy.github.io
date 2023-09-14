@@ -8,6 +8,7 @@ permalink: /publications/
 
 ## Articles :pencil:
 
+- MANZ, Marian Clemens, RAEMY, Julien Antoine and FORNARO, Peter (2023). [Recommended 3D Workflow for Digital Heritage Practices][archiving2023-paper]. *Archiving Conference*, 20, pp. 23–28. DOI: 10.2352/issn.2168-3204.2023.20.1.5
 - RAEMY, Julien Antoine and GAUTSCHY, Rita (2023). [Élaboration d'un processus pour les images 3D reposant sur IIIF][humanistica2023-hal]. *Humanistica 2023*. Université de Genève, Geneva, Switzerland. June 2023.
 - RAEMY, J. A. (2022). [Améliorer la valorisation des données du patrimoine culturel grâce au Linked Open Usable Data (LOUD)][hnws2022-paper]. *Actes des journées humanités numériques et Web sémantique*. Nancy, France. In N. Lasolle, O. Bruneau & J. Lieber (Eds.), p. 132-149. DOI: 10.5281/zenodo.7014341
 - RAEMY, J. A. (2021). [*Applying Effective Data Modelling Approaches for the Creation of a Participatory Archive Platform*][dhsemepfl2021-paper]. Human Factors in Digital Humanities (PhD Seminar). Ecole Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland. 16 December 2021.
@@ -22,7 +23,7 @@ permalink: /publications/
 - RAEMY, Julien Antoine (2017). [Interopérabilité des images : de la nécessité des tests d’utilisabilité][ressi1]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
 - RAEMY, Julien Antoine (2017). [Retour sur la conférence IIIF (International Image Interoperability Framework), 7-9 juin 2017 au Vatican][ressi2]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
 - RAEMY, Julien Antoine (2017). [*The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions*][tb]. Bachelor’s thesis. Geneva, Switzerland : HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève, 2020.
-- RAEMY, Julien Antoine, FORNARO, Peter and ROSENTHALER, Lukas (2017). [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 2017, no. 1, p. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68.
+- RAEMY, Julien Antoine, FORNARO, Peter and ROSENTHALER, Lukas (2017). [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 14, no. 1, pp. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68.
 
 ## Scientific posters :scroll:
 - RAEMY, Julien Antoine, GRAY, Tanya, COLLINSON, Alwyn and PAGE, Kevin R. (2023). [Enabling Participatory Data Perspectives for Image Archives through a Linked Art Workflow][dh2023-poster]. *Digital Humanities 2023*. Graz, Austria. DOI: 10.5281/zenodo.7878358
@@ -76,6 +77,7 @@ permalink: /publications/
 
 - November 2017: [Prix romand en bibliothéconomie][romand]
 
+[archiving2023-paper]: https://doi.org/10.2352/issn.2168-3204.2023.20.1.5
 [archiving2023-prezi]: https://doi.org/10.5281/zenodo.7870044
 [2022crkn]: https://doi.org/10.5281/zenodo.7139251
 [2023iiif-prezi]: https://doi.org/10.5281/zenodo.7825410
