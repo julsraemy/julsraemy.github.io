@@ -8,7 +8,7 @@ permalink: /publications/
 
 ## Articles :pencil:
 
-- FELSING, Ulrike, FORNARO, Peter, FRISCHKNECHT, Max, and RAEMY, Julien Antoine (2023).[Community and Interoperability at the Core of Sustaining Image Archives][dhnb2023-paper]. *DHNB2023 Conference Proceedings*. October 2023. 5(1), 40-54.
+- FELSING, Ulrike, FORNARO, Peter, FRISCHKNECHT, Max, and RAEMY, Julien Antoine (2023). [Community and Interoperability at the Core of Sustaining Image Archives][dhnb2023-paper]. *DHNB2023 Conference Proceedings*. October 2023. 5(1), 40-54. DOI: 10.5617/dhnbpub.10649
 - CORNUT, Murielle, RAEMY, Julien Antoine, and SPIESS, Florian (2023). [Annotations as Knowledge Practices in Image Archives: Application of Linked Open Usable Data and Machine Learning][jocch-aeolian]. *Journal on Computing and Cultural Heritage*. September 2023. DOI: 10.1145/3625301
 - MANZ, Marian Clemens, RAEMY, Julien Antoine and FORNARO, Peter (2023). [Recommended 3D Workflow for Digital Heritage Practices][archiving2023-paper]. *Archiving Conference*, 20, pp. 23–28. DOI: 10.2352/issn.2168-3204.2023.20.1.5
 - RAEMY, Julien Antoine and GAUTSCHY, Rita (2023). [Élaboration d'un processus pour les images 3D reposant sur IIIF][humanistica2023-hal]. *Humanistica 2023*. Université de Genève, Geneva, Switzerland. June 2023.
@@ -92,7 +92,7 @@ permalink: /publications/
 [cniprezi]: https://doi.org/10.5281/zenodo.4302427
 [bibioinfo]: https://www.researchgate.net/publication/372768635_Vers_la_fin_d'OAI-PMH_pour_Europeana
 [dariahchposter]: https://doi.org/10.5281/zenodo.7015255
-[dhnb2023-paper]: https://journals.uio.no/dhnbpub/article/view/10649
+[dhnb2023-paper]: https://doi.org/10.5617/dhnbpub.10649
 [dhnb23-prezi]: https://doi.org/10.5281/zenodo.7690740
 [dh2023-poster]: https://doi.org/10.5281/zenodo.7878358
 [digitalverpackt]: https://doi.org/10.5281/zenodo.4043572
