@@ -35,6 +35,8 @@ permalink: /publications/
 
 ## Presentations :microphone:
 
+- RAEMY, Julien Antoine (2024). [LOUD : Catalyseur de Convergence][cihn24-prezi]. *Conférence internationale sur les humanités numériques (CIHN24)*. Haute école de gestion de Genève, Carouge, Switzerland. 13 February 2024. DOI 10.5281/zenodo.10526541
+- RAEMY, Julien Antoine (2023). [Interconnected Resources on the Web: Unveiling Cultural Heritage through Linked Open Usable Data][g3s-noon]. *G3S Noon Talk*. 19 December 2023. 
 - RAEMY, Julien Antoine (2023). [Les données ouvertes liées et utilisables (LOUD): Les protocoles IIIF et Linked Art][humanistica2023-tableronde]. In: CARBONI, Nicola, LINI, Gabriela, and BARRAS, Marie. Ouvrir les musées au(x) numérique(s) (Table ronde). *Colloque Humanistica 2023*. Musée d'Art et d'Histoire de Genève, Geneva, Switzerland. 26 June 2023. DOI: 10.5281/zenodo.8027954
 - MANZ, Marian Clemens, RAEMY, Julien Antoine, FORNARO, Peter (2023). [Recommended 3D Workflow for Digital Heritage Practices][archiving2023-prezi]. *Archiving 2023*. Oslo, Norway. 20 June 2023. DOI: 10.5281/zenodo.7870044
 - RAEMY, Julien Antoine (2023). [The LOUD Social Fabrics of IIIF][2023iiif-prezi]. *2023 IIIF Conference*. Naples, Italy, 8 June 2023. DOI: 10.5281/zenodo.7870044 [:video_camera:][2023iiif-rec]
@@ -91,6 +93,7 @@ permalink: /publications/
 [cnifallvideo]: https://www.youtube.com/watch?v=giw9stetjy8
 [cniprezi]: https://doi.org/10.5281/zenodo.4302427
 [bibioinfo]: https://www.researchgate.net/publication/372768635_Vers_la_fin_d'OAI-PMH_pour_Europeana
+[cihn24-prezi]: https://zenodo.org/doi/10.5281/zenodo.10526541
 [dariahchposter]: https://doi.org/10.5281/zenodo.7015255
 [dhnb2023-paper]: https://doi.org/10.5617/dhnbpub.10649
 [dhnb23-prezi]: https://doi.org/10.5281/zenodo.7690740
@@ -98,6 +101,7 @@ permalink: /publications/
 [digitalverpackt]: https://doi.org/10.5281/zenodo.4043572
 [eccp]: https://doi.org/10.1007/978-3-030-71903-6_35
 [euromed2022-prezi]: https://doi.org/10.5281/zenodo.7194021
+[g3s-noon]: https://julsraemy.ch/prezi/noon-talk-loud.html
 [hnws2022-prezi]: https://doi.org/10.5281/zenodo.6696205
 [hnws2022-paper]: https://doi.org/10.5451/unibas-ep89725
 [humanistica2023-hal]: https://hal.science/hal-04099506
