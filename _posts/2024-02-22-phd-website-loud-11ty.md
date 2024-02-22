@@ -1,6 +1,8 @@
 ---
 title: "PhD Website: LOUD for Cultural Heritage – now running with 11ty"
 excerpt: "I have redesigned my PhD Website – Linked Open Usable Data for Cultural Heritage (https://phd.julsraemy.ch) – with 11ty, a static site generator, instead of Omeka S."
+toc: true
+toc_label: "Table of Contents"
 categories:
   - posts
 tags:
