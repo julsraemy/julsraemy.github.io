@@ -25,7 +25,7 @@ Omeka S, an open source publishing platform,  has been a staple in the GLAM (gal
 
 ### The Appeal of 11ty
 
-The decision to use 11ty as the basis for my PhD website was driven by its simplicity, speed and flexibility. 11ty stands out for its minimalist approach to static site creation, prioritising performance and developer experience. Unlike traditional content management systems, which often come with a steep learning curve and bloated features, 11ty offers a streamlined, straightforward development process. One of the key advantages of 11ty is its flexibility in handling different types of input files - Markdown, HTML, Nunjucks and more - allowing for a highly adaptable content structure. 
+The decision to use Eleventy (11ty) as the basis for my PhD website was driven by its simplicity, speed and flexibility. 11ty stands out for its minimalist approach to static site creation, prioritising performance and developer experience. Unlike traditional content management systems, which often come with a steep learning curve and bloated features, 11ty offers a streamlined, straightforward development process. One of the key advantages of 11ty is its flexibility in handling different types of input files - Markdown, HTML, Nunjucks and more - allowing for a highly adaptable content structure. 
 
 11ty's build process is fairly efficient, resulting in fast-loading pages that improve site accessibility and user engagement. Its support for modern web development practices, including seamless integration with various front-end tools and pre-processors.
 
