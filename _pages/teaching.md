@@ -8,8 +8,9 @@ permalink: /teaching/
 
 ## Lectures
 
-- 2022: *IIIF* - A four-hour course on IIIF given with Elias Kreyenbühl (ZB Lab) in the context of the Master of Advanced Study (MAS) Bibliotheks- und Informationswissenschaft (BIW), University of Zürich and ZB Zürich [:link:][mas-biw]
-- 2021, 2022: *IIIF* - An height-hour course on IIIF given with Elias Kreyenbühl (ZB Lab) in the context of the Certificate of Advanced Study (CAS) Datenmanagement und Informationstechnologien (DMIT), University of Zürich and ZB Zürich [:link:][cas-dmit]
+- 2023-2024: *Introduction to Open Data* – A sixteen-hour course on Open Data given in the context of the Bachelor of Information Science, HES-SO University of Applied Sciences and Arts of Western Switzerland, Haute école de gestion de Genève [:link:][heg-is]
+- 2021-2023, 2023-2025: *IIIF* - A four-hour course on IIIF given with Elias Kreyenbühl (ZB Lab) in the context of the Master of Advanced Study (MAS) Bibliotheks- und Informationswissenschaft (BIW), University of Zürich and ZB Zürich [:link:][mas-biw]
+- 2021, 2022, 2023, 2024: *IIIF* - An height-hour course on IIIF given with Elias Kreyenbühl (ZB Lab) in the context of the Certificate of Advanced Study (CAS) Datenmanagement und Informationstechnologien (DMIT), University of Zürich and ZB Zürich [:link:][cas-dmit]
 
 ## Conducted workshops
 
@@ -22,13 +23,16 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ## Events
 
+- 25 and 26 October 2023: *DaSCHCon on IIIF, 3D & Interoperability* and *IIIF 3D Working Meeting* [:link:][daschcon]
 - 15 May 2019: *Bern IIIF Showcase Event* - presentations, moderation and organization of the event at the Swiss National Library as part of the TICKS project [:link:][bern-iiif]
-- 21 June 2018: *Data Professionals Day* - presentation, moderation of questions and organization of the half-day event with Professor René Schneider as part of the 100th anniversary of training in Information sciences in Geneva (_100 ID_) [:link:][100id-dpd]
+- 21 June 2018: *Data Professionals Day* - presentation, moderation of questions and organization of the half-day event with Professor René Schneider as part of the 100th anniversary of training in Information Science in Geneva (_100 ID_) [:link:][100id-dpd]
 
 [100id-dpd]: https://www.hesge.ch/heg/100id-programme
 [bern-iiif]: https://campus.hesge.ch/id_bilingue/projekte/ticks/bern-iiif-showcase-event_fr.html
 [bibliosuisse]: https://bibliosuisse.ch/
 [cas-dmit]: https://www.biw.uzh.ch/de/casdmit.html
+[heg-is]: https://www.hesge.ch/heg/formations/bachelors/information-science
+[daschcon]: https://www.dasch.swiss/post/daschcon-on-iiif-3d-interoperability
 [hsp]: https://handschriftenportal.de/
 [mas-biw]: https://www.biw.uzh.ch/de/masbiw.html
 [ufo]: https://www.fhgr.ch/fhgr/angewandte-zukunftstechnologien/schweizerisches-institut-fuer-informationswissenschaft-sii/projekte/ufo/

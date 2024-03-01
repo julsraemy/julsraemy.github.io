@@ -20,7 +20,7 @@ permalink: /projects/
 
 *Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA)* - Swiss National Science Foundation (SNSF) Sinergia funded project [:link:][pia]
 
-My [PhD thesis][phd] is being carried out as part of the PIA project.
+My [PhD thesis][phd] – Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability – is being carried out as part of the PIA research project.
 
 ### BSO
 *Bilder der Schweiz Online (BSO)* - funded by the Stiftung Familie Fehlmann [:link:][bso]
@@ -37,7 +37,7 @@ My [PhD thesis][phd] is being carried out as part of the PIA project.
 
 *Identités de confiance pour les données de l’art et du design* (ICOPAD) [:link:][icopad]
 
-[^1]: I was only involved between July and December 2020 on the BSO project before deciding to start a PhD at the University of Basel.
+[^1]: I was only involved between July and December 2020 on the BSO project before deciding to start a PhD in Digital Humanities at the University of Basel.
 
 [bso]: https://www.bilder-der-schweiz.online/
 [icopad]: https://campus.hesge.ch/id_bilingue/projekte/icopad/index_fr.asp
