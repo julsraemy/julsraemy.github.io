@@ -6,9 +6,13 @@ toc_label: Table of Contents
 permalink: /cv/
 ---
 
-## Summary (ld;dr)
+## Summary (tl;dr)
 
-[Julien Antoine Raemy][name] (he/him) works as a Project Assistant and Doctoral Student at the Digital Humanities Lab of the University of Basel as well as Interoperability Specialist for DaSCH, the Swiss National Data and Service Center for the Humanities. Within the Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA) research project, he is involved in the extension of the data infrastructure, the uptake of the International Image Interoperability Framework (IIIF) as well as designing the data model. He obtained a BSc (2017) and a MSc in Information Science (2020) from the Haute école de gestion de Genève (HEG-GE). He previously worked as a Research and Teaching Assistant in Information Science at the HEG-GE (2017-2021), as IIIF Systems Architect for the Swiss Art Research Infrastructure (SARI) coordinated at the University of Zürich (2020) as well as Photo Archivist at the Ecole Polytechnique Fédérale de Lausanne (EPFL) in the context of the Montreux Jazz Digital Project (2015-2017). Furthermore, he is a member of the IIIF Technical Review Committee and the IIIF Coordinating Committee as well as being an active member of the Archival Resource Key (ARK) Alliance.
+[Julien Antoine Raemy][name] (he/him) works as a Project Assistant and Doctoral Student at the Digital Humanities Lab of the University of Basel as well as Interoperability Specialist for DaSCH, the Swiss National Data and Service Center for the Humanities. Within the Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA) research project, he is involved in the extension of the data infrastructure, the uptake of the International Image Interoperability Framework (IIIF) as well as designing the data model. Julien is currently writing his PhD thesis on Linked Open Usable Data (LOUD) for Cultural Heritage. 
+
+He obtained a BSc (2017) and a MSc in Information Science (2020) from the Haute école de gestion de Genève (HEG-GE), which is part of the University of Applied Sciences and Arts of Western Switzerland (HES-SO). He previously worked as a Research and Teaching Assistant in Information Science at the HEG-GE (2017-2021), as IIIF Systems Architect for the Swiss Art Research Infrastructure (SARI) coordinated at the University of Zürich (2020) as well as Photo Archivist at the Ecole Polytechnique Fédérale de Lausanne (EPFL) in the context of the Montreux Jazz Digital Project (2015-2017).
+
+Furthermore, he is an active member of the IIIF community, notably serving on the Technical Review Committee (TRC) and the Coordinating Committee (CoCo). He is also involved in the Archival Resource Key (ARK) Alliance.
 
 ## Curriculum vitae 
 
