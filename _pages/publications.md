@@ -37,6 +37,7 @@ permalink: /publications/
 
 - RAEMY, Julien Antoine (2024). [LOUD : Catalyseur de Convergence][cihn24-prezi]. *Conférence internationale sur les humanités numériques (CIHN24)*. Haute école de gestion de Genève, Carouge, Switzerland. 13 February 2024. DOI 10.5281/zenodo.10526541
 - RAEMY, Julien Antoine (2023). [Interconnected Resources on the Web: Unveiling Cultural Heritage through Linked Open Usable Data][g3s-noon]. *G3S Noon Talk*. 19 December 2023. 
+- RAEMY, Julien Antoine (2023). [Créer des API ouvertes : les pratiques et le tissu social des communautés IIIF et Linked Art][libreabc-prezi]. *LibreABC – Journée des logiciels libres en Archives, Bibliothèques et Centres de documentation*. Musée d'ethnographie de Genève, Geneva, Switzerland. 31 August 2023. [:video_camera:][libreabc-rec]
 - RAEMY, Julien Antoine (2023). [Les données ouvertes liées et utilisables (LOUD): Les protocoles IIIF et Linked Art][humanistica2023-tableronde]. In: CARBONI, Nicola, LINI, Gabriela, and BARRAS, Marie. Ouvrir les musées au(x) numérique(s) (Table ronde). *Colloque Humanistica 2023*. Musée d'Art et d'Histoire de Genève, Geneva, Switzerland. 26 June 2023. DOI: 10.5281/zenodo.8027954
 - MANZ, Marian Clemens, RAEMY, Julien Antoine, FORNARO, Peter (2023). [Recommended 3D Workflow for Digital Heritage Practices][archiving2023-prezi]. *Archiving 2023*. Oslo, Norway. 20 June 2023. DOI: 10.5281/zenodo.7870044
 - RAEMY, Julien Antoine (2023). [The LOUD Social Fabrics of IIIF][2023iiif-prezi]. *2023 IIIF Conference*. Naples, Italy, 8 June 2023. DOI: 10.5281/zenodo.7870044 [:video_camera:][2023iiif-rec]
@@ -126,6 +127,8 @@ permalink: /publications/
 [climbing-video]: https://youtu.be/SaXfzLLD5TY
 [archiving]: https://doi.org/10.2352/issn.2168-3204.2017.1.0.68
 [jocch-aeolian]: https://doi.org/10.1145/3625301
+[libreabc-prezi]: https://julsraemy.ch/prezi/libreabc2023.html
+[libreabc-rec]: https://tube.switch.ch/videos/LRBKZQJOLp
 [ressi1]: http://www.ressi.ch/num18/article_142
 [ressi2]: http://www.ressi.ch/num18/article_143
 [vatican-prezi]: https://www.slideshare.net/JulienARaemy/iiif-preconference-usability-testing-conducted-on-the-uv-and-mirador
