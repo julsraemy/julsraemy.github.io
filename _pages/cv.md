@@ -76,7 +76,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 #### Linked Art [:link:][la]
 
-- Since 2021: Linked Art Community Member
+- Since 2023: Member of the Linked Art [Editorial Board][la-community]
 
 #### Archival Resource Key (ARK) Alliance [:link:][ark]
 *formerly "ARKs in the Open (AITO)"*
@@ -125,6 +125,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 [heg]: https://www.hesge.ch/heg/
 [iiif]: https://iiif.io/
 [la]: https://linked.art
+[la-community]: https://linked.art/community/
 [mjhl]: http://www.epfl-ecal-lab.ch/work/montreux-jazz-heritage-lab-ii/
 [mmc]: https://metamedia.epfl.ch/
 [name]: https://name.pn/julien-antoine-raemy
