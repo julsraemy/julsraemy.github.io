@@ -8,26 +8,28 @@ permalink: /cv/
 
 ## Summary (tl;dr)
 
-[Julien Antoine Raemy][name] (he/him) works as a Project Assistant and Doctoral Student at the Digital Humanities Lab of the University of Basel as well as Interoperability Specialist for DaSCH, the Swiss National Data and Service Center for the Humanities. Within the Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA) research project, he is involved in the extension of the data infrastructure, the uptake of the International Image Interoperability Framework (IIIF) as well as designing the data model. Julien is currently writing his PhD thesis on Linked Open Usable Data (LOUD) for Cultural Heritage. 
+[Julien Antoine Raemy][name] (he/him) currently serves as a Data Scientist at the Swiss Federal Archives and as an Interoperability Specialist at DaSCH, the Swiss National Data and Service Center for the Humanities. He has played a key role in the Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA) research project, focusing on extending the data infrastructure, advocating the adoption of the International Image Interoperability Framework (IIIF) and designing the data model. Previously, between February 2021 and March 2024, Julien was actively involved in the PIA project, contributing his expertise. He is presently finalising his PhD thesis on Linked Open Usable Data (LOUD) for Cultural Heritage, which is closely related to his activities carried out for PIA.
 
 He obtained a BSc (2017) and a MSc in Information Science (2020) from the Haute école de gestion de Genève (HEG-GE), which is part of the University of Applied Sciences and Arts of Western Switzerland (HES-SO). He previously worked as a Research and Teaching Assistant in Information Science at the HEG-GE (2017-2021), as IIIF Systems Architect for the Swiss Art Research Infrastructure (SARI) coordinated at the University of Zürich (2020) as well as Photo Archivist at the Ecole Polytechnique Fédérale de Lausanne (EPFL) in the context of the Montreux Jazz Digital Project (2015-2017).
 
-Furthermore, he is an active member of the IIIF community, notably serving on the Technical Review Committee (TRC) and the Coordinating Committee (CoCo). He is also involved in the Archival Resource Key (ARK) Alliance.
+Furthermore, he is an active member of the IIIF community, notably serving on the Technical Review Committee (TRC) and the Coordinating Committee (CoCo). He is also involved in Linked Art and the Archival Resource Key (ARK) Alliance.
 
 ## Curriculum vitae 
 
 ### Experience :office:
 
-Since February 2021: **Assistant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab]
+Since April 2024: **Data Scientist** at the [Swiss Federal Archives][sfa]
 
-- PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / [Participatory Knowledge Practices in Analogue and Digital Image Archives][pia]" (PIA) funded by the Swiss National Science Foundation (SNSF)
-- Current working title of the dissertation: "Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability" [:link:][phd]
-
-Since February 2021: **Interoperability Specialist** at the [DaSCH, Swiss National Data and Service Center for the Humanities][dasch]
+Since June 2021: **Interoperability Specialist** at the [DaSCH, Swiss National Data and Service Center for the Humanities][dasch]
 - Representing DaSCH within the International Image Interoperability Framework (IIIF), notably through the Coordinating Committee and Technical Review Committee
 - Analysing and advising DaSCH on IIIF norms and APIs to be integrated into the DaSCH Service Platform (DSP)
 - Identifying and communicating potential synergies between the DHLab of the University of Basel and DaSCH
 - Conducting proofs of concept and reporting the results at relevant international conferences
+
+February 2021 - March 2024: **Assistant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab]
+
+- PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / [Participatory Knowledge Practices in Analogue and Digital Image Archives][pia]" (PIA) funded by the Swiss National Science Foundation (SNSF)
+- Current working title of the dissertation: "Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability" [:link:][phd]
 
 July 2020 - December 2020: **Knowledge Graph Engineer / IIIF Systems Architect** for the [Swiss Art Research Infrastructure (SARI)][sari] at the University of Zurich
 - Developing an overarching strategy for the integration of the International Image Interoperability Framework (IIIF) within the Swiss Art Research Infrastructure (SARI)
@@ -72,6 +74,10 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 - September 2017 - July 2020: IIIF [Code of Conduct][coc] Team Member
 - January 2018 - September 2019: IIIF [Outreach Community Group][outreach] Co-Chair
 
+#### Linked Art [:link:][la]
+
+- Since 2021: Linked Art Community Member
+
 #### Archival Resource Key (ARK) Alliance [:link:][ark]
 *formerly "ARKs in the Open (AITO)"*
 
@@ -105,12 +111,10 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 - 2005-2008: **Federal Diploma of Vocational Education and Training - Bookseller** ("Certificat fédéral de capacité de libraire") at the Ecole professionnelle commerciale de Lausanne (EPCL)
 
 
-
-
 [agbd]: https://www.agbd.ch/
 [arks]: https://arks.org/
 [aito-outreach]: https://wiki.lyrasis.org/display/ARKs/Outreach+Working+Group
-[amda]: http://www.ailleurs.ch/en/amda/
+[amda]: https://amda.ch/
 [arketype]: https://www.arketype.ch/
 [bibliosuisse]: https://bibliosuisse.ch/
 [coc]: https://iiif.io/event/conduct/
@@ -120,6 +124,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 [fri-son]: https://fri-son.ch/
 [heg]: https://www.hesge.ch/heg/
 [iiif]: https://iiif.io/
+[la]: https://linked.art
 [mjhl]: http://www.epfl-ecal-lab.ch/work/montreux-jazz-heritage-lab-ii/
 [mmc]: https://metamedia.epfl.ch/
 [name]: https://name.pn/julien-antoine-raemy
@@ -127,4 +132,5 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 [phd]: https://phd.julsraemy.ch/
 [pia]: https://about.participatory-archives.ch/
 [sari]: https://swissartresearch.net/
+[sfa]: https://www.bar.admin.ch/
 [trc]: https://iiif.io/community/trc/
