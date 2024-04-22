@@ -32,7 +32,6 @@ This website is about my work, views and expectations on Information Interoperab
 [elt]: https://elt.oup.com/
 [celta]: http://www.cambridgeenglish.org/teaching-english/teaching-qualifications/celta/
 [heg]: https://www.hesge.ch/heg/en
-[bilingue_id_assistanat]: https://campus.hesge.ch/id_bilingue/kontakt/assistenz_fr.asp
 [bilingue_id_projets]: https://campus.hesge.ch/id_bilingue/projekte/index_fr.asp
 [metamedia]: https://metamedia.epfl.ch/
 [master-is]: https://www.hesge.ch/heg/formation-base/masters-science/master-en-sciences-linformation
