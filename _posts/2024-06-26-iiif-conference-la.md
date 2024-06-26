@@ -82,7 +82,7 @@ In a thought-provoking presentation, John Moore (National Archives, UK) explored
 
 Zoë Schubert (Staatsbibliothek Berlin) presented on [3D Manifest with Kompakkt in Babylon.js](https://zetoe.github.io/Talk-IIIF-Annual-Conference-3DManifest-Kompakkt/), sharing lessons learned and challenges faced. The presentation included some delightful GIFs of cats. Key takeaways included the importance of deeply understanding their own code, rethinking past decisions, seeking user feedback to support their needs, and relying on the IIIF 3D Technical Specification Group (TSG) experts for support on all aspects of the manifestos.
 
-Zoë Schubert (Staatsbibliothek Berlin) presented her perspective on [3D Manifest with Kompakkt in Babylon.js](https://zetoe.github.io/Talk-IIIF-Annual-Conference-3DManifest-Kompakkt/), a nice presentation containg amazing GIFs of cats. Lessons learned, challenges, you name it, 
+![](https://julsraemy.ch/assets/images/kompakkt.png)
 
 ### Analytical Support Tools for Historical Drawing Maps
 
