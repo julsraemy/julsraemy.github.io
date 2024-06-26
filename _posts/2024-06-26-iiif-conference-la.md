@@ -150,6 +150,8 @@ Jacob Hart from Université Rennes 2 presented [Arvest](https://arvest.gitpages.
 
 The prototype includes a video annotation application based on Mirador which operates in a multi-user environment built in Django. This environment is designed to be user-friendly and supports storage through PeerTube, making it accessible and versatile. Arvest supports various annotation types with a plugin for the latest version of Mirador, targeting image, video, and audio content. It also allows for time-linked annotations for time-based media, enhancing the depth of analysis possible within the platform.
 
+![1232fea239008b5ebbc9c80770494507.png](https://julsraemy.ch/assets/images/1232fea239008b5ebbc9c80770494507.png)
+
 The project includes three major case studies. COESO focuses on contemporary dance and citizen science, utilizing close reading, distant reading, network analysis, and collaboration. Art Zoyd pertains to electroacoustic music, preservation, and music analysis, emphasising content discovery and music information retrieval. Plozévet involves history, anthropology, and sociology, using computer vision, network analysis, close reading, and distant reading.
 
 A beta version of Arvest is expected to be released around December 2024, with an AV annotation plugin anticipated by October 2024.
@@ -259,7 +261,7 @@ Sherrick’s presentation underscored the importance of balancing technological 
 
 ### Connecting IIIF and Semantic Cultural Heritage Metadata for Discovery
 
-The only birds of a feather session I attended is the one I co-organised with Rob Sanderson (Yale), Kevin Page (Oxford), Daniel Sissman (Getty), Claire Knowles (University of Leeds), and Tom Crane (Digirati) on [connecting IIIF and semantic cultural heritage metadata for discovery](https://docs.google.com/presentation/d/1bVDBglM_Sd0cTubNCamnPCpsFg7IwvMg/edit?pli=1#slide=id.g2e2512dee13_2_12), and most specifically [Linked Art](https://linked.art).
+The only birds of a feather session I attended is the one I co-organised with Rob Sanderson (Yale), Kevin Page (Oxford), Daniel Sissman (Getty), Claire Knowles (University of Leeds), and Tom Crane (Digirati) on [connecting IIIF and semantic cultural heritage metadata for discovery](https://docs.google.com/presentation/d/1bVDBglM_Sd0cTubNCamnPCpsFg7IwvMg/edit?pli=1#slide=id.g2e2512dee13_2_12), and most specifically [Linked Art](https://linked.art), a Linked Open Usable Data (LOUD) specification and community.
 
 Many core use cases for IIIF extend beyond images and their presentation, delving into the digitised cultural heritage resources themselves. There is a longstanding desire to discover IIIF-accessible resources by searching the properties and relationships of real-world objects, such as creators, subjects, classifications, or dates. This session explored how organizations are leveraging the Linked Art specification alongside IIIF to realize significant benefits through the joint adoption of these highly usable standards.
 
@@ -280,6 +282,8 @@ _Linked Art is the solution to the “discovery challenge” of IIIF. It can des
 
 ### Conclusion
 
-I am very happy to have attended this conference, generously supported by the [Swiss National Data & Service Center for the Humanities](https://www.dasch.swiss/) (DaSCH), where I have been working since June 2021.  Representing DaSCH on the IIIF Technical Review Committee has been a rewarding experience, and I am grateful for their support. As I transition to working solely at the [Swiss Federal Archives](https://www.bar.admin.ch) at the end of October 2024, I extend my heartfelt thanks to DaSCH. I am also thankful to my new employer for allowing me to attend this conference. I hope to more formally represent them in the IIIF community at next year’s conference in Leeds. And who knows, perhaps they will become part of the IIIF Consortium as well! :wink:
+I am very happy to have attended this conference, generously supported by the [Swiss National Data and Service Center for the Humanities](https://www.dasch.swiss/) (DaSCH), where I have been working since June 2021. Representing DaSCH on the IIIF Technical Review Committee has been a rewarding experience, and I am grateful for their support. As I transition to working solely at the [Swiss Federal Archives](https://www.bar.admin.ch) at the end of October 2024, I extend my heartfelt thanks to DaSCH.
 
+I am also thankful to my current employer, the Swiss Federal Archives, for allowing me to attend this conference. I will continue being actively involved in the IIIF community for several reasons: I love this community and the learning and networking opportunities it provides, the Swiss Federal Archives have implemented IIIF, and I will continue to serve on the Coordinating Committee (CoCo).
 
+I hope to be at next year’s conference in Leeds, and who knows, perhaps the Swiss Federal Archives will become part of the IIIF Consortium as well! :wink: I truly believe in this initiative, as it has been crucial in my studies (from my bachelor's degree to [my PhD](https://phd.julsraemy.ch)), work, and also personal life with the friends I met along the way.
