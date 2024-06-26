@@ -280,3 +280,6 @@ _Linked Art is the solution to the “discovery challenge” of IIIF. It can des
 
 ### Conclusion
 
+I am very happy to have attended this conference, generously supported by the [Swiss National Data & Service Center for the Humanities](https://www.dasch.swiss/) (DaSCH), where I have been working since June 2021.  Representing DaSCH on the IIIF Technical Review Committee has been a rewarding experience, and I am grateful for their support. As I transition to working solely at the [Swiss Federal Archives](https://www.bar.admin.ch) at the end of October 2024, I extend my heartfelt thanks to DaSCH. I am also thankful to my new employer for allowing me to attend this conference. I hope to more formally represent them in the IIIF community at next year’s conference in Leeds. And who knows, perhaps they will become part of the IIIF Consortium as well! :wink:
+
+
