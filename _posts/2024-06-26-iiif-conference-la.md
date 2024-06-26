@@ -13,7 +13,7 @@ tags:
   - LOUD
   - IIIF
   - Linked Art
-date: 2024-06-26 16:50:28 +0100
+date: 2024-06-26 15:50:28 +0100
 ---
 
 ## 2024 IIIF Conference
