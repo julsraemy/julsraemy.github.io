@@ -122,7 +122,7 @@ Sean also shared best practices for using Booksnake. He emphasized choosing embo
 
 ### DetektIIIF 3
 
-The third version of [DetektIIIF](https://seige.digital/en/detektiiif/), a browser extension for Google Chrome and Firefox capable of identifying IIIF resources on webpages, was presented by its creator, Leader Seige. Originally, DetektIIIF was designed to uncover hidden links to IIIF Manifests, addressing the challenges that IIIF poses for non-technical users.
+The third version of [DetektIIIF](https://seige.digital/en/detektiiif/), a browser extension for Google Chrome and Firefox capable of identifying IIIF resources on webpages, was presented by its creator, Leander Seige. Originally, DetektIIIF was designed to uncover hidden links to IIIF Manifests, addressing the challenges that IIIF poses for non-technical users.
 
 DetektIIIF offers several basic features. It shows the number of found resources and performs quality checks, displaying a warning if no HTTPS is available or if the ID does not match the URI. Additionally, it provides small tools for tasks such as the creation of collections, making it a handy utility for IIIF users.
 
