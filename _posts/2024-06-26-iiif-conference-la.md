@@ -191,17 +191,17 @@ IIIF is seen as the backbone of this project, creating lightweight yet powerful 
 
 ### Presentation Plus
 
-'Presentation Plus: Working at the Edges of the Presentation API' was presented by Dn Brennan of the J. Paul Getty Trust. Brennan discussed the creation of an image viewer designed to meet some specific needs at the Getty.
+'Presentation Plus: Working at the Edges of the Presentation API' was presented by Dan Brennan of the J. Paul Getty Trust. Dan discussed the creation of an image viewer designed to meet some specific needs at the Getty.
 
 One notable project highlighted was the [Dessins photographiques sur Papier. Recueil No. 2](https://www.getty.edu/art/collection/object/1040J2), also known as the Bayard Album, which contains early photography experiments. This album passed through many hands before being acquired by Getty in the 1980s and subsequently disassembled for conservation purposes.
 
-Brennan explained that while the Bayard Album project is technically feasible with IIIF, it has not progressed much beyond the initial Châteauroux Demo. A [custom Manifest](https://data.getty.edu/media/manifest/bayard-custom) was created for this project. They employed a method involving a CSV of metadata combined with Python scripts to generate the JSON-LD file, but automating the annotation placement and scaling across 200 Canvases proved challenging.
+Dan explained that while the Bayard Album project is technically feasible with IIIF, it has not progressed much beyond the initial Châteauroux Demo. A [custom Manifest](https://data.getty.edu/media/manifest/bayard-custom) was created for this project. They employed a method involving a CSV of metadata combined with Python scripts to generate the JSON-LD file, but automating the annotation placement and scaling across 200 Canvases proved challenging.
 
 Several tools were used in the process:
 - **Digirati's Manifest Editor**: This [tool](https://manifest-editor.digirati.services/) was helpful, but its interface is not yet novice-friendly, and handling large Manifests can be cumbersome.
 - **Canvas Panel**: Provided foundational web components for building a canvas-centric viewer that met the project’s requirements, though there was still a need to build a custom viewer.
 
-A significant amount of work has been done, but Brennan noted that the project remains highly specialised. The [IIIF Cookbook Recipes](https://iiif.io/api/cookbook/recipe/) were invaluable resources throughout the process. Building a viewer posed numerous challenges, prompting philosophical questions about the nature of the digital representation compared to the physical object.
+A significant amount of work has been done, but Dan Brennan noted that the project remains highly specialised. The [IIIF Cookbook Recipes](https://iiif.io/api/cookbook/recipe/) were invaluable resources throughout the process. Building a viewer posed numerous challenges, prompting philosophical questions about the nature of the digital representation compared to the physical object.
 
 In conclusion, while the project showcased the potential of IIIF, it also highlighted the complexities involved in creating customized digital solutions for unique archival materials.
 
