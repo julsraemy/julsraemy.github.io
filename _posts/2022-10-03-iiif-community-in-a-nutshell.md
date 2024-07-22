@@ -17,6 +17,8 @@ I have tried to provide an overview of the different actors showing the relation
 
 ![IIIF Community Overview)][iiif_community_overview]
 
+**Update: On July 22, 2024, I revised this graph to correct errors, include the full names of the groups, distinguish between the Local Planning Committee and the Program Committee (previously combined), and correct the relationship between the Operating Committee and the Executive Committee.**
+
 These different entities are composed of individuals, mainly from institutions who have implemented IIIF and/or are part of IIIF-C, the [community map](https://iiif.io/community/map/) is a good resource to look at. If you don't see a dot on the map and you are involved in the community, please let the [IIIF-C staff members](https://iiif.io/community/consortium/staff/) know and they will add it.
 
 [iiif_community_overview]: https://julsraemy.ch/assets/images/iiif_community_overview.svg
