@@ -28,6 +28,8 @@ permalink: /publications/
 - RAEMY, Julien Antoine, FORNARO, Peter and ROSENTHALER, Lukas (2017). [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 14, no. 1, pp. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68.
 
 ## Scientific posters :scroll:
+
+- SAUVAGE, Audray and RAEMY, Julien Antoine (2024). [Multimodal UI for Video Retrieval at the Swiss Federal Archives][digihistch24]. *Digital History Switzerland 2024*. Basel, Switzerland.
 - RAEMY, Julien Antoine, GRAY, Tanya, COLLINSON, Alwyn and PAGE, Kevin R. (2023). [Enabling Participatory Data Perspectives for Image Archives through a Linked Art Workflow][dh2023-poster]. *Digital Humanities 2023*. Graz, Austria. DOI: 10.5281/zenodo.7878358
 - RAEMY, Julien Antoine and GAUTSCHY, Rita (2023). [Élaboration d'un processus pour les images 3D reposant sur IIIF][humanistica2023-poster]. *Colloque Humanistica 2023*. Université de Genève, Geneva, Switzerland. 28 June 2023. DOI 10.5281/zenodo.7927861
 - RAEMY, Julien Antoine (2022). [Back and Forth from Boundary Objects to IIIF resources: The Recipes of a Community-driven Initiative Specifying Standards][dariahchposter]. *DARIAH-CH Study Day*. Università della Svizzera Italiana (USI), Mendrisio, Switzerland. 20 October 2022. DOI 10.5281/zenodo.7015255
@@ -99,6 +101,7 @@ permalink: /publications/
 [dhnb2023-paper]: https://doi.org/10.5617/dhnbpub.10649
 [dhnb23-prezi]: https://doi.org/10.5281/zenodo.7690740
 [dh2023-poster]: https://doi.org/10.5281/zenodo.7878358
+[digihistch24]: https://digihistch24.github.io/book-of-abstracts/submissions/poster/440/
 [digitalverpackt]: https://doi.org/10.5281/zenodo.4043572
 [eccp]: https://doi.org/10.1007/978-3-030-71903-6_35
 [euromed2022-prezi]: https://doi.org/10.5281/zenodo.7194021
