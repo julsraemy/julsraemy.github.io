@@ -70,7 +70,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 #### International Image Interoperability Framework (IIIF) [:link:][iiif]
 
 - Since May 2020: IIIF [Coordinating Committee (CoCo)][coco] Member
-- Since February 2019: IIIF [Technical Review Committee (TRC)][trc] Member
+- February 2019 - September 2024: IIIF [Technical Review Committee (TRC)][trc] Member
 - September 2017 - July 2020: IIIF [Code of Conduct][coc] Team Member
 - January 2018 - September 2019: IIIF [Outreach Community Group][outreach] Co-Chair
 
