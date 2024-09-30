@@ -20,11 +20,24 @@ Furthermore, he is an active member of the IIIF community, notably serving on th
 
 Since April 2024: **Data Scientist** at the [Swiss Federal Archives][sfa]
 
-Since June 2021: **Interoperability Specialist** at the [DaSCH, Swiss National Data and Service Center for the Humanities][dasch]
-- Representing DaSCH within the International Image Interoperability Framework (IIIF), notably through the Coordinating Committee and Technical Review Committee
-- Analysing and advising DaSCH on IIIF norms and APIs to be integrated into the DaSCH Service Platform (DSP)
-- Identifying and communicating potential synergies between the DHLab of the University of Basel and DaSCH
-- Conducting proofs of concept and reporting the results at relevant international conferences
+Since February 2021: **Lecturer** (self-employed/contract)
+- At the HES-SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève, Bachelor Information Science
+	- Teaching the Introduction to Open Data course: 2023-2024 (16h)
+	- Assessing bachelor's theses in an expert capacity: 2021-2022 (1x), 2022-2023 (1x), 2023-2024 (1)
+- At the University of Zurich / Zurich Central Library, CAS Data Management and Information Technologies (DMIT)
+	- Teaching the IIIF course: 2021 (4h), 2022 (8h), 2023 (8h), 2024 (8h)
+	- Monitoring and assessing students' project work and reports
+- At the University of Zurich / Zurich Central Library, MAS Bibliotheks- und Informationswissenschaft (BIW)
+	- Teaching the IIIF course: 2021-2023 (4h), 2023-2025 (4h)
+	- Monitoring and assessing students' project work and reports
+
+February 2021 - October 2024: **Interoperability Specialist** at the [DaSCH – Swiss National Data and Service Center for the Humanities][dasch]
+- Advising on the use of standards and tools
+- Developing Python scripts to enable the automatic and standardised generation of IIIF Manifests for all media files in the DaSCH Service Platform
+- Representing DaSCH within the International Image Interoperability Framework (IIIF), notably through the Technical Review Committee (TRC)
+- Co-organising academic conferences
+- Co-supervising an intern on the subject of IIIF and 3D
+- Contributing to the IIIF 3D Technical Specification Group
 
 February 2021 - March 2024: **Assistant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab]
 
