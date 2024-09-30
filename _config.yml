@@ -118,7 +118,7 @@ analytics:
 author:
   name             : "Julien A. Raemy"
   avatar           : "/assets/images/portrait-px.png"
-  bio              : "Data Scientist at the Swiss Federal Archives. Interoperability Specialist at DaSCH. Active member of the International Image Interoperability Framework (IIIF) and Linked Art."
+  bio              : "Data Scientist at the Swiss Federal Archives. Active member of the International Image Interoperability Framework (IIIF) and Linked Art."
   location         : "Basel, Switzerland"
   email            :
   links:
