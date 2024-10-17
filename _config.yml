@@ -21,7 +21,7 @@ title                    : "Julien A. Raemy"
 title_separator          : "-"
 subtitle                 : "Thoughts and discombobulations"
 name                     : "Julien Antoine Raemy"
-description              : "Thoughts and discombobulations of Julien A. Raemy, an Information Specialist and Digital Humanities Practicioner interested in information interoperability, knowledge representation, Linked Open Usable Data (LOUD), digital preservation, Science and Technology Studies (STS) and all sorts of things related to the cultural heritage field."
+description              : "Thoughts and discombobulations of Julien A. Raemy, an Information Specialist and Digital Humanities Practitioner interested in information interoperability, knowledge representation, Linked Open Usable Data (LOUD), digital preservation, Science and Technology Studies (STS) and all sorts of things related to the cultural heritage field."
 url                      : https://julsraemy.ch
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : julsraemy/julsraemy.github.io
