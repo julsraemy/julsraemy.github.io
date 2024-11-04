@@ -27,6 +27,10 @@ permalink: /publications/
 - RAEMY, Julien Antoine (2017). [*The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions*][tb]. Bachelor’s thesis. Geneva, Switzerland : HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève, 2020.
 - RAEMY, Julien Antoine, FORNARO, Peter and ROSENTHALER, Lukas (2017). [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 14, no. 1, pp. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68.
 
+## Book chapter 📖
+
+- Raemy, Julien Antoine, & Sanderson, Robert (2024). [Analysis of the Usability of Automatically Enriched Cultural Heritage Data][analysis-decodingch2024]. In F. Moral-Andrés, E. Merino-Gómez, & P. Reviriego (Eds.), _Decoding Cultural Heritage: A Critical Dissection and Taxonomy of Human Creativity through Digital Tools_ (pp. 69–93). Springer Nature Switzerland. DOI: 10.1007/978-3-031-57675-1_4
+
 ## Scientific posters :scroll:
 
 - SAUVAGE, Audray and RAEMY, Julien Antoine (2024). [Multimodal UI for Video Retrieval at the Swiss Federal Archives][digihistch24]. *Digital History Switzerland 2024*. Basel, Switzerland.
@@ -84,6 +88,8 @@ permalink: /publications/
 
 - November 2017: [Prix romand en bibliothéconomie][romand]
 
+
+[analysis-decodingch2024]: https://doi.org/10.1007/978-3-031-57675-1_4
 [archiving2023-paper]: https://doi.org/10.2352/issn.2168-3204.2023.20.1.5
 [archiving2023-prezi]: https://doi.org/10.5281/zenodo.7870044
 [2022crkn]: https://doi.org/10.5281/zenodo.7139251
