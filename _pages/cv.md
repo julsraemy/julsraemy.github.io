@@ -10,9 +10,11 @@ permalink: /cv/
 
 [Julien Antoine Raemy][name] (he/him) currently works as a Data Scientist at the Swiss Federal Archives. He holds a PhD in Digital Humanities from the University of Basel, successfully defended his thesis in November 2024, with a dissertation titled [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability][phd]. He also holds a Bachelor’s and Master’s degree in Information Science from the HES-SO University of Applied Sciences and Arts of Western Switzerland.
 
-Julien has worked extensively in academia and in or for the cultural heritage domain, including as a Photo Archivist for the Montreux Jazz Digital Project at the École Polytechnique Fédérale de Lausanne (2015–2017), as a Research and Teaching Assistant at the Haute école de gestion de Genève (2017–2021), and as an Interoperability Specialist at DaSCH, Swiss National Data and Service Center for the Humanities (2021–2024).
+He has worked extensively in academia and in or for the cultural heritage domain, including as a Photo Archivist for the Montreux Jazz Digital Project at the École Polytechnique Fédérale de Lausanne (2015–2017), as a Research and Teaching Assistant at the Haute école de gestion de Genève (2017–2021), and as an Interoperability Specialist at DaSCH, Swiss National Data and Service Center for the Humanities (2021–2024).
 
 He is an active member of the International Image Interoperability Framework (IIIF) and Linked Art communities. He has also been involved in the Archival Resource Key (ARK) Alliance.
+
+Julien is particularly interested in ways of improving the digital preservation, dissemination and interoperability of cultural heritage objects and their associated metadata through the application of standards that adhere to the Linked Open Usable Data (LOUD) design principles.
 
 ## Curriculum vitae 
 
