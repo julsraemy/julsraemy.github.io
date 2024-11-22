@@ -20,7 +20,7 @@ permalink: /projects/
 
 *Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA)* - Swiss National Science Foundation (SNSF) Sinergia funded project [:link:][pia]
 
-My [PhD thesis][phd] – Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability – is being carried out as part of the PIA research project.
+My [PhD thesis][phd] – Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability – was being carried out as part of the PIA research project.
 
 ### BSO
 *Bilder der Schweiz Online (BSO)* - funded by the Stiftung Familie Fehlmann [:link:][bso]
