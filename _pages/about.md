@@ -20,9 +20,11 @@ Between August 2017 and January 2021, I was working as a Research and Teaching A
 
 Starting July 2020 and in parallel to my assistantship in Geneva, I started working as a Knowledge Graph Engineer and IIIF Systems Architect for the [Swiss Art Research Infrastructure][sari] (SARI) hosted at the University of Zurich and operated in cooperation with the Swiss Federal Institute of Technology in Zurich (ETH Zurich) and the Swiss Institute for Art Research (SIK-ISEA). I was committed to working there for a longer period of time but finally I stayed there for six months until the end of 2020 as I received an opportunity to pursue a funded PhD at the University of Basel.  
 
-Between February 2021 and March 2024, I worked as a Project Assistant at the [Digital Humanities Lab][dhlab] of the University of Basel in the context of [Participatory Knowledge Practices in Analogue and Digital Image Archive][pia] (PIA) research project. My PhD, which is expected to be done by the end of 2024, is  tied to some outputs of PIA and has the following title: [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability][phd].
+Between February 2021 and March 2024, I worked as a Project Assistant at the [Digital Humanities Lab][dhlab] of the University of Basel in the context of [Participatory Knowledge Practices in Analogue and Digital Image Archive][pia] (PIA) research project. In parallel, I also worked as an Interoperability Specialist at DaSCH, the [Swiss National Data and Service Center for the Humanities][dasch].
 
-Since April 2024, I work as a Data Scientist at the [Swiss Federal Archives][bar] as well as Interoperability Specialist at DaSCH, the [Swiss National Data and Service Center for the Humanities][dasch].
+My PhD thesis, which I successfully defended in November 2024, is  tied to some outputs of PIA and has the following title: [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability][phd]. 
+
+Since April 2024, I work as a Data Scientist at the [Swiss Federal Archives][bar].
 
 ## [What about this website?]
 

@@ -8,11 +8,11 @@ permalink: /cv/
 
 ## Summary (tl;dr)
 
-[Julien Antoine Raemy][name] (he/him) currently works as a Data Scientist at the Swiss Federal Archives as well as an Interoperability Specialist at DaSCH, the Swiss National Data and Service Center for the Humanities. He has played a key role in the Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA) research project, focusing on extending the data infrastructure, advocating the adoption of the International Image Interoperability Framework (IIIF) and designing the data model. Previously, between February 2021 and March 2024, Julien was actively involved in the PIA project, contributing his expertise. He is presently finalising his PhD thesis on Linked Open Usable Data (LOUD) for Cultural Heritage, which is closely related to his activities carried out for PIA.
+[Julien Antoine Raemy][name] (he/him) currently works as a Data Scientist at the Swiss Federal Archives. He holds a PhD in Digital Humanities from the University of Basel, successfully defended his thesis in November 2024, with a dissertation titled [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability][phd]. He also holds a Bachelor’s and Master’s degree in Information Science from the HES-SO University of Applied Sciences and Arts of Western Switzerland.
 
-He obtained a BSc (2017) and a MSc in Information Science (2020) from the Haute école de gestion de Genève (HEG-GE), which is part of the University of Applied Sciences and Arts of Western Switzerland (HES-SO). He previously worked as a Research and Teaching Assistant in Information Science at the HEG-GE (2017-2021), as IIIF Systems Architect for the Swiss Art Research Infrastructure (SARI) coordinated at the University of Zürich (2020) as well as Photo Archivist at the Ecole Polytechnique Fédérale de Lausanne (EPFL) in the context of the Montreux Jazz Digital Project (2015-2017).
+Julien has worked extensively in academia and in or for the cultural heritage domain, including as a Photo Archivist for the Montreux Jazz Digital Project at the École Polytechnique Fédérale de Lausanne (2015–2017), as a Research and Teaching Assistant at the Haute école de gestion de Genève (2017–2021), and as an Interoperability Specialist at DaSCH, Swiss National Data and Service Center for the Humanities (2021–2024).
 
-Furthermore, he is an active member of the IIIF community, notably serving on the Technical Review Committee (TRC) and the Coordinating Committee (CoCo). He is also involved in Linked Art and the Archival Resource Key (ARK) Alliance.
+He is an active member of the International Image Interoperability Framework (IIIF) and Linked Art communities. He has also been involved in the Archival Resource Key (ARK) Alliance.
 
 ## Curriculum vitae 
 
@@ -42,7 +42,7 @@ February 2021 - October 2024: **Interoperability Specialist** at the [DaSCH – 
 February 2021 - March 2024: **Assistant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab]
 
 - PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / [Participatory Knowledge Practices in Analogue and Digital Image Archives][pia]" (PIA) funded by the Swiss National Science Foundation (SNSF)
-- Current working title of the dissertation: "Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability" [:link:][phd]
+- Dissertation: "Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability" [:link:][phd]
 
 July 2020 - December 2020: **Knowledge Graph Engineer / IIIF Systems Architect** for the [Swiss Art Research Infrastructure (SARI)][sari] at the University of Zurich
 - Developing an overarching strategy for the integration of the International Image Interoperability Framework (IIIF) within the Swiss Art Research Infrastructure (SARI)
@@ -117,7 +117,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ### Education :school:
 
-- 2021-2025 (expected): **PhD in Digital Humanities** at the University of Basel
+- 2021-2024: **PhD in Digital Humanities** at the University of Basel
 - 2018-2020: **Master of Science in Information Science** at the HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève
 - 2013-2017: **Bachelor of Science in Library and Information Science** at the HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève
 - 2010-2011: **Professional Business Baccalaureate** ("Maturité professionnelle commerciale") at the Ecole professionnelle artisanale et commerciale (EPAC)

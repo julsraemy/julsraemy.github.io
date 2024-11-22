@@ -107,7 +107,7 @@ permalink: /publications/
 [dhnb2023-paper]: https://doi.org/10.5617/dhnbpub.10649
 [dhnb23-prezi]: https://doi.org/10.5281/zenodo.7690740
 [dh2023-poster]: https://doi.org/10.5281/zenodo.7878358
-[digihistch24]: https://digihistch24.github.io/book-of-abstracts/submissions/poster/440/
+[digihistch24]: https://digihistch24.github.io/submissions/poster/440/
 [digitalverpackt]: https://doi.org/10.5281/zenodo.4043572
 [eccp]: https://doi.org/10.1007/978-3-030-71903-6_35
 [euromed2022-prezi]: https://doi.org/10.5281/zenodo.7194021
