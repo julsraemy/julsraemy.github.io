@@ -139,7 +139,7 @@ permalink: /publications/
 [jocch-aeolian]: https://doi.org/10.1145/3625301
 [libreabc-prezi]: https://julsraemy.ch/prezi/libreabc2023.html
 [libreabc-rec]: https://tube.switch.ch/videos/LRBKZQJOLp
-[pht]: https://doi.org/10.5451/unibas-ep96807
+[phd]: https://doi.org/10.5451/unibas-ep96807
 [ressi1]: http://www.ressi.ch/num18/article_142
 [ressi2]: http://www.ressi.ch/num18/article_143
 [vatican-prezi]: https://www.slideshare.net/JulienARaemy/iiif-preconference-usability-testing-conducted-on-the-uv-and-mirador
