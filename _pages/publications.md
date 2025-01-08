@@ -6,8 +6,9 @@ toc_label: Table of Contents
 permalink: /publications/
 ---
 
-## Articles :pencil:
+## Articles, Conference papers, Theses :pencil:
 
+- RAEMY, Julien Antoine (2024). [*Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability*][phd] [Doctoral Thesis, University of Basel]. 
 - FELSING, Ulrike, FORNARO, Peter, FRISCHKNECHT, Max, and RAEMY, Julien Antoine (2023). [Community and Interoperability at the Core of Sustaining Image Archives][dhnb2023-paper]. *DHNB2023 Conference Proceedings*. October 2023. 5(1), 40-54. DOI: 10.5617/dhnbpub.10649
 - CORNUT, Murielle, RAEMY, Julien Antoine, and SPIESS, Florian (2023). [Annotations as Knowledge Practices in Image Archives: Application of Linked Open Usable Data and Machine Learning][jocch-aeolian]. *Journal on Computing and Cultural Heritage*. September 2023. DOI: 10.1145/3625301
 - MANZ, Marian Clemens, RAEMY, Julien Antoine and FORNARO, Peter (2023). [Recommended 3D Workflow for Digital Heritage Practices][archiving2023-paper]. *Archiving Conference*, 20, pp. 23–28. DOI: 10.2352/issn.2168-3204.2023.20.1.5
@@ -138,6 +139,7 @@ permalink: /publications/
 [jocch-aeolian]: https://doi.org/10.1145/3625301
 [libreabc-prezi]: https://julsraemy.ch/prezi/libreabc2023.html
 [libreabc-rec]: https://tube.switch.ch/videos/LRBKZQJOLp
+[pht]: https://doi.org/10.5451/unibas-ep96807
 [ressi1]: http://www.ressi.ch/num18/article_142
 [ressi2]: http://www.ressi.ch/num18/article_143
 [vatican-prezi]: https://www.slideshare.net/JulienARaemy/iiif-preconference-usability-testing-conducted-on-the-uv-and-mirador
