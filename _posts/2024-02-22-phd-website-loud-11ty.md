@@ -33,8 +33,8 @@ The decision to use Eleventy (11ty) as the basis for my PhD website was driven b
 
 ### Hosting the PhD Thesis as HTML
 
-One of the main motivations for this technological pivot was the desire to host [my thesis as HTML on the site](https://phd.julsraemy.ch/thesis) - which will hopefully be accessible by 2025, as this facilitates the integration of multimedia elements, interactive visualisations and direct links to digital artefacts and datasets, such as embedding IIIF resources in compatible viewers.
+One of the main motivations for this technological pivot was the desire to host [my thesis as HTML on the site](https://phd.julsraemy.ch/thesis.html) - which will hopefully be accessible by 2025, as this facilitates the integration of multimedia elements, interactive visualisations and direct links to digital artefacts and datasets, such as embedding IIIF resources in compatible viewers.
 
 ### Around the PhD
 
-The redesigned website also serves as a platform to highlight the broader aspects of my research, including the concept of [Linked Open Usable Data (LOUD)](https://phd.julsraemy.ch/loud), the related [research outcomes](https://phd.julsraemy.ch/research), as well as the [PIA research project](https://phd.julsraemy.ch/pia). 
+The redesigned website also serves as a platform to highlight the broader aspects of my research, including the concept of [Linked Open Usable Data (LOUD)](https://phd.julsraemy.ch/loud.html), the related [research outcomes](https://phd.julsraemy.ch/research.html), as well as the [PIA research project](https://phd.julsraemy.ch/pia.html). 

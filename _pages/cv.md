@@ -8,7 +8,7 @@ permalink: /cv/
 
 ## Summary (tl;dr)
 
-[Julien Antoine Raemy][name] (he/him) currently works as a Data Scientist at the Swiss Federal Archives. He holds a PhD in Digital Humanities from the University of Basel, successfully defended his thesis in November 2024, with a dissertation titled [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability][phd]. He also holds a Bachelor’s and Master’s degree in Information Science from the HES-SO University of Applied Sciences and Arts of Western Switzerland.
+[Julien Antoine Raemy][name] (he/him) currently works as a Data Scientist and Project Manager at the Swiss Federal Archives. He holds a PhD in Digital Humanities from the University of Basel, successfully defended his thesis in November 2024, with a dissertation titled [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability][phd]. He also holds a Bachelor’s and Master’s degree in Information Science from the HES-SO University of Applied Sciences and Arts of Western Switzerland.
 
 He has worked extensively in academia and in or for the cultural heritage domain, including as a Photo Archivist for the Montreux Jazz Digital Project at the École Polytechnique Fédérale de Lausanne (2015–2017), as a Research and Teaching Assistant at the Haute école de gestion de Genève (2017–2021), and as an Interoperability Specialist at DaSCH, Swiss National Data and Service Center for the Humanities (2021–2024).
 
@@ -20,7 +20,21 @@ Julien is particularly interested in ways of improving the digital preservation,
 
 ### Experience :office:
 
-Since April 2024: **Data Scientist** at the [Swiss Federal Archives][sfa]
+Since April 2024: **Data Scientist and Project Manager** at the [Swiss Federal Archives][sfa]
+
+**LINDASnext**, a next-generation scalable platform evolved from [LINDAS](https://lindas.admin.ch), enabling public administrations to publish and visualise their data as knowledge graphs. 
+- Management and Coordination: Oversight of contractual, financial and resource aspects, coordinating with key partners such as FOEN (Federal Office for the Environment) and FSO (Federal Statistical Office).
+- Compliance and Scalability: Development of a scalable solution compliant with Open Governement Data (OGD) directives.
+- Concept Development: Collaboration with selected bidders and partners to define and coordinate concepts and reports in accordance with the HERMES methodology.
+
+**ADSnew** – Future of Digitised Official Publications
+- Strategy and Study: Analysis of scenarios for the evolution of the [Online-Amtsdruckschriften](https://www.amtsdruckschriften.bar.admin.ch/) (ADS) portal.
+- Implementation: Leading the adaptation and deployment of the concept by the end of 2026.
+
+**SIARD-LD** (_SIARD zu Linked Data_)
+- Collaboration & Management: Working with FHGR (Fachhochschule Graubünden) and overseeing contractual and financial matters.
+- Deliverables & Innovation: Publishing deliverables on GitHub, conceptualising post-project implementations and showcasing results.
+
 
 Since February 2021: **Lecturer** (self-employed/contract)
 - At the HES-SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève, Bachelor Information Science
