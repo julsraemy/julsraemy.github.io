@@ -22,9 +22,9 @@ Starting July 2020 and in parallel to my assistantship in Geneva, I started work
 
 Between February 2021 and March 2024, I worked as a Project Assistant at the [Digital Humanities Lab][dhlab] of the University of Basel in the context of [Participatory Knowledge Practices in Analogue and Digital Image Archive][pia] (PIA) research project. In parallel, I also worked as an Interoperability Specialist at DaSCH, the [Swiss National Data and Service Center for the Humanities][dasch].
 
-My PhD thesis, which I successfully defended in November 2024, is  tied to some outputs of PIA and has the following title: [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability][phd]. 
+My PhD thesis, which I successfully defended in November 2024, is tied to some outputs of PIA and has the following title: [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability][phd]. 
 
-Since April 2024, I work as a Data Scientist at the [Swiss Federal Archives][bar].
+Since April 2024, I work as a Data Scientist and Project Manager at the [Swiss Federal Archives][bar], coordinating the development of LINDASnext, a next-generation scalable platform enabling public administrations to publish and visualise their data as knowledge graphs. Additionally, since February 2025, I hold an appointment as a Research Associate at the [Walter Benjamin Kolleg / Digital Humanities][dh-unibe], University of Bern.
 
 ## [What about this website?]
 
@@ -33,6 +33,7 @@ This website is about my work, views and expectations on Information Interoperab
 [bar]: https://www.bar.admin.ch/
 [elt]: https://elt.oup.com/
 [celta]: http://www.cambridgeenglish.org/teaching-english/teaching-qualifications/celta/
+[dh-unibe]: https://www.dh.unibe.ch/ 
 [heg]: https://www.hesge.ch/heg/en
 [bilingue_id_projets]: https://campus.hesge.ch/id_bilingue/projekte/index_fr.asp
 [metamedia]: https://metamedia.epfl.ch/
