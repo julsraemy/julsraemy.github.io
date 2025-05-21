@@ -23,10 +23,11 @@ permalink: /publications/
 - RAEMY, Julien Antoine, SCHNEIDER, René (2019). [Les métiers des données : à l’intérieur, à l’extérieur et entre les mondes de la bibliothéconomie et de l‘archivistique][arodes-ht2]. *Hors-Texte*. September 2019. Vol. 2019, no. 117, p. 46-52
 - RAEMY, Julien Antoine, SCHNEIDER, René (2019). [*Suggested measures for deploying IIIF in Swiss cultural heritage institutions*][ticks-wp]. White Paper. Geneva, Haute école de gestion de Genève. 29 May 2019. DOI 10.5281/zenodo.2640416
 - RAEMY, Julien Antoine (2018). [IIIF ou comment enfin valoriser ses images numériques de manière optimale et interopérable][arodes-ht1]. *Hors-Texte*. 25 April 2018. Vol. 2018, no. 115, p. 22-32.
-- RAEMY, Julien Antoine (2017). [Interopérabilité des images : de la nécessité des tests d’utilisabilité][ressi1]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
-- RAEMY, Julien Antoine (2017). [Retour sur la conférence IIIF (International Image Interoperability Framework), 7-9 juin 2017 au Vatican][ressi2]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
+- RAEMY, Julien Antoine (2017). [Interopérabilité des images : de la nécessité des tests d’utilisabilité][ressi1]. *Revue électronique suisse de science de l’information (RESSI)*. 20 December 2017. Vol. 2017, no. 18.
+- RAEMY, Julien Antoine (2017). [Retour sur la conférence IIIF (International Image Interoperability Framework), 7-9 juin 2017 au Vatican][ressi2]. *Revue électronique suisse de science de l’information (RESSI)*. 20 December 2017. Vol. 2017, no. 18.
 - RAEMY, Julien Antoine (2017). [*The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions*][tb]. Bachelor’s thesis. Geneva, Switzerland : HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève, 2020.
 - RAEMY, Julien Antoine, FORNARO, Peter and ROSENTHALER, Lukas (2017). [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 14, no. 1, pp. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68.
+
 
 ## Book chapter 📖
 
@@ -140,8 +141,8 @@ permalink: /publications/
 [libreabc-prezi]: https://julsraemy.ch/prezi/libreabc2023.html
 [libreabc-rec]: https://tube.switch.ch/videos/LRBKZQJOLp
 [phd]: https://doi.org/10.5451/unibas-ep96807
-[ressi1]: http://www.ressi.ch/num18/article_142
-[ressi2]: http://www.ressi.ch/num18/article_143
+[ressi1]: https://doi.org/10.55790/journals/ressi.2017.e1808
+[ressi2]: https://doi.org/10.55790/journals/ressi.2017.e1809
 [vatican-prezi]: https://www.slideshare.net/JulienARaemy/iiif-preconference-usability-testing-conducted-on-the-uv-and-mirador
 [tb]: https://sonar.ch/hesso/documents/314853
 [tm]: https://sonar.ch/hesso/documents/315109
