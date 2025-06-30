@@ -78,6 +78,7 @@ permalink: /publications/
 
 ## Posts :computer:
 
+- RAEMY, Julien Antoine (2025). [Pédagogie de l'ouverture : Enseigner l'Open Data à la HEG Genève][infoclio-blogpost]. *infoclio.ch: le portail suisse pour les sciences historiques*. 11 April 2025
 - RAEMY, Julien Antoine, JUNG, John, and KUNZE, John (2022). [Images and the promise of ARKs with IIIF][ark-iiif]. *ARK Alliance*. 23 November 2022
 - MANZ, Marian Clemens, RAEMY, Julien Antoine, GAUVAIN, Béatrice, and CHIQUET, Vera (2022). [Let's talk about standards – A write-up of a discussion on metadata standardization in the Digital Humanities][standards-dhch]. *DH-CH*. 18 January 2022
 - RAEMY, Julien Antoine (2021). [IIIF: there is more than meets the eye][iiif-dhch]. *DH-CH*. 20 April 2021
@@ -138,6 +139,7 @@ permalink: /publications/
 [climbing-video]: https://youtu.be/SaXfzLLD5TY
 [archiving]: https://doi.org/10.2352/issn.2168-3204.2017.1.0.68
 [jocch-aeolian]: https://doi.org/10.1145/3625301
+[infoclio-blogpost]: https://www.infoclio.ch/fr/p%C3%A9dagogie-de-louverture-enseigner-lopen-data-%C3%A0-la-heg-gen%C3%A8ve
 [libreabc-prezi]: https://julsraemy.ch/prezi/libreabc2023.html
 [libreabc-rec]: https://tube.switch.ch/videos/LRBKZQJOLp
 [phd]: https://doi.org/10.5451/unibas-ep96807
