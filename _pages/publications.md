@@ -41,7 +41,7 @@ permalink: /publications/
 - RAEMY, Julien Antoine (2022). [Back and Forth from Boundary Objects to IIIF resources: The Recipes of a Community-driven Initiative Specifying Standards][dariahchposter]. *DARIAH-CH Study Day*. Università della Svizzera Italiana (USI), Mendrisio, Switzerland. 20 October 2022. DOI 10.5281/zenodo.7015255
 - CEVEY, Matthieu and RAEMY, Julien Antoine (2019). [Swiss PID Hub : création d’un Hub pour la gestion des identifiants pérennes en Suisse][hub-poster]. *Session des posters scientifiques*. Scientific poster. Haute école de gestion de Genève, Geneva, Switzerland. 12 December 2019. DOI 10.5281/zenodo.3551008
 
-## Presentations :microphone:
+## Presentations :bar_chart:
 
 - RAEMY, Julien Antoine (2024). [LOUD : Catalyseur de Convergence][cihn24-prezi]. *Conférence internationale sur les humanités numériques (CIHN24)*. Haute école de gestion de Genève, Carouge, Switzerland. 13 February 2024. DOI 10.5281/zenodo.10526541
 - RAEMY, Julien Antoine (2023). [Interconnected Resources on the Web: Unveiling Cultural Heritage through Linked Open Usable Data][g3s-noon]. *G3S Noon Talk*. 19 December 2023. 
@@ -87,6 +87,11 @@ permalink: /publications/
 - CEVEY, Matthieu and RAEMY, Julien Antoine (2019). [Un PID pour (enfin?) les gouverner tous][swisspidhub-post1]. *Recherche d’IdéeS*. 2 September 2019.
 - RAEMY, Julien Antoine (2018). [De la nécessité de la visualisation face au déluge des données][blog-necessite]. *Recherche d’IdéeS*. 21 November 2018.
 
+## Interviews :microphone:
+
+- Raemy, J. A. (2025, August 22). [Interview mit Julien Raemy: Open Data erkunden und vermitteln][bfs-itw-de] [Open Government Data (OGD) Blog]. :de:
+- Raemy, J. A. (2025, August 22). [Interview - Explorer et enseigner l’Open Data avec Julien Raemy][bfs-itw-fr] [Open Government Data (OGD) Blog]. :fr:
+
 ## Awards :tada:
 
 - November 2017: [Prix romand en bibliothéconomie][romand]
@@ -102,6 +107,8 @@ permalink: /publications/
 [ark-iiif-prezi]: https://julsraemy.ch/prezi/ark-iiif.html
 [ark-iiif-rec]: https://www.youtube.com/watch?v=it5LA3VRXpE
 [arks-arketype]: https://arks.org/blog/new-service-arketype/
+[bfs-itw-fr]: https://www.bfs.admin.ch/bfs/fr/home/services/ogd/blog/2025-08-julien-raemy.html
+[bfs-itw-de]: https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/blog/2025-08-julien-raemy.html
 [cnifallvideo]: https://www.youtube.com/watch?v=giw9stetjy8
 [cniprezi]: https://doi.org/10.5281/zenodo.4302427
 [bibioinfo]: https://www.researchgate.net/publication/372768635_Vers_la_fin_d'OAI-PMH_pour_Europeana
