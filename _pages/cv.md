@@ -8,9 +8,9 @@ permalink: /cv/
 
 ## Summary (tl;dr)
 
-[Julien Antoine Raemy][name] (he/him) currently works as a Data Scientist and Project Manager at the Swiss Federal Archives. He is also a research associate at the University of Bern (Walter Benjamin Kolleg, Digital Humanities). He holds a PhD in Digital Humanities from the University of Basel, successfully defended his thesis in November 2024, with a dissertation titled [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability][phd]. He also holds a Bachelor’s and Master’s degree in Information Science from the HES-SO University of Applied Sciences and Arts of Western Switzerland.
+[Julien Antoine Raemy][name] (he/him) currently works as a Digital Archiving Project Manager at docuteam. He is also a research associate at the University of Bern (Walter Benjamin Kolleg, Digital Humanities). He holds a PhD in Digital Humanities from the University of Basel, successfully defended his thesis in November 2024, with a dissertation titled [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability][phd]. He also holds a Bachelor’s and Master’s degree in Information Science from the HES-SO University of Applied Sciences and Arts of Western Switzerland.
 
-He has worked extensively in academia and in or for the cultural heritage domain, including as a Photo Archivist for the Montreux Jazz Digital Project at the École Polytechnique Fédérale de Lausanne (2015–2017), as a Research and Teaching Assistant at the Haute école de gestion de Genève (2017–2021), and as an Interoperability Specialist at DaSCH, Swiss National Data and Service Center for the Humanities (2021–2024).
+He has worked extensively in academia and in or for the cultural heritage domain, including as a Photo Archivist for the Montreux Jazz Digital Project at the École Polytechnique Fédérale de Lausanne (2015–2017), as a Research and Teaching Assistant at the Haute école de gestion de Genève (2017–2021), as an Interoperability Specialist at DaSCH, Swiss National Data and Service Center for the Humanities (2021–2024), and as a Data Scientist and Project Manager at the Swiss Federal Archives (2024-2025).
 
 He is an active member of the International Image Interoperability Framework (IIIF) and Linked Art communities. He has also been involved in the Archival Resource Key (ARK) Alliance.
 
@@ -22,7 +22,21 @@ Julien is particularly interested in ways of improving the digital preservation,
 
 Since February 2025: **Research Associate** at the [Walter Benjamin Kolleg / Digital Humanities][dh-unibe], University of Bern
 
-Since April 2024: **Data Scientist and Project Manager** at the [Swiss Federal Archives][sfa]
+
+Since February 2021: **Lecturer** (self-employed/contract)
+- At the HES-SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève, Bachelor Information Science
+	- Teaching the Introduction to Open Data course: 2023-2024 (16h)
+	- Assessing bachelor's theses in an expert capacity: 2021-2022 (1x), 2022-2023 (1x), 2023-2024 (1)
+- At the University of Zurich / Zurich Central Library, CAS Data Management and Information Technologies (DMIT)
+	- Teaching the IIIF course: 2021 (4h), 2022 (8h), 2023 (8h), 2024 (8h)
+	- Monitoring and assessing students' project work and reports
+- At the University of Zurich / Zurich Central Library, MAS Bibliotheks- und Informationswissenschaft (BIW)
+	- Teaching the IIIF course: 2021-2023 (4h), 2023-2025 (4h)
+	- Monitoring and assessing students' project work and reports
+- At the University of Bern, MAS in Archival, Library and Information Science (ALIS)
+	- Teaching IIIF and Linked Data: 2024-2026 (1.5h)
+
+April 2024 - December 2025: **Data Scientist and Project Manager** at the [Swiss Federal Archives][sfa]
 
 **LINDASnext**, a next-generation scalable platform evolved from [LINDAS](https://lindas.admin.ch), enabling public administrations to publish and visualise their data as knowledge graphs. 
 - Management and Coordination: Oversight of contractual, financial and resource aspects, coordinating with key partners such as FOEN (Federal Office for the Environment) and FSO (Federal Statistical Office).
@@ -36,18 +50,6 @@ Since April 2024: **Data Scientist and Project Manager** at the [Swiss Federal A
 **SIARD-LD** (_SIARD zu Linked Data_)
 - Collaboration & Management: Working with FHGR (Fachhochschule Graubünden) and overseeing contractual and financial matters.
 - Deliverables & Innovation: Publishing deliverables on GitHub, conceptualising post-project implementations and showcasing results.
-
-
-Since February 2021: **Lecturer** (self-employed/contract)
-- At the HES-SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève, Bachelor Information Science
-	- Teaching the Introduction to Open Data course: 2023-2024 (16h)
-	- Assessing bachelor's theses in an expert capacity: 2021-2022 (1x), 2022-2023 (1x), 2023-2024 (1)
-- At the University of Zurich / Zurich Central Library, CAS Data Management and Information Technologies (DMIT)
-	- Teaching the IIIF course: 2021 (4h), 2022 (8h), 2023 (8h), 2024 (8h)
-	- Monitoring and assessing students' project work and reports
-- At the University of Zurich / Zurich Central Library, MAS Bibliotheks- und Informationswissenschaft (BIW)
-	- Teaching the IIIF course: 2021-2023 (4h), 2023-2025 (4h)
-	- Monitoring and assessing students' project work and reports
 
 February 2021 - October 2024: **Interoperability Specialist** at the [DaSCH – Swiss National Data and Service Center for the Humanities][dasch]
 - Advising on the use of standards and tools
