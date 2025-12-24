@@ -20,8 +20,9 @@ Julien is particularly interested in ways of improving the digital preservation,
 
 ### Experience :office:
 
-Since February 2025: **Research Associate** at the [Walter Benjamin Kolleg / Digital Humanities][dh-unibe], University of Bern
+Since January 2026: **Digital Archiving Project Manager** at [docuteam][docuteam]
 
+Since February 2025: **Research Associate** at the [Walter Benjamin Kolleg / Digital Humanities][dh-unibe], University of Bern
 
 Since February 2021: **Lecturer** (self-employed/contract)
 - At the HES-SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève, Bachelor Information Science
@@ -155,6 +156,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 [dasch]: https://dasch.swiss/
 [dhlab]: https://dhlab.philhist.unibas.ch/
 [dh-unibe]: https://www.dh.unibe.ch/ 
+[docuteam]: https://www.docuteam.ch/
 [fri-son]: https://fri-son.ch/
 [heg]: https://www.hesge.ch/heg/
 [iiif]: https://iiif.io/
