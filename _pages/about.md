@@ -20,7 +20,7 @@ I successfully defended my PhD thesis in November 2024: [Linked Open Usable Data
 
 From April 2024 to December 2025, I worked as a Data Scientist and Project Manager at the [Swiss Federal Archives][bar], coordinating the development of LINDASnext, a platform enabling public administrations to publish and visualise their data as knowledge graphs.
 
-Since February 2025, I'm a Research Associate at the [Walter Benjamin Kolleg / Digital Humanities][dh-unibe], University of Bern, and since January 2026, I work as a Digital Archiving Project Manager at [docuteam][docuteam].
+Since February 2025, I'm a Research Associate at the [Walter Benjamin Kolleg / Digital Humanities][dh-unibe], University of Bern, and since January 2026, I work as a Semantic Architect and Digital Archiving Project Manager at [docuteam][docuteam].
 
 ## [About this website]
 

@@ -8,7 +8,7 @@ permalink: /cv/
 
 ## Summary (tl;dr)
 
-[Julien Antoine Raemy][name] (he/him) currently works as a Digital Archiving Project Manager at docuteam. He is also a research associate at the University of Bern (Walter Benjamin Kolleg, Digital Humanities). He holds a PhD in Digital Humanities from the University of Basel, successfully defended his thesis in November 2024, with a dissertation titled [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability][phd]. He also holds a Bachelor’s and Master’s degree in Information Science from the HES-SO University of Applied Sciences and Arts of Western Switzerland.
+[Julien Antoine Raemy][name] (he/him) currently works as a Semantic Architect and Digital Archiving Project Manager at docuteam. He is also a research associate at the University of Bern (Walter Benjamin Kolleg, Digital Humanities). He holds a PhD in Digital Humanities from the University of Basel, successfully defended his thesis in November 2024, with a dissertation titled [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability][phd]. He also holds a Bachelor’s and Master’s degree in Information Science from the HES-SO University of Applied Sciences and Arts of Western Switzerland.
 
 He has worked extensively in academia and in or for the cultural heritage domain, including as a Photo Archivist for the Montreux Jazz Digital Project at the École Polytechnique Fédérale de Lausanne (2015–2017), as a Research and Teaching Assistant at the Haute école de gestion de Genève (2017–2021), as an Interoperability Specialist at DaSCH, Swiss National Data and Service Center for the Humanities (2021–2024), and as a Data Scientist and Project Manager at the Swiss Federal Archives (2024-2025).
 
@@ -20,7 +20,7 @@ Julien is particularly interested in ways of improving the digital preservation,
 
 ### Experience :office:
 
-Since January 2026: **Digital Archiving Project Manager** at [docuteam][docuteam]
+Since January 2026: **Semantic Architect / Digital Archiving Project Manager** at [docuteam][docuteam]
 
 Since February 2025: **Research Associate** at the [Walter Benjamin Kolleg / Digital Humanities][dh-unibe], University of Bern
 
