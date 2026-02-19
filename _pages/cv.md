@@ -112,7 +112,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 - Since 2023: Member of the Linked Art [Editorial Board][la-community]
 
-#### Archival Resource Key (ARK) Alliance [:link:][ark]
+#### Archival Resource Key (ARK) Alliance [:link:][arks]
 *formerly "ARKs in the Open (AITO)"*
 
 - Since February 2026: ARK Alliance [Technical Working Group][ark-cg] Member
