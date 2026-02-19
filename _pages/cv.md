@@ -12,7 +12,7 @@ permalink: /cv/
 
 He has worked extensively in academia and in or for the cultural heritage domain, including as a Photo Archivist for the Montreux Jazz Digital Project at the École Polytechnique Fédérale de Lausanne (2015–2017), as a Research and Teaching Assistant at the Haute école de gestion de Genève (2017–2021), as an Interoperability Specialist at DaSCH, Swiss National Data and Service Center for the Humanities (2021–2024), and as a Data Scientist and Project Manager at the Swiss Federal Archives (2024-2025).
 
-He is an active member of the International Image Interoperability Framework (IIIF) and Linked Art communities. He has also been involved in the Archival Resource Key (ARK) Alliance.
+He is actively involved in the International Image Interoperability Framework (IIIF) and the Linked Art communities, as well as being a member of the Archival Resource Key (ARK) Alliance.
 
 Julien is particularly interested in ways of improving the digital preservation, dissemination and interoperability of cultural heritage objects and their associated metadata through the application of standards that adhere to the Linked Open Usable Data (LOUD) design principles.
 
@@ -115,7 +115,8 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 #### Archival Resource Key (ARK) Alliance [:link:][ark]
 *formerly "ARKs in the Open (AITO)"*
 
-- Since January 2020: ARK Alliance [Outreach Working Group][aito-outreach] Member
+- Since February 2026: ARK Alliance [Technical Working Group][ark-cg] Member
+- January 2020 - January 2026: ARK Alliance [Outreach Working Group][ark-cg] Member
 
 #### Bibliosuisse [:link:][bibliosuisse]
 *formerly "Bibliothèque Information Suisse" (BIS)*
@@ -147,7 +148,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 [agbd]: https://www.agbd.ch/
 [arks]: https://arks.org/
-[aito-outreach]: https://wiki.lyrasis.org/display/ARKs/Outreach+Working+Group
+[ark-cg]: https://arks.org/community-groups/
 [amda]: https://amda.ch/
 [arketype]: https://www.arketype.ch/
 [bibliosuisse]: https://bibliosuisse.ch/
