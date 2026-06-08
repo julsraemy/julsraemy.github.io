@@ -16,12 +16,12 @@ date: 2026-06-26 12:42:42 +0100
 
 ## My First Decade in the IIIF Community — Highlights and Reflections from the 2026 Annual Conference in the Netherlands
 
-In October 2016 I was in The Hague for the [Working Goups Meeting](https://iiif.io/event/2016/thehague/) and I have still very fond memories of my first International Image Interoperability Framework (IIIF - say *triple-eye-eff*) event and proud to say that some people that I call friends some people I met there. I must say this was quite challenging to understand everything but this was an eye openener. 
+In October 2016, I attended the [Working Goups Meeting](https://iiif.io/event/2016/thehague/) in The Hague and I still have very fond memories of my first International Image Interoperability Framework (IIIF – pronounced 'triple-eye-eff') event. I am proud to say that I made some friends there. I must say that it was quite challenging to understand everything, but it was an eye-opener. 
 
-Ten years later, I'm still involved in this incredible community and back in the Netherlands for the annual conference. 
+![My first message on the IIIF Slack workspace](../assets/2016-iiifslack-firstmessage.png)
+*Yes, in case you were wondering, a few people did reply to my first message on Slack.*
 
-Organisation of the conference, format
-
+Ten years later, I'm still involved in this incredible community, and I'm back in the Netherlands for the annual conference, which took place in three Dutch cities from 1 to 4 June. As in previous years, the [2026 IIIF Conference](https://conference2026.iiif.io/) comprised the following: on Monday, a showcase — a free event primarily intended for newcomers — took place in Amsterdam. The annual conference itself was held in Leiden on Tuesday and Wednesday, while the workshops and Birds of a Feather sessions were located in The Hague on Thursday. More than 200 people from XYZ registered for this event. 
 
 
 2016 vs 2026
