@@ -125,38 +125,3 @@ In the afternoon I slipped away to visit [Molen de Valk](https://www.molenmuseum
 It's a strange and lovely thing to return to the Netherlands a decade after my first IIIF event and find the same community — bigger, more international, wrestling with new questions (AI, sustainability, ethics, scraping) but still recognisably the room I walked into in 2016, slightly bewildered, in The Hague. The friends are still here. The fun is still here. And there's still a great deal I can't read, to borrow Derek Lomas's line — which is, I suppose, the whole point of building things that let us share what we *can*.
  
 Next year the conference heads to Paris, hosted by the [French National Library (BnF)](https://www.bnf.fr/), in the second week of June 2027. *A l'année prochaine !* 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-----
-
-
-News from the community:
-
-- Alpha draft of [IIIF Presentation API 4.0](https://iiif.io/api/presentation/4.0/) (the release candidate) has been released! that can handle 3D. The editors are welcoming any issues, preferably on GitHub but can be community through the 3D or technical channels on the IIIF Slack workspace or through the mailing list (IIIF discuss). Already a few cookbook recipes in a branch (preview website) available at https://preview.iiif.io/cookbook/v4/. 
-- [Coordinating Committee (CoCo)](https://iiif.io/community/coordinating-committee/) is now the Community Committee (still CoCo), changes to be soon reflected on the IIIF website, and its revised form will work more as a conduit between the consortium and the community, and act as a sounding board. I have been a member of CoCo since May 2020 and will continue to do for the next two or three years (now serving times of either 2 or 3 years). 
-
-I will here focus on the presentations and lightning talks that happenend on Tuesday 2nd and Wednesday 3rd June 2026 at the Scheltema Leiden as well as the Bot Management session. As it has been the case for the past several conferences, the conference talks are recorded and available as playlist on YouTube. 
-
-(...)
-
-For the first time we had a poster session, was nice to have them. It's also great in terms of inclusion as many people need to have submitted something so they can attend (same goes with the birds of feather and workshop sessions that are usually always accepted if relevant to the community at large)
-
-The conference ended with the very traditional *Fun with IIIF* lightning talk by Triiistan Rodiiis. 
-
-Ten years ago, Tristan already gave a similiar presentation (more seriously titled then *Fun with IIIF APIs*). I can't say if it was the first time he gave it, but it must have been one of the first *I don't care about your scholarly use cases, I'm only here for the fun* opening the community ever heard.   
-
-Next year Paris the conference will be at the French National Library (BnF), the second week of June 2027. 
