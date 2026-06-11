@@ -11,7 +11,7 @@ tags:
   - Community
   - IIIF
   - Cultural Heritage
-date: 2026-06-26 12:42:42 +0100
+date: 2026-06-12 14:42:42 +0100
 ---
 
 ## My First Decade in the IIIF Community — Highlights and Reflections from the 2026 Annual Conference in the Netherlands
@@ -21,7 +21,7 @@ In October 2016, I attended the [Working Goups Meeting](https://iiif.io/event/20
 ![My first message on the IIIF Slack workspace](../assets/2016-iiifslack-firstmessage.png)
 *Yes, in case you were wondering, a few people did reply to my first message on Slack.*
 
-Ten years later, I'm still involved in this incredible community, and I'm back in the Netherlands for the annual conference, which took place in three Dutch cities from 1 to 4 June. As in previous years, the [2026 IIIF Conference](https://conference2026.iiif.io/) comprised the following: on Monday, a showcase — a free event primarily intended for newcomers — took place in Amsterdam. The annual conference itself was held in Leiden on Tuesday and Wednesday, while the workshops and Birds of a Feather sessions were located in The Hague on Thursday. More than 200 people from several (*I can't remember how many- I will add it later if I find it*) countries registered for this four-day event. 
+Ten years later, I'm still involved in this incredible community, and I'm back in the Netherlands for the annual conference, which took place in three Dutch cities from 1 to 4 June. As in previous years, the [2026 IIIF Conference](https://conference2026.iiif.io/) comprised the following: on Monday, a showcase — a free event primarily intended for newcomers — took place in Amsterdam. The annual conference itself was held in Leiden on Tuesday and Wednesday, while the workshops and Birds of a Feather sessions were located in The Hague on Thursday. Around 220 people from 30 countries registered for this four-day event. 
 
 There's a small decision I wrestle with at every conference: do I live-toot the sessions — *RIP Twitter account*, a habit I never fully transplanted to Mastodon — or do I keep my head down and take proper notes? This time I went with notes, which is also why this write-up exists at all. The last time I did this exercise was two years ago, for the [2024 IIIF Conference in Los Angeles](https://julsraemy.ch/posts/2024/06/26/iiif-conference-la/). As ever, the talks from the conference (Tuesday and Wednesday) were recorded and are available as a [playlist on YouTube](https://www.youtube.com/playlist?list=PLYPP1-8uH9c6e7BmQlEb4wTtqD513wYZA), so anything I missed — and on Wednesday there was a fair amount, more on that below — can be caught up on later.
  
@@ -50,7 +50,7 @@ The week opened at the Tolhuistuin in Amsterdam with the Showcase, the gentle on
  
 ### Tuesday: a full day of plenaries in Leiden
  
-The conference proper opened in the Theaterzaal of the Scheltema with a welcome from Geertrui Verbraak (Director of the KB, the national library, and chair of the Dutch Digital Heritage Network / NDE) and a plenary from Martin Kalfatovic, Glen Robson, and Caitlin Perry. Tuesday ran as a single track all day, which made it the most "everyone in one room" day of the week.
+The conference proper opened in the Theaterzaal of the Scheltema with a welcome from Geertrui Verbraak (Director of the KB, the national library, and chair of the Dutch Digital Heritage Network / NDE) and a plenary from Martin Kalfatovic, Glen Robson, and Caitlin Perry who gave us a community update. Tuesday ran as a single track all day, which made it the most "everyone in one room" day of the week.
  
 #### Commons, commons everywhere
  
