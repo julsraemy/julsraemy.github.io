@@ -45,7 +45,7 @@ There's a small decision I wrestle with at every conference: do I live-toot the 
     allowfullscreen></iframe>
 </div>
 
-*One grumble: I am a little bit disappointed by the quality of the video recodings this year.*
+*One grumble: I am a little bit disappointed by the quality of the video recodings of talks that happen in the Theaterzaal (the vast majority). The recordings done in the Expo 1 room looks great!*
 
 ### News from the community
  
