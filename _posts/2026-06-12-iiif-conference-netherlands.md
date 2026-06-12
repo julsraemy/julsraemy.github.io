@@ -150,6 +150,8 @@ Wednesday split into two parallel tracks for the morning — the Theaterzaal and
  
 #### What I caught
  
+##### Interactive 2D, Micrio, Glycerine
+
 In the first slot (Expo 1), Theresa Berger and Emily Beck (Minnesota) presented the [**Interactive 2D**](https://iiif.io/community/groups/2D/) Community Group's work — volvelles, flaps, pull-tabs, harlequinades: the objects where *the meaning is in the interactivity*, and where IIIF is already inching forward through cookbook recipes like [Choice](https://iiif.io/api/cookbook/recipe/0033-choice/) and [Foldouts, Flaps, and Maps](https://iiif.io/api/cookbook/recipe/0035-foldouts/) - *see below this cookbook recipe in the Theseus viewer*. Then Erwin Verbruggen and Marcel Duin (Q42) told the story of [**Micrio**](https://micr.io/) from project to subscription venture to (as of 2025) an open-source IIIF image viewer with great demonstrations (such as the [360º Vermeer Exhibition](https://www.rijksmuseum.nl/en/vermeer-360) or [Modemuze: Fashion Objects in Ultra-Resolution 3D](https://modemuze.nl/360-collection)) from an eclectic user base spanning museums, broadcasters, NGOs, and political parties. And Ian McCrabb (Systemik Solutions) showed [**Glycerine**](https://glycerine.io/)'s Annotation Sets and Templates: multiple coexisting interpretive layers, authored and published from a single manifest without duplication.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
@@ -172,6 +174,10 @@ In the first slot (Expo 1), Theresa Berger and Emily Beck (Minnesota) presented 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
   ></iframe>
 </div>
+
+*Outlines of geology being the substance of a course of lectures delivered in the Theatre of the Royal Institution in the year 1816, Foldouts, Flaps, and Maps Cookbook Recipe, <https://iiif.io/api/cookbook/recipe/0035-foldouts/manifest.json> in the Theseus Viewer*
+
+##### Image Server Benchmarkings, Getty Manifest Generation Pipeline, IIIF and Digital Preservation
 
 For the second slot I crossed to the Theaterzaal, which turned out to be the most technical stretch of the conference in my opinion. Ruven Pillay (C2RMF / French Ministry of Culture) delivered a genuinely meaty benchmark of IIIF image server performance — the kind of talk I take pages of notes on. A few of the findings worth keeping: IIIF serving is very disk-read dependent (and S3 is popular but slow for random access); Docker carries roughly a 60% performance penalty over bare metal; uncompressed tiled multi-resolution pyramid TIFF is by far the fastest input format (using JPEG as input was ~300× slower to decode); and across servers, [iipsrv](https://iipimage.sourceforge.io/) came out fastest for all formats tested, with SIPI surprisingly slow for TIFF. The next IIPImage release (v1.4, late 2026) will add JPEG-XL output. Matthew Yang (University of Chicago) arrived at a compatible conclusion in *Serving Images Hot*: for [UChicagoNode](https://www.lib.uchicago.edu/), FreeBSD with iipsrv and uncompressed pyramidal TIFF, with the takeaway that compression is a *storage* decision while server choice drives *rendering*. Two independent benchmarks landing on (almost I rekcon) the same stack is about as close to community consensus as you get.
  
