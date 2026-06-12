@@ -1,7 +1,7 @@
 ---
 title: "My First Decade in the IIIF Community — Highlights and Reflections from the 2026 Annual Conference in the Netherlands"
 excerpt: "The 2026 International Image Interoperability Framework (IIIF) Conference took place during the first week of June across three Dutch cities: Amsterdam, Leiden, and The Hague. I came away with plenty of notes and a few things I want to talk through, made all the more meaningful by a small coincidence: this also marks ten years of my involvement in the IIIF community, which began at a working groups meeting in The Hague."
-toc: false
+toc: true
 toc_label: "Table of Contents"
 categories:
   - posts
