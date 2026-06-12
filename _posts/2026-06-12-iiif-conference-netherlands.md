@@ -95,7 +95,7 @@ Anne McLaughlin (Trinity College, Cambridge) followed with *[Preserving the Apoc
  
 The block then handed off to a **lightning round of poster presentations**, a first for the conference (more on that below). The posters: the [DOMI](https://ait.co.at/en/domi-2/) project bringing Styrian archaeology into IIIF Presentation API v4 with 3D; Ursula Loosli (University of Bern) on sustainability as an *organisational and human* problem, not just a technical one (data stewards coordinating people, roles, and responsibilities, see their great [IIIF service](https://www.dh.unibe.ch/services/iiif_service_for_images/index_eng.html)); the [mirador-xyviewer](https://github.com/CRC-Centre-Recherche-Conservation/mirador-xyviewer) plugin pulling physicochemical data (Raman, FTIR, XRF) into Mirador 4; [Spatial Anchors](https://necessaryreunions.org/) for annotating and georeferencing historical maps via the [IIIF Georeference Extension](https://iiif.io/api/extension/georef/); the [INTERIM-Annotator](http://w3id.org/interim) for semantic, intermedial annotation built on CIDOC-CRM and LRMoo; and Marina Sartori (Hamburg) on intermedial echoes in ancient Egyptian manuscripts.
 
-![Poster Presentation by Ursula Loosli (University of Bern): Sustainability in the context of IIIF that goes beyond technique](../assets/images/2026iiif-unibe.jpg)
+![Poster Presentation by Ursula Loosli (University of Bern): Sustainability in the context of IIIF that goes beyond technique](https://julsraemy.ch/assets/images/2026iiif-unibe.jpg)
 *Ursula Loosli (University of Bern) presenting her poster. Yes, I unsuprisingly took this picture as I am affiliated with this institution as an associate researcher.*
  
 #### Lightning talks
