@@ -14,11 +14,12 @@ source "https://rubygems.org"
 # To upgrade, run `bundle update`.
 
 gem "jekyll"
-gem "minimal-mistakes-jekyll"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-gem 'jekyll-algolia', '~> 1.0'
+  gem "jekyll-algolia", "~> 1.0"
+  gem "jekyll-remote-theme"
+  gem "jekyll-include-cache"
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
   gem "jekyll-gist"
