@@ -21,12 +21,15 @@ Julien is particularly interested in ways of improving the digital preservation,
 ### Experience :office:
 
 Since January 2026: **Semantic Architect and Project Manager** at [docuteam](https://www.docuteam.ch/)
-- Leading database migration and mapping to Records in Contexts (RiC), as well as ETL pipeline development, for customer projects
-- Defining the IIIF implementation strategy and architectural blueprints for docuteam cosmos, a suite of OAIS‑compliant software
-- Supporting archival description and dissemination projects, drawing on docuteam context (a RiC‑based archival information system) and docuteam sirius (docuteam's publication portal)
-- Contributing to preserve2027, delivering docuteam box, built on a Fedora 6‑based repository system, for the Staatsarchiv Basel‑Stadt
+- Leading database migration and mapping to Records in Contexts (RiC) for customer projects
+- Configuring docuteam desk, a submission management application, for pre-ingest: submission spaces, required metadata and validation workflows that streamline ingest into docuteam box or docuteam context, with docuteam feeder running in the background
+- Designing processing workflows in line with the OAIS model in docuteam feeder, from transfer preparation to the creation and ingest of submission information packages (SIPs), alongside ETL pipelines for metadata
+- Defining the IIIF implementation strategy and architectural blueprints for docuteam cosmos, a digital preservation software suite
+- Supporting archival description and dissemination projects, drawing on docuteam context (a RiC-based archival information system) and docuteam sirius (docuteam's publication portal)
+- Contributing to preserve2027, delivering docuteam box, built on a Fedora 6-based repository system, for the Staatsarchiv Basel-Stadt
 - Developing and validating (SHACL) docuteam's data model ahead of its publication as dereferenceable linked data
 - Producing and translating technical documentation, and providing training and support for customers
+
 
 Since February 2025: **Associate Researcher** at the [Walter Benjamin Kolleg / Digital Humanities Center](https://www.dh.unibe.ch/), University of Bern
 - Pursuing research on Linked Open Usable Data (LOUD) for cultural heritage, with a focus on interoperable linked data modelling for dispersed photographic archives
