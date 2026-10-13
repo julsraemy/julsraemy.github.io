@@ -111,4 +111,4 @@ This section lists selected presentations. A more exhaustive list, including tal
 
 ## Awards :tada:
 
-- November 2017: [Prix romand en bibliothéconomie](https://heg.hesge.ch/photos/ceremonie-diplomes-2017-prix-speciaux) awarded by Association genevoise des bibliothécaires et professionnels diplômées en information documentaire (AGBD), Groupe régional des bibliothécaires vaudois (GRBV), Info Doc Valais - Info Dok Wallis (IDVS), and Association des bibliothèques fribourgeoises (ABF)
+- November 2017: [Prix romand en bibliothéconomie](https://heg.hesge.ch/photos/ceremonie-diplomes-2017-prix-speciaux) awarded by Association genevoise des bibliothécaires et professionnels diplômés en information documentaire (AGBD), Groupe régional des bibliothécaires vaudois (GRBV), Info Doc Valais - Info Dok Wallis (IDVS), and Association des bibliothèques fribourgeoises (ABF)
