@@ -6,178 +6,109 @@ toc_label: Table of Contents
 permalink: /publications/
 ---
 
-## Articles, Conference papers, Theses :pencil:
+References follow the Chicago Manual of Style (author‑date). Entries are listed in reverse chronological order.
 
-- RAEMY, Julien Antoine (2024). [*Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability*][phd] [Doctoral Thesis, University of Basel]. 
-- FELSING, Ulrike, FORNARO, Peter, FRISCHKNECHT, Max, and RAEMY, Julien Antoine (2023). [Community and Interoperability at the Core of Sustaining Image Archives][dhnb2023-paper]. *DHNB2023 Conference Proceedings*. October 2023. 5(1), 40-54. DOI: 10.5617/dhnbpub.10649
-- CORNUT, Murielle, RAEMY, Julien Antoine, and SPIESS, Florian (2023). [Annotations as Knowledge Practices in Image Archives: Application of Linked Open Usable Data and Machine Learning][jocch-aeolian]. *Journal on Computing and Cultural Heritage*. September 2023. DOI: 10.1145/3625301
-- MANZ, Marian Clemens, RAEMY, Julien Antoine and FORNARO, Peter (2023). [Recommended 3D Workflow for Digital Heritage Practices][archiving2023-paper]. *Archiving Conference*, 20, pp. 23–28. DOI: 10.2352/issn.2168-3204.2023.20.1.5
-- RAEMY, Julien Antoine and GAUTSCHY, Rita (2023). [Élaboration d'un processus pour les images 3D reposant sur IIIF][humanistica2023-hal]. *Humanistica 2023*. Université de Genève, Geneva, Switzerland. June 2023.
-- RAEMY, J. A. (2022). [Améliorer la valorisation des données du patrimoine culturel grâce au Linked Open Usable Data (LOUD)][hnws2022-paper]. *Actes des journées humanités numériques et Web sémantique*. Nancy, France. In N. Lasolle, O. Bruneau & J. Lieber (Eds.), p. 132-149. DOI: 10.5281/zenodo.7014341
-- RAEMY, J. A. (2021). [*Applying Effective Data Modelling Approaches for the Creation of a Participatory Archive Platform*][dhsemepfl2021-paper]. Human Factors in Digital Humanities (PhD Seminar). Ecole Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland. 16 December 2021.
-- FREIRE, Nuno, MEIJERS, Enno, DE VALK, Sjors, RAEMY, Julien Antoine, ISAAC, Antoine (2021). [*Metadata Aggregation via Linked Data: Results of the Europeana Common Culture Project*][eccp]. In GAROUFALLOU E., OVALLE-PERANDONES, M.-A. (Eds.). Metadata and Semantic Research. MTSR 2020. Communications in Computer and Information Science, vol 1355 (pp. 383–394). 2021
-- RAEMY, Julien Antoine (2020). [*Vers la fin d’OAI-PMH pour Europeana ?*][bibioinfo]. Bibliosuisse INFO. 2020. Vol. 2, no. 4, p. 10. ISSN 2624-8646
-- RAEMY, Julien Antoine (2020). [*Enabling better aggregation and discovery of cultural heritage content for Europeana and its partner institutions*][tm]. Master's thesis. Geneva, Switzerland : HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève, 2020.
-- CEVEY, Matthieu, RAEMY, Julien Antoine and SCHNEIDER, René (dir) 2020. [*Swiss PID Hub : Création d’un Hub pour la gestion des identifiants pérennes en Suisse*][hub-rero]. Geneva, Switzerland : HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève, 2020.
-- RAEMY, Julien Antoine, SCHNEIDER, René (2019). [Towards Trusted Identities for Swiss Researchers and their Data][ijdc-19]. *International Journal of Digital Curation (IJDC)*. 11 September 2019. Vol. 14, no. 1, p. 303–314. DOI 10.2218/ijdc.v14i1.596
-- RAEMY, Julien Antoine, SCHNEIDER, René (2019). [Les métiers des données : à l’intérieur, à l’extérieur et entre les mondes de la bibliothéconomie et de l‘archivistique][arodes-ht2]. *Hors-Texte*. September 2019. Vol. 2019, no. 117, p. 46-52
-- RAEMY, Julien Antoine, SCHNEIDER, René (2019). [*Suggested measures for deploying IIIF in Swiss cultural heritage institutions*][ticks-wp]. White Paper. Geneva, Haute école de gestion de Genève. 29 May 2019. DOI 10.5281/zenodo.2640416
-- RAEMY, Julien Antoine (2018). [IIIF ou comment enfin valoriser ses images numériques de manière optimale et interopérable][arodes-ht1]. *Hors-Texte*. 25 April 2018. Vol. 2018, no. 115, p. 22-32.
-- RAEMY, Julien Antoine (2017). [Interopérabilité des images : de la nécessité des tests d’utilisabilité][ressi1]. *Revue électronique suisse de science de l’information (RESSI)*. 20 December 2017. Vol. 2017, no. 18.
-- RAEMY, Julien Antoine (2017). [Retour sur la conférence IIIF (International Image Interoperability Framework), 7-9 juin 2017 au Vatican][ressi2]. *Revue électronique suisse de science de l’information (RESSI)*. 20 December 2017. Vol. 2017, no. 18.
-- RAEMY, Julien Antoine (2017). [*The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions*][tb]. Bachelor’s thesis. Geneva, Switzerland : HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève, 2020.
-- RAEMY, Julien Antoine, FORNARO, Peter and ROSENTHALER, Lukas (2017). [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 14, no. 1, pp. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68.
+## Theses :mortar_board:
 
+- Raemy, Julien Antoine. 2024. "Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability." PhD dissertation, University of Basel. <https://hdl.handle.net/20.500.14716/148352>.
+- Raemy, Julien Antoine. 2020. "Enabling Better Aggregation and Discovery of Cultural Heritage Content for Europeana and Its Partner Institutions." Master's thesis, HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève. <https://sonar.ch/hesso/documents/315109>.
+- Raemy, Julien Antoine. 2017. "The International Image Interoperability Framework (IIIF): Raising Awareness of the User Benefits for Scholarly Editions." Bachelor's thesis, HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève. <https://sonar.ch/hesso/documents/314853>.
 
-## Book chapter 📖
+## Journal articles :pencil:
 
-- Raemy, Julien Antoine, & Sanderson, Robert (2024). [Analysis of the Usability of Automatically Enriched Cultural Heritage Data][analysis-decodingch2024]. In F. Moral-Andrés, E. Merino-Gómez, & P. Reviriego (Eds.), _Decoding Cultural Heritage: A Critical Dissection and Taxonomy of Human Creativity through Digital Tools_ (pp. 69–93). Springer Nature Switzerland. DOI: 10.1007/978-3-031-57675-1_4
+- Cornut, Murielle, Julien Antoine Raemy, and Florian Spiess. 2023. "Annotations as Knowledge Practices in Image Archives: Application of Linked Open Usable Data and Machine Learning." *Journal on Computing and Cultural Heritage*. <https://doi.org/10.1145/3625301>.
+- Felsing, Ulrike, Peter Fornaro, Max Frischknecht, and Julien Antoine Raemy. 2023. "Community and Interoperability at the Core of Sustaining Image Archives." *Digital Humanities in the Nordic and Baltic Countries Publications* 5 (1): 40–54. <https://doi.org/10.5617/dhnbpub.10649>.
+- Freire, Nuno, Enno Meijers, Sjors de Valk, Julien Antoine Raemy, and Antoine Isaac. 2021. "Metadata Aggregation via Linked Data: Results of the Europeana Common Culture Project." In *Metadata and Semantic Research: MTSR 2020*, edited by Emmanouel Garoufallou and María‑Antonia Ovalle‑Perandones, 383–94. Communications in Computer and Information Science 1355. Cham: Springer. <https://doi.org/10.1007/978-3-030-71903-6_35>.
+- Raemy, Julien Antoine. 2020. "Vers la fin d'OAI‑PMH pour Europeana ?" *Bibliosuisse INFO* 2 (4): 10. <https://www.researchgate.net/publication/372768635_Vers_la_fin_d'OAI-PMH_pour_Europeana>.
+- Raemy, Julien Antoine, and René Schneider. 2019. "Towards Trusted Identities for Swiss Researchers and Their Data." *International Journal of Digital Curation* 14 (1): 303–14. <https://doi.org/10.2218/ijdc.v14i1.596>.
+- Raemy, Julien Antoine, and René Schneider. 2019. "Les métiers des données : à l'intérieur, à l'extérieur et entre les mondes de la bibliothéconomie et de l'archivistique." *Hors‑Texte*, no. 117: 46–52. <https://arodes.hes-so.ch/record/4063>.
+- Raemy, Julien Antoine. 2018. "IIIF ou comment enfin valoriser ses images numériques de manière optimale et interopérable." *Hors‑Texte*, no. 115: 22–32. <https://arodes.hes-so.ch/record/2394>.
+- Raemy, Julien Antoine. 2017. "Interopérabilité des images : de la nécessité des tests d'utilisabilité." *Revue électronique suisse de science de l'information (RESSI)*, no. 18. <https://doi.org/10.55790/journals/ressi.2017.e1808>.
+- Raemy, Julien Antoine. 2017. "Retour sur la conférence IIIF (International Image Interoperability Framework), 7‑9 juin 2017 au Vatican." *Revue électronique suisse de science de l'information (RESSI)*, no. 18. <https://doi.org/10.55790/journals/ressi.2017.e1809>.
+
+## Conference papers :page_facing_up:
+
+- Raemy, Julien Antoine. 2025. "Collections IIIF et recherche optimisée : transformer l'accès aux dossiers numérisés aux Archives fédérales suisses." Paper presented at the Journée d'étude en ligne Biblissima+ : Nouveaux usages de IIIF pour l'enrichissement des collections numériques et la recherche, online, December 2025. <https://doi.org/10.48620/93004>.
+- Raemy, Julien Antoine. 2025. "LOUD et clair : comment les normes communautaires transforment l'engagement du public dans le patrimoine culturel." Paper presented at the Journée d'étude en ligne Biblissima+ : Nouveaux usages de IIIF pour l'enrichissement des collections numériques et la recherche, online, December 2025. <https://doi.org/10.48620/93005>.
+- Manz, Marian Clemens, Julien Antoine Raemy, and Peter Fornaro. 2023. "Recommended 3D Workflow for Digital Heritage Practices." *Archiving Conference* 20: 23–28. <https://doi.org/10.2352/issn.2168-3204.2023.20.1.5>.
+- Raemy, Julien Antoine, and Rita Gautschy. 2023. "Élaboration d'un processus pour les images 3D reposant sur IIIF." Paper presented at Humanistica 2023, Université de Genève, Geneva, June 2023. <https://hal.science/hal-04099506>.
+- Raemy, Julien Antoine. 2022. "Améliorer la valorisation des données du patrimoine culturel grâce au Linked Open Usable Data (LOUD)." In *Actes des journées humanités numériques et Web sémantique*, edited by Nicolas Lasolle, Olivier Bruneau, and Jean Lieber, 132–49. Nancy. <https://doi.org/10.5281/zenodo.7014341>.
+- Raemy, Julien Antoine. 2021. "Applying Effective Data Modelling Approaches for the Creation of a Participatory Archive Platform." Paper presented at Human Factors in Digital Humanities (PhD Seminar), École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, 16 December 2021. <https://www.researchgate.net/publication/357649220>.
+- Raemy, Julien Antoine, Peter Fornaro, and Lukas Rosenthaler. 2017. "Implementing a Video Framework Based on IIIF: A Customized Approach from Long‑Term Preservation Video Formats to Conversion on Demand." *Archiving Conference* 14 (1): 68–73. <https://doi.org/10.2352/issn.2168-3204.2017.1.0.68>.
+
+## Reports and white papers :clipboard:
+
+- Raemy, Julien Antoine. 2026. *IIIF in Switzerland: A Landscape of Compatible Platforms and Engaged Institutions*. Version 1.0. Report. Bern: University of Bern. <https://doi.org/10.5281/zenodo.23242984>.
+- Cevey, Matthieu, and Julien Antoine Raemy. 2020. *Swiss PID Hub : création d'un Hub pour la gestion des identifiants pérennes en Suisse*. Supervised by René Schneider. Geneva: HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève. <https://sonar.ch/hesso/documents/315101>.
+- Raemy, Julien Antoine, and René Schneider. 2019. *Suggested Measures for Deploying IIIF in Swiss Cultural Heritage Institutions*. White paper. Geneva: HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève. <https://doi.org/10.5281/zenodo.2640416>.
+
+## Book chapter :book:
+
+- Raemy, Julien Antoine, and Robert Sanderson. 2024. "Analysis of the Usability of Automatically Enriched Cultural Heritage Data." In *Decoding Cultural Heritage: A Critical Dissection and Taxonomy of Human Creativity through Digital Tools*, edited by Fernando Moral‑Andrés, Elena Merino‑Gómez, and Pedro Reviriego, 69–93. Cham: Springer Nature Switzerland. <https://doi.org/10.1007/978-3-031-57675-1_4>.
 
 ## Scientific posters :scroll:
 
-- SAUVAGE, Audray and RAEMY, Julien Antoine (2024). [Multimodal UI for Video Retrieval at the Swiss Federal Archives][digihistch24]. *Digital History Switzerland 2024*. Basel, Switzerland.
-- RAEMY, Julien Antoine, GRAY, Tanya, COLLINSON, Alwyn and PAGE, Kevin R. (2023). [Enabling Participatory Data Perspectives for Image Archives through a Linked Art Workflow][dh2023-poster]. *Digital Humanities 2023*. Graz, Austria. DOI: 10.5281/zenodo.7878358
-- RAEMY, Julien Antoine and GAUTSCHY, Rita (2023). [Élaboration d'un processus pour les images 3D reposant sur IIIF][humanistica2023-poster]. *Colloque Humanistica 2023*. Université de Genève, Geneva, Switzerland. 28 June 2023. DOI 10.5281/zenodo.7927861
-- RAEMY, Julien Antoine (2022). [Back and Forth from Boundary Objects to IIIF resources: The Recipes of a Community-driven Initiative Specifying Standards][dariahchposter]. *DARIAH-CH Study Day*. Università della Svizzera Italiana (USI), Mendrisio, Switzerland. 20 October 2022. DOI 10.5281/zenodo.7015255
-- CEVEY, Matthieu and RAEMY, Julien Antoine (2019). [Swiss PID Hub : création d’un Hub pour la gestion des identifiants pérennes en Suisse][hub-poster]. *Session des posters scientifiques*. Scientific poster. Haute école de gestion de Genève, Geneva, Switzerland. 12 December 2019. DOI 10.5281/zenodo.3551008
+- Sauvage, Audray, and Julien Antoine Raemy. 2024. "Multimodal UI for Video Retrieval at the Swiss Federal Archives." Poster presented at Digital History Switzerland 2024, Basel. <https://digihistch24.github.io/submissions/poster/440/>.
+- Raemy, Julien Antoine, Tanya Gray, Alwyn Collinson, and Kevin R. Page. 2023. "Enabling Participatory Data Perspectives for Image Archives through a Linked Art Workflow." Poster presented at Digital Humanities 2023, Graz, Austria. <https://doi.org/10.5281/zenodo.7878358>.
+- Raemy, Julien Antoine, and Rita Gautschy. 2023. "Élaboration d'un processus pour les images 3D reposant sur IIIF." Poster presented at Colloque Humanistica 2023, Université de Genève, Geneva, 28 June 2023. <https://doi.org/10.5281/zenodo.7927861>.
+- Raemy, Julien Antoine. 2022. "Back and Forth from Boundary Objects to IIIF Resources: The Recipes of a Community‑Driven Initiative Specifying Standards." Poster presented at DARIAH‑CH Study Day, Università della Svizzera italiana (USI), Mendrisio, 20 October 2022. <https://doi.org/10.5281/zenodo.7015255>.
+- Cevey, Matthieu, and Julien Antoine Raemy. 2019. "Swiss PID Hub : création d'un Hub pour la gestion des identifiants pérennes en Suisse." Poster presented at Session des posters scientifiques, HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève, Geneva, 12 December 2019. <https://doi.org/10.5281/zenodo.3551008>.
 
 ## Presentations :bar_chart:
 
-- RAEMY, Julien Antoine (2024). [LOUD : Catalyseur de Convergence][cihn24-prezi]. *Conférence internationale sur les humanités numériques (CIHN24)*. Haute école de gestion de Genève, Carouge, Switzerland. 13 February 2024. DOI 10.5281/zenodo.10526541
-- RAEMY, Julien Antoine (2023). [Interconnected Resources on the Web: Unveiling Cultural Heritage through Linked Open Usable Data][g3s-noon]. *G3S Noon Talk*. 19 December 2023. 
-- RAEMY, Julien Antoine (2023). [Créer des API ouvertes : les pratiques et le tissu social des communautés IIIF et Linked Art][libreabc-prezi]. *LibreABC – Journée des logiciels libres en Archives, Bibliothèques et Centres de documentation*. Musée d'ethnographie de Genève, Geneva, Switzerland. 31 August 2023. [:video_camera:][libreabc-rec]
-- RAEMY, Julien Antoine (2023). [Les données ouvertes liées et utilisables (LOUD): Les protocoles IIIF et Linked Art][humanistica2023-tableronde]. In: CARBONI, Nicola, LINI, Gabriela, and BARRAS, Marie. Ouvrir les musées au(x) numérique(s) (Table ronde). *Colloque Humanistica 2023*. Musée d'Art et d'Histoire de Genève, Geneva, Switzerland. 26 June 2023. DOI: 10.5281/zenodo.8027954
-- MANZ, Marian Clemens, RAEMY, Julien Antoine, FORNARO, Peter (2023). [Recommended 3D Workflow for Digital Heritage Practices][archiving2023-prezi]. *Archiving 2023*. Oslo, Norway. 20 June 2023. DOI: 10.5281/zenodo.7870044
-- RAEMY, Julien Antoine (2023). [The LOUD Social Fabrics of IIIF][2023iiif-prezi]. *2023 IIIF Conference*. Naples, Italy, 8 June 2023. DOI: 10.5281/zenodo.7870044 [:video_camera:][2023iiif-rec]
-- FELSING, Ulrike, FORNARO, Peter, FRISCHKNECHT, Max, RAEMY, Julien Antoine (2023). [Community and Interoperability at the Core of Sustaining Image Archives][dhnb23-prezi]. *Digital Humanities in the Nordic & Baltic Countries 2023 (DHNB 2023 — Sustainability: Environment, Community)*. 10 March 2023
-- RAEMY, Julien Antoine (2023). [The intersection of Archival Resource Keys (ARKs) and IIIF resources][ark-iiif-prezi]. *IIIF Community Call*. 25 January 2023 [:video_camera:][ark-iiif-rec]
-- RAEMY, Julien Antoine and DEMLEITNER, Adrian (2022). [Implementation of the IIIF Presentation API 3.0 based on Software Support: Use Case of an Incremental IIIF Deployment within a Citizen Science Project][euromed2022-prezi]. *International Conference on Digital Heritage (EuroMed2022)*. Limassol, Cyprus. 7 November 2022. DOI: 10.5281/zenodo.7194021
-- CORNUT, Murielle and RAEMY, Julien Antoine (2022). [This photo shows my family home! How to make annotations of cultural heritage objects more accessible through IIIF][2022crkn]. *2022 CRKN Conference: Strength in Community*. Online Conference. 3 October 2022. DOI: 10.5281/zenodo.7139251
-- RAEMY, Julien Antoine (2022). [Améliorer la valorisation des données du patrimoine culturel grâce au Linked Open Usable Data (LOUD)][hnws2022-prezi]. *Humanités numériques et Web sémantique*. Archives Henri-Poincaré, Nancy, France. 21 June 2022. DOI: 10.5281/zenodo.6696205
-- RAEMY, Julien Antoine (2022). [Actor-network theory (ANT) as a preliminary approach to data modelling][dhch22]. *DHCH@ISR 2022 – Digital Humanities Methodologies*. Istituto Svizzero, Rome, Italy. 14 June 2022. DOI: 10.5281/zenodo.6636276. [:video_camera:][dhch22-rec]
-- RAEMY, Julien Antoine (2022). [Designing a proof-of-concept for the implementation of the Presentation API 3.0 and Change Discovery API 1.0 within the DaSCH Service Platform (DSP)][iiif-2022]. *2022 IIIF Conference*. Harvard University, Cambridge MA, USA, 8 June 2022. DOI: 10.5281/zenodo.6595132. [:video_camera:][iiif-2022-rec]
-- RAEMY, Julien Antoine (2021). [Data modelling and Citizen Science: impact of user-generated content within the PIA research project][dhsemepfl2021]. *Digital Humanities PhD Seminar. Human Factors in DH*. Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland, 2 December 2021. DOI: 10.5281/zenodo.5763545
-- GAUTSCHY, Rita, RAEMY, Julien Antoine (2021). [Normen und Standards: Empfehlungen DaSCH][sgg2021]. *Workshop Normen und Standards in den digitalen Geschichtswissenschaften*. Bern, Switzerland, 12 November 2021. [:video_camera:][sgg2021-rec]
-- BRUMFIELD, Ben, BRUMFIELD, Sara, IRVING, Andy, KOTARSKI, RACHAEL, PADFIELD, Joseph, RAEMY, Julien Antoine, MCLAUGHLIN, Anne, MADDEN, Frances (2021). [PIDs in IIIF Webinar][pidsiiif]. *Persistent Identifiers in IIIF*. 26 October 2021. DOI: 10.5281/zenodo.5780055 [:video_camera:][pidsiiif-rec]
-- RAEMY, Julien Antoine, ROSENTHALER Lukas (2021). [Presenting SIPI – a versatile IIIF Image API 3 Server][iiif2021sipi]. *2021 IIIF Annual Conference*. Lightning talks. 22 June 2021. DOI: 10.5281/zenodo.4923706. [:video_camera:][iiif2021sipi-rec]
-- RAEMY, Julien Antoine (2021). [The International Image Interoperability Framework (IIIF) APIs as the backbone of scientific and participatory research][dhch21]. *DHCH@ISR 2021 – Digital Visual Media and Metadata*. Image frameworks and archives. Istituto Svizzero, Rome, Italy. 8 June 2021. DOI: 10.5281/zenodo.4890820. [:video_camera:][dhch21-rec]
-- RAEMY, Julien Antoine, CHIQUET, Vera, ROSENTHALER, Lukas (2021). [Simple Image Presentation Interface (SIPI) – Bilder IIIF kompatibel speichern und publizieren][vdhdsipi]. *vDHd21 - Experimente*. Zwischenevents. 31 May 2021. DOI: 10.5281/zenodo.4875466. [:video_camera:][vdhdsipi-rec]
-- RAEMY, Julien Antoine, SCHNEIDER, René (2021). [INCIPIT: ein ARK-Attributionsservice in der Schweiz][pidapa]. *PIDapalooza 2021*. German session. 28 January 2021. [:video_camera:][pidapa-prezi]
-- RAEMY, Julien Antoine, ALWASH, Amir, GAUDINAT, Arnaud and SCHNEIDER, René (2020). [INCIPIT: An Archival Resource Key (ARK) Allocation Service in Switzerland][cniprezi]. *Coalition for Networked Information (CNI) Fall 2020 Virtual Membership Meeting*. Virtual event. 1 December 2020. [:video_camera:][cnifallvideo]
-- SCHNEIDER, René and RAEMY, Julien Antoine (2020). [Auspacken, Identifizieren, Anpacken: Überlegungen zur Konvergenz von Linked Data und persistenter Identifikation][digitalverpackt]. *Informationen - digital verpackt*. Virtual event - Zentralbibliothek Zürich, Switzerland. 22 September 2020 DOI: 10.5281/zenodo.4043572. [:video_camera:][dv-video]
-- RAEMY, Julien Antoine (2020). [Enabling better aggregation and discovery of cultural heritage content for Europeana and its partner institutions][tm-prezi]. *Master's thesis oral defence*. Haute école de gestion de Genève, Geneva, Switzerland. 28 August 2020. DOI: 10.5281/zenodo.3975522. [:video_camera:][tm-defence]
-- RAEMY, Julien Antoine and FREIRE, Nuno (2020). [Overview of alternative technologies for (meta)data aggregation][eaf-prezi]. *Europeana Aggregators Forum Spring 2020*. Virtual event. 6 May 2020. DOI: 10.5281/zenodo.4011512. [:video_camera:][eaf-video]
-- RAEMY, Julien Antoine (2019). [Das International Image Interoperability Framework (IIIF): eine Reihe von Standards für eine bessere Veröffentlichung der Ressourcen im Web][iiif-alexandria]. *Informationsanlass Alexandria*. Bibliothek am Guisanplatz, Bern, Switzerland. 30 October 2019. DOI 10.5281/zenodo.3463088
-- RAEMY, Julien Antoine, SCHNEIDER, René (2019). [Swiss institutions climbing up the IIIF ladder][ticks-19]. *2019 IIIF Conference*. Alte Mensa, Georg-August-Universität, Göttingen, Germany. 26 June 2019. DOI 10.5281/zenodo.3238161. [:video_camera:][climbing-video]
-- RAEMY, Julien Antoine, SCHNEIDER, René (2019). [Assigning persistent identifiers to art and design entities][vkks]. *Fourth Swiss Congress for Art History, Quid pro quo: linked data in art history research. VKKS 2019*. Accademia di architettura, Mendrisio, Switzerland. 7 June 2019. DOI 10.5281/zenodo.3241453
-- SCHNEIDER, René and RAEMY, Julien Antoine (2019). [Towards Trusted Identities for Swiss Researchers  and their Data][idcc-19]. *14th International Digital Curation Conference (IDCC)*. Melbourne, Australia. 6 February 2019. DOI 10.5281/zenodo.2415996
-- RAEMY, Julien Antoine (2018). [The uptake of IIIF in Switzerland and the current state of TICKS: building a IIIF-alignment outreach programme][ticks-18]. *2018 IIIF Conference*. Library of Congress, Washington D.C., USA, 24 May 2018. DOI 10.5281/zenodo.1252084
-- RAEMY, Julien Antoine (2018). [The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions][midi-agbd]. *Midi-AGBD - Prix romand en bibliothéconomie 2017*. Université de Genève, Site Uni Mail, Genève, Switzerland. 27 March 2018.
-- RAEMY, Julien Antoine (2017). [Présentation brève de IIIF et du travail de bachelor][seminaire]. *Séminaire en bibliothéconomie*. Haute école de gestion de Genève, Carouge, Switzerland. 9 November 2017.
-- Raemy, Julien Antoine (2017). [Usability testing conducted on the UV and Mirador][vatican-prezi], *2017 IIIF Conference*. Augustinianum, The Vatican City. 5 June 2017.
+This section lists selected presentations. A more exhaustive list, including talks given outside academic and professional settings as well as in the context of courses, is available at [julsraemy.ch/prezi](https://julsraemy.ch/prezi/).
 
-## Posts :computer:
+- Raemy, Julien Antoine. 2025. "Linked Open Usable Data for Cultural Heritage: Community Building and Semantic Interoperability in Practice." Presentation at the 17th Semantic Web in Libraries Conference (SWIB25), November 2025. <https://doi.org/10.48620/92261>.
+- Raemy, Julien Antoine. 2025. "LINDAS trifft KI: Vorstellung des Chatbot‑Prototyps." Presentation at Linked Data Day 2025, 10 November 2025. <https://doi.org/10.48620/92348>.
+- Raemy, Julien Antoine. 2024. "LOUD : catalyseur de convergence." Presentation at the Conférence internationale sur les humanités numériques (CIHN24), HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève, Carouge, 13 February 2024. <https://doi.org/10.5281/zenodo.10526541>.
+- Raemy, Julien Antoine. 2023. "Interconnected Resources on the Web: Unveiling Cultural Heritage through Linked Open Usable Data." G3S Noon Talk, 19 December 2023. <https://julsraemy.ch/prezi/noon-talk-loud.html>.
+- Raemy, Julien Antoine. 2023. "Créer des API ouvertes : les pratiques et le tissu social des communautés IIIF et Linked Art." Presentation at LibreABC, Journée des logiciels libres en Archives, Bibliothèques et Centres de documentation, Musée d'ethnographie de Genève, Geneva, 31 August 2023. <https://julsraemy.ch/prezi/libreabc2023.html>. [:video_camera: Recording](https://tube.switch.ch/videos/LRBKZQJOLp)
+- Raemy, Julien Antoine. 2023. "Les données ouvertes liées et utilisables (LOUD) : les protocoles IIIF et Linked Art." Contribution to the round table "Ouvrir les musées au(x) numérique(s)," organised by Nicola Carboni, Gabriela Lini, and Marie Barras, Colloque Humanistica 2023, Musée d'Art et d'Histoire de Genève, Geneva, 26 June 2023. <https://doi.org/10.5281/zenodo.8027954>.
+- Manz, Marian Clemens, Julien Antoine Raemy, and Peter Fornaro. 2023. "Recommended 3D Workflow for Digital Heritage Practices." Presentation at Archiving 2023, Oslo, 20 June 2023. <https://doi.org/10.5281/zenodo.7870044>.
+- Raemy, Julien Antoine. 2023. "The LOUD Social Fabrics of IIIF." Presentation at the 2023 IIIF Conference, Naples, 8 June 2023. <https://doi.org/10.5281/zenodo.7825410>. [:video_camera: Recording](https://youtu.be/3Hnagx6TlEM)
+- Felsing, Ulrike, Peter Fornaro, Max Frischknecht, and Julien Antoine Raemy. 2023. "Community and Interoperability at the Core of Sustaining Image Archives." Presentation at Digital Humanities in the Nordic and Baltic Countries 2023 (DHNB 2023), "Sustainability: Environment, Community," 10 March 2023. <https://doi.org/10.5281/zenodo.7690740>.
+- Raemy, Julien Antoine. 2023. "The Intersection of Archival Resource Keys (ARKs) and IIIF Resources." Presentation at the IIIF Community Call, online, 25 January 2023. <https://julsraemy.ch/prezi/ark-iiif.html>. [:video_camera: Recording](https://www.youtube.com/watch?v=it5LA3VRXpE)
+- Raemy, Julien Antoine, and Adrian Demleitner. 2022. "Implementation of the IIIF Presentation API 3.0 Based on Software Support: Use Case of an Incremental IIIF Deployment within a Citizen Science Project." Presentation at the International Conference on Digital Heritage (EuroMed2022), Limassol, Cyprus, 7 November 2022. <https://doi.org/10.5281/zenodo.7194021>.
+- Cornut, Murielle, and Julien Antoine Raemy. 2022. "This Photo Shows My Family Home! How to Make Annotations of Cultural Heritage Objects More Accessible through IIIF." Presentation at the 2022 CRKN Conference: Strength in Community, online, 3 October 2022. <https://doi.org/10.5281/zenodo.7139251>.
+- Raemy, Julien Antoine. 2022. "Améliorer la valorisation des données du patrimoine culturel grâce au Linked Open Usable Data (LOUD)." Presentation at Humanités numériques et Web sémantique, Archives Henri‑Poincaré, Nancy, 21 June 2022. <https://doi.org/10.5281/zenodo.6696205>.
+- Raemy, Julien Antoine. 2022. "Actor‑Network Theory (ANT) as a Preliminary Approach to Data Modelling." Presentation at DHCH@ISR 2022: Digital Humanities Methodologies, Istituto Svizzero, Rome, 14 June 2022. <https://doi.org/10.5281/zenodo.6636276>. [:video_camera: Recording](https://youtu.be/YBMbSbroTAU)
+- Raemy, Julien Antoine. 2022. "Designing a Proof‑of‑Concept for the Implementation of the Presentation API 3.0 and Change Discovery API 1.0 within the DaSCH Service Platform (DSP)." Presentation at the 2022 IIIF Conference, Harvard University, Cambridge, MA, 8 June 2022. <https://doi.org/10.5281/zenodo.6595132>. [:video_camera: Recording](https://youtu.be/5ZzgOvBpKL4?t=5544)
+- Raemy, Julien Antoine. 2021. "Data Modelling and Citizen Science: Impact of User‑Generated Content within the PIA Research Project." Presentation at the Digital Humanities PhD Seminar "Human Factors in DH," École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, 2 December 2021. <https://doi.org/10.5281/zenodo.5763545>.
+- Gautschy, Rita, and Julien Antoine Raemy. 2021. "Normen und Standards: Empfehlungen DaSCH." Presentation at the workshop "Normen und Standards in den digitalen Geschichtswissenschaften," Bern, 12 November 2021. <https://www.sgg-ssh.ch/sites/default/files/gautschy_raemy_sggworkshopnov2021.pdf>. [:video_camera: Recording](https://tube.switch.ch/videos/rVJ3us4OTD)
+- Brumfield, Ben, Sara Brumfield, Andy Irving, Rachael Kotarski, Joseph Padfield, Julien Antoine Raemy, Anne McLaughlin, and Frances Madden. 2021. "PIDs in IIIF Webinar." Webinar "Persistent Identifiers in IIIF," online, 26 October 2021. <https://doi.org/10.5281/zenodo.5780055>. [:video_camera: Recordings](https://www.youtube.com/playlist?list=PLRIxrpy54RHYeABK9t8EIaCWwr6hy7bkz)
+- Raemy, Julien Antoine, and Lukas Rosenthaler. 2021. "Presenting SIPI: A Versatile IIIF Image API 3 Server." Lightning talk at the 2021 IIIF Annual Conference, online, 22 June 2021. <https://doi.org/10.5281/zenodo.4923706>. [:video_camera: Recording](https://youtu.be/IOPZ5Gx-sH8?t=2498)
+- Raemy, Julien Antoine. 2021. "The International Image Interoperability Framework (IIIF) APIs as the Backbone of Scientific and Participatory Research." Presentation at DHCH@ISR 2021: Digital Visual Media and Metadata, session "Image Frameworks and Archives," Istituto Svizzero, Rome, 8 June 2021. <https://doi.org/10.5281/zenodo.4890820>. [:video_camera: Recording](https://youtu.be/V6uWB_9oobc?t=1225)
+- Raemy, Julien Antoine, Vera Chiquet, and Lukas Rosenthaler. 2021. "Simple Image Presentation Interface (SIPI): Bilder IIIF‑kompatibel speichern und publizieren." Presentation at vDHd21: Experimente (Zwischenevents), online, 31 May 2021. <https://doi.org/10.5281/zenodo.4875466>. [:video_camera: Recording](https://youtu.be/eKcJzSP6Uec)
+- Raemy, Julien Antoine, and René Schneider. 2021. "INCIPIT: ein ARK‑Attributionsservice in der Schweiz." Presentation at PIDapalooza 2021 (German session), online, 28 January 2021. <https://doi.org/10.5281/zenodo.4436022>. [:video_camera: Recording](https://www.youtube.com/watch?v=NxNpqowQlF8)
+- Raemy, Julien Antoine, Amir Alwash, Arnaud Gaudinat, and René Schneider. 2020. "INCIPIT: An Archival Resource Key (ARK) Allocation Service in Switzerland." Presentation at the Coalition for Networked Information (CNI) Fall 2020 Virtual Membership Meeting, online, 1 December 2020. <https://doi.org/10.5281/zenodo.4302427>. [:video_camera: Recording](https://www.youtube.com/watch?v=giw9stetjy8)
+- Schneider, René, and Julien Antoine Raemy. 2020. "Auspacken, Identifizieren, Anpacken: Überlegungen zur Konvergenz von Linked Data und persistenter Identifikation." Presentation at "Informationen: digital verpackt," Zentralbibliothek Zürich, online, 22 September 2020. <https://doi.org/10.5281/zenodo.4043572>. [:video_camera: Recording](https://www.youtube.com/watch?v=1Z5EfUC_OQ0)
+- Raemy, Julien Antoine. 2020. "Enabling Better Aggregation and Discovery of Cultural Heritage Content for Europeana and Its Partner Institutions." Master's thesis oral defence, HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève, Geneva, 28 August 2020. <https://doi.org/10.5281/zenodo.3975522>. [:video_camera: Recording](https://vimeo.com/453003769)
+- Raemy, Julien Antoine, and Nuno Freire. 2020. "Overview of Alternative Technologies for (Meta)data Aggregation." Presentation at the Europeana Aggregators' Forum Spring 2020, online, 6 May 2020. <https://doi.org/10.5281/zenodo.4011512>. [:video_camera: Recording](https://vimeo.com/410919947/3023e31d7c)
+- Raemy, Julien Antoine. 2019. "Das International Image Interoperability Framework (IIIF): eine Reihe von Standards für eine bessere Veröffentlichung der Ressourcen im Web." Presentation at Informationsanlass Alexandria, Bibliothek am Guisanplatz, Bern, 30 October 2019. <https://doi.org/10.5281/zenodo.3463088>.
+- Raemy, Julien Antoine, and René Schneider. 2019. "Swiss Institutions Climbing up the IIIF Ladder." Presentation at the 2019 IIIF Conference, Alte Mensa, Georg‑August‑Universität, Göttingen, 26 June 2019. <https://doi.org/10.5281/zenodo.3238161>. [:video_camera: Recording](https://youtu.be/SaXfzLLD5TY)
+- Raemy, Julien Antoine, and René Schneider. 2019. "Assigning Persistent Identifiers to Art and Design Entities." Presentation at the Fourth Swiss Congress for Art History (VKKS 2019), session "Quid pro quo: Linked Data in Art History Research," Accademia di architettura, Mendrisio, 7 June 2019. <https://doi.org/10.5281/zenodo.3241453>.
+- Schneider, René, and Julien Antoine Raemy. 2019. "Towards Trusted Identities for Swiss Researchers and Their Data." Presentation at the 14th International Digital Curation Conference (IDCC), Melbourne, 6 February 2019. <https://doi.org/10.5281/zenodo.2415996>.
+- Raemy, Julien Antoine. 2018. "The Uptake of IIIF in Switzerland and the Current State of TICKS: Building a IIIF‑Alignment Outreach Programme." Presentation at the 2018 IIIF Conference, Library of Congress, Washington, DC, 24 May 2018. <https://doi.org/10.5281/zenodo.1252084>.
+- Raemy, Julien Antoine. 2018. "The International Image Interoperability Framework (IIIF): Raising Awareness of the User Benefits for Scholarly Editions." Presentation at Midi‑AGBD, Prix romand en bibliothéconomie 2017, Université de Genève, Uni Mail, Geneva, 27 March 2018. <https://www.agbd.ch/wp-content/uploads/JARaemy_IIIF_pr%C3%A9sentation-min.pdf>.
+- Raemy, Julien Antoine. 2017. "Présentation brève de IIIF et du travail de bachelor." Presentation at the Séminaire en bibliothéconomie, HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève, Carouge, 9 November 2017. <https://www.slideshare.net/JulienARaemy/prsentation-brve-de-iiif-et-du-travail-de-bachelor-sminaire-en-bibliothconomie-hegge>.
+- Raemy, Julien Antoine. 2017. "Usability Testing Conducted on the UV and Mirador." Presentation at the 2017 IIIF Conference (pre‑conference), Augustinianum, Vatican City, 5 June 2017. <https://www.slideshare.net/JulienARaemy/iiif-preconference-usability-testing-conducted-on-the-uv-and-mirador>.
 
-- RAEMY, Julien Antoine (2025). [Pédagogie de l'ouverture : Enseigner l'Open Data à la HEG Genève][infoclio-blogpost]. *infoclio.ch: le portail suisse pour les sciences historiques*. 11 April 2025
-- RAEMY, Julien Antoine, JUNG, John, and KUNZE, John (2022). [Images and the promise of ARKs with IIIF][ark-iiif]. *ARK Alliance*. 23 November 2022
-- MANZ, Marian Clemens, RAEMY, Julien Antoine, GAUVAIN, Béatrice, and CHIQUET, Vera (2022). [Let's talk about standards – A write-up of a discussion on metadata standardization in the Digital Humanities][standards-dhch]. *DH-CH*. 18 January 2022
-- RAEMY, Julien Antoine (2021). [IIIF: there is more than meets the eye][iiif-dhch]. *DH-CH*. 20 April 2021
-- RAEMY, Julien Antoine (2021). [New service: ARKetype][arks-arketype]. *ARK Alliance*. 20 January 2021
-- CEVEY, Matthieu and RAEMY, Julien Antoine 2020. [Ce Hub a plus d’une corde à son arc !][swisspidhub-post2]. *Recherche d’IdéeS*. 28 January 2020.
-- CEVEY, Matthieu and RAEMY, Julien Antoine (2019). [Un PID pour (enfin?) les gouverner tous][swisspidhub-post1]. *Recherche d’IdéeS*. 2 September 2019.
-- RAEMY, Julien Antoine (2018). [De la nécessité de la visualisation face au déluge des données][blog-necessite]. *Recherche d’IdéeS*. 21 November 2018.
+## Blog posts :computer:
+
+- Raemy, Julien Antoine. 2025. "Pédagogie de l'ouverture : enseigner l'Open Data à la HEG Genève." *infoclio.ch: le portail suisse pour les sciences historiques*, 11 April 2025. <https://www.infoclio.ch/fr/p%C3%A9dagogie-de-louverture-enseigner-lopen-data-%C3%A0-la-heg-gen%C3%A8ve>.
+- Raemy, Julien Antoine, John Jung, and John Kunze. 2022. "Images and the Promise of ARKs with IIIF." *ARK Alliance* (blog), 23 November 2022. <https://arks.org/blog/images-and-the-promise-of-arks-with-iiif/>.
+- Manz, Marian Clemens, Julien Antoine Raemy, Béatrice Gauvain, and Vera Chiquet. 2022. "Let's Talk about Standards: A Write‑Up of a Discussion on Metadata Standardization in the Digital Humanities." *DH‑CH* (blog), 18 January 2022. <https://dh-ch.ch/blog/posts/let's-talk-about-standards-a-write-up-of-a-discussion-on-metadata-standardization-in-the-digital-humanities.html>.
+- Raemy, Julien Antoine. 2021. "IIIF: There Is More than Meets the Eye." *DH‑CH* (blog), 20 April 2021. <https://www.dh-ch.ch/blog/posts/iiif:-there-is-more-than-meets-the-eye.html>.
+- Raemy, Julien Antoine. 2021. "New Service: ARKetype." *ARK Alliance* (blog), 20 January 2021. <https://arks.org/blog/new-service-arketype/>.
+- Cevey, Matthieu, and Julien Antoine Raemy. 2020. "Ce Hub a plus d'une corde à son arc !" *Recherche d'IdéeS* (blog), 28 January 2020. <https://campus.hesge.ch/blog-master-is/ce-hub-a-plus-dune-corde-a-son-arc/>.
+- Cevey, Matthieu, and Julien Antoine Raemy. 2019. "Un PID pour (enfin ?) les gouverner tous." *Recherche d'IdéeS* (blog), 2 September 2019. <https://campus.hesge.ch/blog-master-is/un-pid-pour-les-gouverner-tous/>.
+- Raemy, Julien Antoine. 2018. "De la nécessité de la visualisation face au déluge des données." *Recherche d'IdéeS* (blog), 21 November 2018. <https://campus.hesge.ch/blog-master-is/de-la-necessite-de-la-visualisation-face-au-deluge-des-donnees/>.
 
 ## Interviews :microphone:
 
-- Raemy, J. A. (2025, August 22). [Interview mit Julien Raemy: Open Data erkunden und vermitteln][bfs-itw-de] [Open Government Data (OGD) Blog]. :de:
-- Raemy, J. A. (2025, August 22). [Interview - Explorer et enseigner l’Open Data avec Julien Raemy][bfs-itw-fr] [Open Government Data (OGD) Blog]. :fr:
+- Raemy, Julien Antoine. 2025. "Interview mit Julien Raemy: Open Data erkunden und vermitteln." *Open Government Data (OGD) Blog*, Federal Statistical Office, 22 August 2025. <https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/blog/2025-08-julien-raemy.html>. :de:
+- Raemy, Julien Antoine. 2025. "Interview : explorer et enseigner l'Open Data avec Julien Raemy." *Open Government Data (OGD) Blog*, Federal Statistical Office, 22 August 2025. <https://www.bfs.admin.ch/bfs/fr/home/services/ogd/blog/2025-08-julien-raemy.html>. :fr:
 
 ## Awards :tada:
 
-- November 2017: [Prix romand en bibliothéconomie][romand]
-
-
-[analysis-decodingch2024]: https://doi.org/10.1007/978-3-031-57675-1_4
-[archiving2023-paper]: https://doi.org/10.2352/issn.2168-3204.2023.20.1.5
-[archiving2023-prezi]: https://doi.org/10.5281/zenodo.7870044
-[2022crkn]: https://doi.org/10.5281/zenodo.7139251
-[2023iiif-prezi]: https://doi.org/10.5281/zenodo.7825410
-[2023iiif-rec]: https://youtu.be/3Hnagx6TlEM
-[ark-iiif]: https://arks.org/blog/images-and-the-promise-of-arks-with-iiif/
-[ark-iiif-prezi]: https://julsraemy.ch/prezi/ark-iiif.html
-[ark-iiif-rec]: https://www.youtube.com/watch?v=it5LA3VRXpE
-[arks-arketype]: https://arks.org/blog/new-service-arketype/
-[bfs-itw-fr]: https://www.bfs.admin.ch/bfs/fr/home/services/ogd/blog/2025-08-julien-raemy.html
-[bfs-itw-de]: https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/blog/2025-08-julien-raemy.html
-[cnifallvideo]: https://www.youtube.com/watch?v=giw9stetjy8
-[cniprezi]: https://doi.org/10.5281/zenodo.4302427
-[bibioinfo]: https://www.researchgate.net/publication/372768635_Vers_la_fin_d'OAI-PMH_pour_Europeana
-[cihn24-prezi]: https://zenodo.org/doi/10.5281/zenodo.10526541
-[dariahchposter]: https://doi.org/10.5281/zenodo.7015255
-[dhnb2023-paper]: https://doi.org/10.5617/dhnbpub.10649
-[dhnb23-prezi]: https://doi.org/10.5281/zenodo.7690740
-[dh2023-poster]: https://doi.org/10.5281/zenodo.7878358
-[digihistch24]: https://digihistch24.github.io/submissions/poster/440/
-[digitalverpackt]: https://doi.org/10.5281/zenodo.4043572
-[eccp]: https://doi.org/10.1007/978-3-030-71903-6_35
-[euromed2022-prezi]: https://doi.org/10.5281/zenodo.7194021
-[g3s-noon]: https://julsraemy.ch/prezi/noon-talk-loud.html
-[hnws2022-prezi]: https://doi.org/10.5281/zenodo.6696205
-[hnws2022-paper]: https://doi.org/10.5451/unibas-ep89725
-[humanistica2023-hal]: https://hal.science/hal-04099506
-[humanistica2023-poster]: https://doi.org/10.5281/zenodo.7927861
-[humanistica2023-tableronde]: https://doi.org/10.5281/zenodo.8027954
-[iiif-dhch]: https://www.dh-ch.ch/blog/posts/iiif:-there-is-more-than-meets-the-eye.html
-[iiif-2022]: https://doi.org/10.5281/zenodo.6595132
-[iiif-2022-rec]: https://youtu.be/5ZzgOvBpKL4?t=5544
-[iiif2021sipi]: https://doi.org/10.5281/zenodo.4923706
-[iiif2021sipi-rec]: https://youtu.be/IOPZ5Gx-sH8?t=2498
-[idcc-19]: https://doi.org/10.5281/zenodo.2415995
-[ijdc-19]: https://doi.org/10.2218/ijdc.v14i1.596
-[blog-necessite]: https://campus.hesge.ch/blog-master-is/de-la-necessite-de-la-visualisation-face-au-deluge-des-donnees/
-[dhch21]: https://doi.org/10.5281/zenodo.4890820
-[dhch21-rec]: https://youtu.be/V6uWB_9oobc?t=1225
-[dhch22]: https://doi.org/10.5281/zenodo.6636276
-[dhch22-rec]: https://youtu.be/YBMbSbroTAU
-[dhsemepfl2021]: https://doi.org/10.5281/zenodo.5763545
-[dhsemepfl2021-paper]: https://www.researchgate.net/publication/357649220
-[eaf-prezi]: https://doi.org/10.5281/zenodo.4011512
-[eaf-video]: https://vimeo.com/410919947/3023e31d7c
-[climbing-video]: https://youtu.be/SaXfzLLD5TY
-[archiving]: https://doi.org/10.2352/issn.2168-3204.2017.1.0.68
-[jocch-aeolian]: https://doi.org/10.1145/3625301
-[infoclio-blogpost]: https://www.infoclio.ch/fr/p%C3%A9dagogie-de-louverture-enseigner-lopen-data-%C3%A0-la-heg-gen%C3%A8ve
-[libreabc-prezi]: https://julsraemy.ch/prezi/libreabc2023.html
-[libreabc-rec]: https://tube.switch.ch/videos/LRBKZQJOLp
-[phd]: https://doi.org/10.5451/unibas-ep96807
-[ressi1]: https://doi.org/10.55790/journals/ressi.2017.e1808
-[ressi2]: https://doi.org/10.55790/journals/ressi.2017.e1809
-[vatican-prezi]: https://www.slideshare.net/JulienARaemy/iiif-preconference-usability-testing-conducted-on-the-uv-and-mirador
-[tb]: https://sonar.ch/hesso/documents/314853
-[tm]: https://sonar.ch/hesso/documents/315109
-[tm-prezi]: https://doi.org/10.5281/zenodo.3975522
-[tm-defence]: https://vimeo.com/453003769
-[midi-agbd]: https://www.agbd.ch/wp-content/uploads/JARaemy_IIIF_pr%C3%A9sentation-min.pdf
-[romand]: https://www.agbd.ch/prix-romand-en-bibliotheconomie/
-[seminaire]: https://www.slideshare.net/JulienARaemy/prsentation-brve-de-iiif-et-du-travail-de-bachelor-sminaire-en-bibliothconomie-hegge
-[hub-poster]: https://doi.org/10.5281/zenodo.3551007
-[hub-rero]: https://sonar.ch/hesso/documents/315101
-[ticks-wp]: http://dx.doi.org/10.5281/zenodo.2640415
-[ticks-18]: https://doi.org/10.5281/zenodo.1252084
-[ticks-19]: https://doi.org/10.5281/zenodo.3238160
-[arodes-ht1]: https://arodes.hes-so.ch/record/2394
-[arodes-ht2]: https://arodes.hes-so.ch/record/4063
-[vkks]: https://doi.org/10.5281/zenodo.3241452
-[standards-dhch]: https://dh-ch.ch/blog/posts/let's-talk-about-standards-a-write-up-of-a-discussion-on-metadata-standardization-in-the-digital-humanities.html
-[swisspidhub-post1]: https://campus.hesge.ch/blog-master-is/un-pid-pour-les-gouverner-tous/
-[swisspidhub-post2]: https://campus.hesge.ch/blog-master-is/ce-hub-a-plus-dune-corde-a-son-arc/
-[iiif-alexandria]: https://doi.org/10.5281/zenodo.3463087
-[vdhdsipi]: https://doi.org/10.5281/zenodo.4875466
-[vdhdsipi-rec]: https://youtu.be/eKcJzSP6Uec
-[dv-video]: https://www.youtube.com/watch?v=1Z5EfUC_OQ0
-[pidapa]: https://doi.org/10.5281/zenodo.4436022
-[pidapa-prezi]: https://www.youtube.com/watch?v=NxNpqowQlF8
-[sgg2021]: https://www.sgg-ssh.ch/sites/default/files/gautschy_raemy_sggworkshopnov2021.pdf
-[sgg2021-rec]: https://tube.switch.ch/videos/rVJ3us4OTD
-[pidsiiif]: https://doi.org/10.5281/zenodo.5780055
-[pidsiiif-rec]: https://www.youtube.com/playlist?list=PLRIxrpy54RHYeABK9t8EIaCWwr6hy7bkz
+- November 2017: [Prix romand en bibliothéconomie](https://www.agbd.ch/prix-romand-en-bibliotheconomie/), Association genevoise des bibliothécaires et professionnels diplômés en information documentaire (AGBD).
