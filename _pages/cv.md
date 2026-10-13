@@ -28,7 +28,7 @@ Since January 2026: **Semantic Architect and Project Manager** at [docuteam](htt
 - Developing and validating (SHACL) docuteam's data model ahead of its publication as dereferenceable linked data
 - Producing and translating technical documentation, and providing training and support for customers
 
-Since February 2025: **Associate Researcher** at the [Walter Benjamin Kolleg / Digital Humanities](https://www.dh.unibe.ch/), University of Bern
+Since February 2025: **Associate Researcher** at the [Walter Benjamin Kolleg / Digital Humanities Center](https://www.dh.unibe.ch/), University of Bern
 - Pursuing research on Linked Open Usable Data (LOUD) for cultural heritage, with a focus on interoperable linked data modelling for dispersed photographic archives
 - Bridging research and community practice through ongoing contributions to IIIF and Linked Art (Editorial Board member)
 - Reviewing the [TextRefs](https://textrefs.org/) open standard, an open, persistent, machine‑readable registry for canonical text references, with a focus on JSON‑LD context and entity‑linking modelling issues
