@@ -108,7 +108,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : "UA-115031522-1"
     anonymize_ip         : # true, false (default)
@@ -165,6 +165,11 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+
+
+# Scripts loaded after the main theme script
+after_footer_scripts:
+  - /assets/js/external-links.js
 
 
 # Reading Files

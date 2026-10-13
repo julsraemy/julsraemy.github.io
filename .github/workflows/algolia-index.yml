@@ -1,0 +1,30 @@
+name: Algolia index
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # 1st and 15th of each month: keeps the free-plan Algolia app active
+    - cron: "0 6 1,15 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: algolia-index
+  cancel-in-progress: true
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          # jekyll-algolia 1.x is unmaintained and breaks on Ruby >= 3.2
+          ruby-version: "3.1"
+          bundler-cache: true
+      - run: bundle exec jekyll algolia
+        env:
+          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
