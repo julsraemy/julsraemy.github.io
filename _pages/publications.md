@@ -111,4 +111,4 @@ This section lists selected presentations. A more exhaustive list, including tal
 
 ## Awards :tada:
 
-- November 2017: [Prix romand en bibliothéconomie](https://www.agbd.ch/prix-romand-en-bibliotheconomie/), Association genevoise des bibliothécaires et professionnels diplômés en information documentaire (AGBD).
+- November 2017: [Prix romand en bibliothéconomie](https://heg.hesge.ch/photos/ceremonie-diplomes-2017-prix-speciaux)
