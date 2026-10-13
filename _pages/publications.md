@@ -16,7 +16,7 @@ References follow the Chicago Manual of Style (author‑date). Entries are liste
 
 ## Journal articles :pencil:
 
-- Cornut, Murielle, Julien Antoine Raemy, and Florian Spiess. 2023. "Annotations as Knowledge Practices in Image Archives: Application of Linked Open Usable Data and Machine Learning." *Journal on Computing and Cultural Heritage*. <https://doi.org/10.1145/3625301>.
+- Cornut, Murielle, Julien Antoine Raemy, and Florian Spiess. 2023. "Annotations as Knowledge Practices in Image Archives: Application of Linked Open Usable Data and Machine Learning." *Journal on Computing and Cultural Heritage* 16 (4): 1–19. <https://doi.org/10.1145/3625301>.
 - Felsing, Ulrike, Peter Fornaro, Max Frischknecht, and Julien Antoine Raemy. 2023. "Community and Interoperability at the Core of Sustaining Image Archives." *Digital Humanities in the Nordic and Baltic Countries Publications* 5 (1): 40–54. <https://doi.org/10.5617/dhnbpub.10649>.
 - Raemy, Julien Antoine. 2020. "Vers la fin d'OAI‑PMH pour Europeana ?" *Bibliosuisse INFO* 2 (4): 10. <https://www.researchgate.net/publication/372768635_Vers_la_fin_d'OAI-PMH_pour_Europeana>.
 - Raemy, Julien Antoine, and René Schneider. 2019. "Towards Trusted Identities for Swiss Researchers and Their Data." *International Journal of Digital Curation* 14 (1): 303–14. <https://doi.org/10.2218/ijdc.v14i1.596>.
