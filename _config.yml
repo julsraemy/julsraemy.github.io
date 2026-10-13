@@ -71,6 +71,7 @@ algolia:
   index_name             : "dev_julsraemy"
   search_only_api_key    : "915049e2d18180f0b1dddb76cb9d3ca8"
   powered_by             : true # (default), false
+  nodes_to_index         : "p,li" # default is "p" only, which skips list-based pages (publications, CV)
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
