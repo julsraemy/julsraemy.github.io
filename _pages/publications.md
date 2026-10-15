@@ -95,6 +95,8 @@ This section lists selected presentations. A more exhaustive list, including tal
 
 ## Blog posts :computer:
 
+The following are blog posts published independently of this website. 
+
 - Raemy, Julien Antoine. 2025. "Pédagogie de l'ouverture : enseigner l'Open Data à la HEG Genève." *infoclio.ch: le portail suisse pour les sciences historiques*, 11 April 2025. <https://www.infoclio.ch/fr/p%C3%A9dagogie-de-louverture-enseigner-lopen-data-%C3%A0-la-heg-gen%C3%A8ve>.
 - Raemy, Julien Antoine, John Jung, and John Kunze. 2022. "Images and the Promise of ARKs with IIIF." *ARK Alliance* (blog), 23 November 2022. <https://arks.org/blog/images-and-the-promise-of-arks-with-iiif/>.
 - Manz, Marian Clemens, Julien Antoine Raemy, Béatrice Gauvain, and Vera Chiquet. 2022. "Let's Talk about Standards: A Write‑Up of a Discussion on Metadata Standardization in the Digital Humanities." *DH‑CH* (blog), 18 January 2022. <https://dh-ch.ch/blog/posts/let's-talk-about-standards-a-write-up-of-a-discussion-on-metadata-standardization-in-the-digital-humanities.html>.
