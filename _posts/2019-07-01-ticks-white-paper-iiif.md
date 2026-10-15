@@ -95,7 +95,9 @@ For almost all institutions, IIIF is often included in a broader spectrum and it
 
 The purpose of this white paper is to be updated as regularly as possible when technical specifications change, for instance, or even to be adapted to other regions or scientific disciplines. It would also be very useful to translate parts or the entire document into the Swiss official languages (German, French, Italian).
 
-Since this document could not have been produced without the help of the wider IIIF community, they would also have to support me with a new version. One way to help me is to comment directly on the Google Doc version: <http://bit.ly/wpticks>. 
+<div class="notice--info" markdown="1">
+**Update October 2026:** no new version or translation of the white paper was produced. Instead, I now publish an occasional [IIIF in Switzerland report on Zenodo](https://doi.org/10.5281/zenodo.23242983). Its purpose differs from the white paper: rather than advising institutions considering adoption, it takes stock of what has become visible on the ground, looking not only at IIIF-compatible platforms but also at who carries the framework in Switzerland, from the wider IIIF community to the Swiss members of the IIIF Consortium.
+</div>
 
 ### IIIF in Switzerland
 

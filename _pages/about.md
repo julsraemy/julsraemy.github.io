@@ -8,10 +8,6 @@ permalink: /about/
 
 ## [In a nutshell]
 
-<figure class="align-right" style="max-width: 240px;">
-  <img src="/assets/images/portrait-favicon.jpg" alt="Portrait of Julien A. Raemy">
-</figure>
-
 I'm [Julien Antoine Raemy][name] (he/him), originally from Fribourg, Switzerland. Trained as a bookseller, I went on to study Information Science at the [Haute école de gestion de Genève][heg] (HES-SO), then earned a PhD in Digital Humanities at the University of Basel.
 
 My work focuses on improving the digital preservation, dissemination and interoperability of cultural heritage and its metadata through open standards built on the [Linked Open Usable Data (LOUD)][phd] design principles. I'm an active member of the [International Image Interoperability Framework (IIIF)][iiif], [Linked Art][linkedart] and [ARK Alliance][ark] communities.
