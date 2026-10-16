@@ -53,7 +53,7 @@ In order to encourage the adoption of new aggregation mechanisms, a list of prop
 
 ## Dissertation
 
-The final version in PDF is available on this [website][tm], on [ResearchGate][rg] as well as on [Sonar][sonar].
+The final PDF version is available at <https://sonar.ch/hesso/documents/315109>.
 
 ## Oral defence
 
@@ -64,10 +64,8 @@ Below is the recording of the defence which began with a twenty-minute presentat
 <iframe src="https://player.vimeo.com/video/453003769" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 [master-is]: https://www.hesge.ch/heg/formation-base/masters-science/master-en-sciences-linformation
-[tm]: https://julsraemy.ch/assets/doc/Mastersthesis_europeana_raemyjulien_FV.pdf
+[tm]: https://sonar.ch/hesso/documents/315109
 [tm-defence]: https://vimeo.com/453003769
-[rg]: https://doi.org/10.13140/RG.2.2.14690.35521
-[sonar]: https://sonar.ch/hesso/documents/315109
 
 
 
