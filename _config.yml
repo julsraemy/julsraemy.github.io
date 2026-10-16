@@ -327,3 +327,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # Keep the thesis PDF and its redirect stub out of the sitemap
+  - scope:
+      path: "assets/doc"
+    values:
+      sitemap: false
