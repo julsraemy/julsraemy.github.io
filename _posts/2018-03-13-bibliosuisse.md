@@ -17,7 +17,7 @@ On 12 March 2018, two Swiss library associations, BIS and SAB/CLP, decided to me
 
 ![Bibliosuisse Tweet][bibliosuisse]
 
-The merge will officially happen on August 29th in Montreux during the [Swiss Library Congress][montreux] and the new association will start its activity on 1 January 2019. Bibliosuisse will defend the interests of all types of libraries and their staff.
+The merger will officially take place on 29 August 2018 in Montreux during the [Swiss Library Congress][montreux], after which the new association will begin its activities on 1 January 2019. Bibliosuisse will represent all types of libraries and their staff.
 
 [montreux]: https://web.archive.org/web/20170623094537/http://www.bis.ch/nc/news-details/article/schweizer-bibliothekskongress-2018-in-montreux.html
 [bibliosuisse]: https://julsraemy.github.io/assets/images/bibliosuisse.png
