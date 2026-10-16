@@ -13,16 +13,13 @@ tags:
 date: 2018-03-13 12:40:28 +0100
 ---
 
-On the 12th of March, [BIS][bis] and [SAB/CLP][clp], two Swiss Library Associations decided to merge into a new entity called "Bibliosuisse". The former being the association which mostly represents academic and heritage libraries as well as documentation centres (_BIS = Bibliothèque Information Suisse_) and the latter reading public libraries (_CLP = Communauté de travail des bibliothèques suisses de lecture publique_). 
+On 12 March 2018, two Swiss library associations, BIS and SAB/CLP, decided to merge to form a new entity called [Bibliosuisse](https://www.bibliosuisse.ch/). BIS mostly represents academic and heritage libraries, as well as documentation centres (BIS stands for _Bibliothèque Information Suisse_), while CLP represents reading public libraries (CLP stands for _Communauté de travail des bibliothèques suisses de lecture publique_). 
 
 ![Bibliosuisse Tweet][bibliosuisse]
 
 The merge will officially happen on August 29th in Montreux during the [Swiss Library Congress][montreux] and the new association will start its activity on 1 January 2019. Bibliosuisse will defend the interests of all types of libraries and their staff.
 
-
-[bis]: http://www.bis.ch/
-[clp]: http://www.sabclp.ch/
-[montreux]: http://www.bis.ch/nc/news-details/article/schweizer-bibliothekskongress-2018-in-montreux.html
+[montreux]: https://web.archive.org/web/20170623094537/http://www.bis.ch/nc/news-details/article/schweizer-bibliothekskongress-2018-in-montreux.html
 [bibliosuisse]: https://julsraemy.github.io/assets/images/bibliosuisse.png
 
  
