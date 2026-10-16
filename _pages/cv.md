@@ -16,6 +16,8 @@ With over a decade of involvement in the International Image Interoperability Fr
 
 Julien is particularly interested in ways of improving the digital preservation, dissemination and interoperability of cultural heritage objects and their associated metadata through the application of standards that adhere to the Linked Open Usable Data (LOUD) design principles.
 
+An overview of the research projects he has contributed to is available on the [Research Projects](/projects/) page.
+
 ## Curriculum vitae
 
 ### Experience :office:
@@ -99,7 +101,7 @@ August 2017 – January 2021: **Research and Teaching Assistant in Information S
 	- User Friendly Online Services for Scientific Information (UFO) assignments with the Fachhochschule Graubünden (FHGR)
 	- Conducting research, reporting and presenting, as well as developing models and approaches for assigning persistent identifiers, within the "Identités de confiance pour les données de l'art et du design" (ICOPAD) project, in partnership with the Swiss Institute for Art Research (SIK‑ISEA), the Zentralbibliothek Zürich and the Zürcher Hochschule der Künste (ZHdK)
 	- Managing the "Towards IIIF‑Compliance Knowledge in Switzerland" (TICKS) project and the uptake of IIIF in Switzerland, including authoring a [white paper](https://doi.org/10.5281/zenodo.2640416) and organising the Bern IIIF Showcase outreach event (2018)
-	- Managing the "Infrastructure Nationale d'un Complément d'Identifiants Pérennes, Interopérables et Traçables" (INCIPIT) project, which developed [ARKetype](https://www.arketype.ch/), an Archival Resource Key (ARK) allocation service in Switzerland
+	- Managing the "Infrastructure Nationale d'un Complément d'Identifiants Pérennes, Interopérables et Traçables" (INCIPIT) project, which developed [ARKetype](https://web.archive.org/web/20230204083123/https://www.arketype.ch/), an Archival Resource Key (ARK) allocation service in Switzerland
 
 January 2015 – July 2017: **Photo Archivist for the Montreux Jazz Digital Project** at the École Polytechnique Fédérale de Lausanne (EPFL), [Cultural Heritage & Innovation Center (formerly MetaMedia Center)](https://metamedia.epfl.ch/)
 - Evaluating, digitising and enriching the metadata of Georges Braunschweig's Montreux Jazz Festival photography collection (approximately 80,000 items)
@@ -183,10 +185,10 @@ August 2016 – October 2016: **University Intern** at the University of Basel, 
 ### Languages :speech_balloon:
 
 - French: native
-- English: C2
-- German: C1
-- Swiss German: good
-- Portuguese: elementary
+- English: fluent (C2)
+- German: advanced (C1)
+- Swiss German: conversational
+- Brazilian Portuguese: currently learning
 
 ### Technical skills :wrench:
 
