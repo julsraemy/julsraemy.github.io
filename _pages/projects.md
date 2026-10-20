@@ -57,7 +57,7 @@ As Knowledge Graph Engineer and IIIF Systems Architect for the [Swiss Art Resear
 
 INCIPIT continued the persistent identifier work started in ICOPAD and turned it into a service. Running from January to December 2020 with CHF 132,603 in funding from the swissuniversities P-5 "Scientific Information" programme, co-financed by the Haute école de gestion de Genève (HEG-GE), it set out to build a low-cost infrastructure for assigning persistent identifiers (PIDs) to any concept or resource, based on the Archival Resource Key (ARK) scheme. Its focus was the long tail of research data and the cultural heritage field (libraries, archives and museums).
 
-I managed the project, which was carried out at the HEG-GE with the help of the [Swiss Institute of Bioinformatics (SIB)][sib]. It produced [ARKetype][arketype], an ARK allocation service through which registered organisations could create, reserve or modify ARKs via a user interface or an API, with resolution handled by the [Name-to-Thing (N2T)][n2t] resolver. Sadly, this allocation service has since been deprecated, and the link above points to an archived copy. We presented the service at the [CIDOC 2020 conference][cidoc2020] in Geneva, and the project was also where my involvement in the ARK Alliance began.
+I managed the project, which was carried out at the HEG-GE with the help of the [Swiss Institute of Bioinformatics (SIB)][sib]. It produced [ARKetype][arketype], an ARK allocation service through which registered organisations could create, reserve or modify ARKs via a user interface or an API, with resolution handled by the [Name-to-Thing (N2T)][n2t] resolver. Sadly, this allocation service has since been deprecated, and the link above points to an archived copy. I presented the project as "INCIPIT: An Archival Resource Key (ARK) Allocation Service in Switzerland" at the Coalition for Networked Information (CNI) Fall 2020 Virtual Membership Meeting ([recording][cni2020]). It was also where my involvement in the ARK Alliance began.
 
 ### TICKS
 
@@ -79,9 +79,9 @@ ICOPAD looked at how trustworthy, persistent identifiers could be assigned to ar
 
 [bar]: https://www.bar.admin.ch/
 [arketype]: https://web.archive.org/web/20230204083123/https://www.arketype.ch/
+[cni2020]: https://www.youtube.com/watch?v=giw9stetjy8
 [docuteam]: https://www.docuteam.ch/
 [bso]: https://www.bilder-der-schweiz.online/
-[cidoc2020]: https://cidoc.mahgeneve.news/en/conference/
 [ekws-pia]: https://www.ekws.ch/de/aktivitaeten/projekte/partizipative-wissenspraktiken-in-analogen-und-digitalen-bildarchiven-pia
 [icopad]: https://campus.hesge.ch/id_bilingue/projekte/icopad/index_fr.asp
 [incipit]: https://www.swissuniversities.ch/en/topics/digitalisation/p-5-scientific-information/projects/incipit
