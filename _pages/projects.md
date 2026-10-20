@@ -36,7 +36,7 @@ At the [Swiss Federal Archives][bar], I coordinated the development of LINDASnex
 
 ### PIA
 
-![INCIPIT logo](/assets/images/pia.png){: width="300" .align-center}
+![PIA informal logo](/assets/images/pia.png){: width="300" .align-center}
 
 *Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA)* - Swiss National Science Foundation (SNSF) Sinergia funded project [:link:][pia]
 
