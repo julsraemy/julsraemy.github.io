@@ -1,5 +1,5 @@
 ---
-title: "Research Projects"
+title: "Projects"
 excerpt: "Research and infrastructure projects by Julien A. Raemy on IIIF, Linked Art, persistent identifiers (ARKs) and knowledge graphs, from participatory image archives (PIA) to linked government data (LINDASnext)."
 toc: true
 toc_label: Table of Contents
@@ -10,14 +10,21 @@ permalink: /projects/
 
 Most of these projects share a common thread: making data, from cultural heritage collections to public administration datasets, interoperable and persistently identifiable through open standards such as IIIF, Linked Art, Archival Resource Keys (ARKs) and RDF.
 
-| **Timeline** | **Research Project**                                                                                   | **Institution (Position)**                     | **Funder**                                         |
-|--------------|--------------------------------------------------------------------------------------------------------|------------------------------------------------|----------------------------------------------------|
-| 2024-2026    | LINDASnext                                                                                             | Swiss Federal Archives (Data Scientist and Project Manager) | Swiss Federal Administration           |
-| 2021-2025    | Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA)                         | University of Basel (PhD Candidate)            | Swiss National Science Foundation (SNSF), Sinergia |
-| 2020-2022[^1]    | Bilder der Schweiz Online (BSO)                                                                        | University of Zürich (Scientific Collaborator) | Stiftung Familie Fehlmann                          |
-| 2020         | Infrastructure Nationale d’un Complément d’Identifiants Pérennes, Interopérables et Traçables (INCIPIT)| Haute école de gestion de Genève (Assistant)   | swissuniversities-p5                               |
-| 2018-2019    | Towards IIIF-Compliance Knowledge in Switzerland (TICKS)                                               | Haute école de gestion de Genève (Assistant)    | Hasler Foundation                                  |
-| 2017-2018    | Identités de confiance pour les données de l’art et du design (ICOPAD)                                 | Haute école de gestion de Genève (Assistant)   | HES-SO                                             |
+| **Timeline**     | **Project**                                                                                             | **Institution**                  | **Position**                         | **Funder**                                         |
+|------------------|---------------------------------------------------------------------------------------------------------|----------------------------------|--------------------------------------|----------------------------------------------------|
+| 2026-            | Customer projects: Archival Information System (AIS) migrations, ETL pipelines, digital preservation   | docuteam                         | Semantic Architect and Project Manager | Multiple customers                               |
+| 2024-2026[^2]    | LINDASnext                                                                                              | Swiss Federal Archives           | Data Scientist and Project Manager   | Swiss Federal Administration                       |
+| 2021-2025        | Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA)                          | University of Basel              | PhD Candidate                        | Swiss National Science Foundation (SNSF), Sinergia |
+| 2020-2022[^1]    | Bilder der Schweiz Online (BSO)                                                                         | University of Zürich             | Scientific Collaborator              | Stiftung Familie Fehlmann                          |
+| 2020             | Infrastructure Nationale d’un Complément d’Identifiants Pérennes, Interopérables et Traçables (INCIPIT)  | Haute école de gestion de Genève | Assistant                            | swissuniversities-p5                               |
+| 2018-2019        | Towards IIIF-Compliance Knowledge in Switzerland (TICKS)                                                | Haute école de gestion de Genève | Assistant                            | Hasler Foundation                                  |
+| 2017-2018        | Identités de confiance pour les données de l’art et du design (ICOPAD)                                  | Haute école de gestion de Genève | Assistant                            | HES-SO                                             |
+
+### docuteam
+
+*Customer projects at [docuteam][docuteam]* - digital preservation and archival information management for memory institutions and private companies
+
+Since January 2026, I have been working as a Semantic Architect and Project Manager at docuteam on projects for multiple customers. These include migrating Archival Information Systems (AIS) and mapping their data to Records in Contexts (RiC), building ETL pipelines for metadata, and designing OAIS-compliant processing workflows from transfer preparation to the ingest of submission information packages (SIPs). I also contribute to preserve2027, delivering docuteam box for the Staatsarchiv Basel-Stadt, and define the IIIF implementation strategy for docuteam cosmos, docuteam's digital preservation software suite.
 
 ### LINDASnext
 
@@ -68,8 +75,11 @@ ICOPAD looked at how trustworthy, persistent identifiers could be assigned to ar
 
 [^1]: I was only involved between July and December 2020 on the BSO project before deciding to start a PhD in Digital Humanities at the University of Basel.
 
+[^2]: LINDASnext went live in March 2026, after I had left the Swiss Federal Archives.
+
 [bar]: https://www.bar.admin.ch/
 [arketype]: https://web.archive.org/web/20230204083123/https://www.arketype.ch/
+[docuteam]: https://www.docuteam.ch/
 [bso]: https://www.bilder-der-schweiz.online/
 [cidoc2020]: https://cidoc.mahgeneve.news/en/conference/
 [ekws-pia]: https://www.ekws.ch/de/aktivitaeten/projekte/partizipative-wissenspraktiken-in-analogen-und-digitalen-bildarchiven-pia

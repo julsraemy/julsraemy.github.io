@@ -16,7 +16,7 @@ With over a decade of involvement in the International Image Interoperability Fr
 
 Julien is particularly interested in ways of improving the digital preservation, dissemination and interoperability of cultural heritage objects and their associated metadata through the application of standards that adhere to the Linked Open Usable Data (LOUD) design principles.
 
-An overview of the research projects he has contributed to is available on the [Research Projects](/projects/) page.
+An overview of the research and professional projects he has contributed to is available on the [Projects](/projects/) page.
 
 ## Curriculum vitae
 
