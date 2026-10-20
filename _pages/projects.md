@@ -12,7 +12,7 @@ Most of these projects share a common thread: making data, from cultural heritag
 
 | **Timeline** | **Research Project**                                                                                   | **Institution (Position)**                     | **Funder**                                         |
 |--------------|--------------------------------------------------------------------------------------------------------|------------------------------------------------|----------------------------------------------------|
-| 2024-2025    | LINDASnext                                                                                             | Swiss Federal Archives (Data Scientist and Project Manager) | Swiss Federal Administration           |
+| 2024-2026    | LINDASnext                                                                                             | Swiss Federal Archives (Data Scientist and Project Manager) | Swiss Federal Administration           |
 | 2021-2025    | Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA)                         | University of Basel (PhD Candidate)            | Swiss National Science Foundation (SNSF), Sinergia |
 | 2020-2022[^1]    | Bilder der Schweiz Online (BSO)                                                                        | University of Zürich (Scientific Collaborator) | Stiftung Familie Fehlmann                          |
 | 2020         | Infrastructure Nationale d’un Complément d’Identifiants Pérennes, Interopérables et Traçables (INCIPIT)| Haute école de gestion de Genève (Assistant)   | swissuniversities-p5                               |
