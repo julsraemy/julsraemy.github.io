@@ -36,6 +36,8 @@ At the [Swiss Federal Archives][bar], I coordinated the development of LINDASnex
 
 ### PIA
 
+![INCIPIT logo](/assets/images/pia.png){: width="300" .align-center}
+
 *Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA)* - Swiss National Science Foundation (SNSF) Sinergia funded project [:link:][pia]
 
 Funded under the SNSF Sinergia programme ([grant 193788][snf-pia], CHF 2.9 million, February 2021 – August 2025), PIA was led by Walter Leimgruber (Seminar für Kulturwissenschaft und Europäische Ethnologie, University of Basel), Ulrike Felsing (HKB Bern Academy of the Arts) and Peter Fornaro (Digital Humanities Lab, University of Basel). It brought together cultural anthropology, design research and computer science around the photo archives of the Swiss Society for Folklore Studies, now [Empirische Kulturwissenschaft Schweiz (EKWS)][ekws-pia], exploring citizen science, interface design and machine learning to make these collections more accessible and participatory.
