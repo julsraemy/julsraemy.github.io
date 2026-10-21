@@ -92,7 +92,7 @@ July 2020 – December 2020: **Knowledge Graph Engineer / IIIF Systems Architect
 - Building a IIIF Manifest template
 - Representing SARI on relevant IIIF committees and working groups
 
-August 2017 – January 2021: **Research and Teaching Assistant in Information Science** at the HES‑SO University of Applied Sciences and Arts Western Switzerland, [Haute école de gestion de Genève (HEG‑GE)](https://www.hesge.ch/heg/)
+August 2017 – January 2021: **Research and Teaching Assistant in Information Science** at the HES‑SO University of Applied Sciences and Arts Western Switzerland, [Haute école de gestion de Genève (HEG‑GE)](https://heg.hesge.ch/)
 - Coordinating the bilingual French‑German curriculum of the BSc in Information Science
 - Teaching the course "Informations‑ und Dokumentationssysteme" and running the hands‑on exercises of the "User‑centred design" and "Linked Open Data in Libraries" courses
 - Assisting Professor René Schneider with his research projects, assignments and the training sessions he gives in continuing education programmes

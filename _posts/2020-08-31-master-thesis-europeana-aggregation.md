@@ -60,7 +60,7 @@ Below is the recording of the defence which began with a twenty-minute presentat
 
 <iframe src="https://player.vimeo.com/video/453003769" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-[master-is]: https://www.hesge.ch/heg/formation-base/masters-science/master-en-sciences-linformation
+[master-is]: https://heg.hesge.ch/formations/masters/sciences-l'information
 [tm]: https://sonar.ch/hesso/documents/315109
 [tm-defence]: https://vimeo.com/453003769
 
