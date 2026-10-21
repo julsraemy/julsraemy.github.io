@@ -31,7 +31,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [bern-iiif]: https://campus.hesge.ch/id_bilingue/projekte/ticks/bern-iiif-showcase-event_fr.html
 [bibliosuisse]: https://bibliosuisse.ch/
 [cas-dmit]: https://www.biw.uzh.ch/de/casdmit.html
-[heg-is]: https://www.hesge.ch/heg/formations/bachelors/information-science
+[heg-is]: https://heg.hesge.ch/formations/bachelors/information-science
 [daschcon]: https://www.dasch.swiss/post/daschcon-on-iiif-3d-interoperability
 [hsp]: https://handschriftenportal.de/
 [mas-biw]: https://www.biw.uzh.ch/de/masbiw.html
