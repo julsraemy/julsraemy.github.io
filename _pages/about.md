@@ -16,7 +16,7 @@ My work focuses on improving the digital preservation, dissemination and interop
 
 Since January 2026, I work as a Semantic Architect and Project Manager at [docuteam][docuteam], primarily helping archives and other heritage institutions model, preserve and share their resources.
 
-In parallel, I have been a Research Associate at the [Walter Benjamin Kolleg / Digital Humanities][dh-unibe] at the University of Bern since February 2025.
+In parallel, I have been a Research Associate at the [Walter Benjamin Kolleg / Digital Humanities Center][dh-unibe] at the University of Bern since February 2025.
 
 ## [How I got here]
 

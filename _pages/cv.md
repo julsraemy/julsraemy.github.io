@@ -42,14 +42,16 @@ Since February 2021: **Lecturer** (self‑employed/contract)
 - At the HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève, BSc in Information Science
 	- Teaching the Introduction to Open Data course: 2023–2024 (16h)
 	- Assessing bachelor's theses as an expert examiner: 2021–2022 (1x), 2022–2023 (1x), 2023–2024 (1x)
-- At the University of Zurich / Zurich Central Library, CAS Data Management and Information Technologies (DMIT)
+- At the University of Zurich / Zurich Central Library, CAS Data Management and Information Technologies (CAS DMIT)
 	- Teaching the IIIF course: 2021 (4h), 2022 (8h), 2023 (8h), 2024 (8h)
 	- Monitoring and assessing students' project work and reports
-- At the University of Zurich / Zurich Central Library, MAS Bibliotheks‑ und Informationswissenschaft (BIW)
+- At the University of Zurich / Zurich Central Library, MAS Bibliotheks‑ und Informationswissenschaft (MAS BIW)
 	- Teaching the IIIF course: 2021–2023 (4h), 2023–2025 (4h)
 	- Monitoring and assessing students' project work and reports
-- At the University of Bern, MAS in Archival, Library and Information Science (ALIS)
+- At the Universities of Bern and Lausanne, MAS in Archival, Library and Information Science (MAS ALIS)
 	- Teaching IIIF and Linked Data: 2024–2026 (1.5h)
+- At the Universities of Bern and Lausanne, CAS in Digital Literacy for ALIS Professions (CAS ALIS-DL)
+  - Teaching Semantic interoperability of cultural heritage: linked data, identifiers, vocabularies and IIIF: 2027 (8h)
 
 April 2024 – December 2025: **Data Scientist and Project Manager** at the [Swiss Federal Archives](https://www.bar.admin.ch/)
 
@@ -188,13 +190,13 @@ August 2016 – October 2016: **University Intern** at the University of Basel, 
 - English: fluent (C2)
 - German: advanced (C1)
 - Swiss German: conversational
-- Brazilian Portuguese: currently learning
+- Portuguese: currently learning
 
 ### Technical skills :wrench:
 
 - **Semantic Web:** RDF/XML, JSON‑LD, Turtle, RDFS, OWL, SPARQL, SHACL
 - **Metadata and ontologies:** RiC‑O, CIDOC CRM, EAD, ISAD(G), Dublin Core, EDM, MARC, METS/MODS
-- **APIs and models:** IIIF (Image, Presentation, Authorization Flow, Content Search), Linked Art, Activity Streams, OAI‑PMH
+- **APIs and models:** IIIF (Image, Presentation, Authorization Flow, Content Search, Change Discovery), Linked Art, Activity Streams, OAI‑PMH
 - **IIIF viewers:** Mirador, Universal Viewer; usability testing (2017) and viewer matrix evaluation (2022–2023)
 - **Programming and data:** Python, Bash, SQL, R; OpenRefine, pandas; Git, CI/CD
 - **Infrastructure:** Docker, Kubernetes, triplestores, Neo4j
