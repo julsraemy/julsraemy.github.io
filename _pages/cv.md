@@ -40,13 +40,13 @@ Since February 2025: **Associate Researcher** at the [Walter Benjamin Kolleg / D
 
 Since February 2021: **Lecturer** (self‑employed/contract)
 - At the HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève, BSc in Information Science
-	- Teaching the Introduction to Open Data course: 2023–2024 (16h)
+	- Teaching the Introduction to Open Data course: 2023–2024 (16h), 2024-2025 (16h), 2025-2026 (16h), 2026-2027 (16h)
 	- Assessing bachelor's theses as an expert examiner: 2021–2022 (1x), 2022–2023 (1x), 2023–2024 (1x)
 - At the University of Zurich / Zurich Central Library, CAS Data Management and Information Technologies (CAS DMIT)
-	- Teaching the IIIF course: 2021 (4h), 2022 (8h), 2023 (8h), 2024 (8h)
+	- Teaching the IIIF course: 2021 (4h), 2022 (8h), 2023 (8h), 2024 (8h), 2025 (8h), 2026 (8h)
 	- Monitoring and assessing students' project work and reports
 - At the University of Zurich / Zurich Central Library, MAS Bibliotheks‑ und Informationswissenschaft (MAS BIW)
-	- Teaching the IIIF course: 2021–2023 (4h), 2023–2025 (4h)
+	- Teaching the IIIF course: 2021–2023 (4h), 2023–2025 (4h), 2025-2027 (4h)
 	- Monitoring and assessing students' project work and reports
 - At the Universities of Bern and Lausanne, MAS in Archival, Library and Information Science (MAS ALIS)
 	- Teaching IIIF and Linked Data: 2024–2026 (1.5h)
