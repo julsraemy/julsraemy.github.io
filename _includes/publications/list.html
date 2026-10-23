@@ -1,0 +1,7 @@
+{%- comment -%} All publications of one type, e.g. {% include publications/list.html type="article" %} {%- endcomment -%}
+{%- assign pubs = site.data.publications | where: "type", include.type -%}
+<ul class="pub-list">
+{%- for p in pubs %}
+  {% include publications/entry.html pub=p %}
+{%- endfor %}
+</ul>

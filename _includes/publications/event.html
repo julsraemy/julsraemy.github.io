@@ -1,0 +1,12 @@
+{%- comment -%} Plain-text "presented at" phrase for posters, presentations and unpublished papers. {%- endcomment -%}
+{%- assign p = include.pub -%}
+{%- if p.venue -%}
+  {{ p.venue }}
+{%- else -%}
+  {%- case p.type -%}
+    {%- when "poster" -%}{%- assign lead = "Poster presented at" -%}
+    {%- when "paper" -%}{%- assign lead = "Paper presented at" -%}
+    {%- else -%}{%- assign lead = "Presentation at" -%}
+  {%- endcase -%}
+  {{ p.presented | default: lead }} {{ p.event }}{% if p.place %}, {{ p.place }}{% endif %}{% if p.date %}, {{ p.date }}{% endif %}
+{%- endif -%}

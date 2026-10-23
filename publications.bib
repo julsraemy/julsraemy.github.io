@@ -1,0 +1,46 @@
+---
+layout: null
+permalink: /publications.bib
+sitemap: false
+---
+{%- for p in site.data.publications -%}
+{%- assign container = p.journal | default: p.book -%}
+{%- case p.type -%}
+  {%- when "thesis" -%}
+    {%- if p.genre contains "PhD" -%}{%- assign bt = "phdthesis" -%}
+    {%- elsif p.genre contains "Master" -%}{%- assign bt = "mastersthesis" -%}
+    {%- else -%}{%- assign bt = "thesis" -%}{%- endif -%}
+  {%- when "article" -%}{%- assign bt = "article" -%}
+  {%- when "chapter" -%}{%- assign bt = "incollection" -%}
+  {%- when "report" -%}{%- assign bt = "techreport" -%}
+  {%- when "paper" -%}{%- assign bt = "inproceedings" -%}
+  {%- when "blog" -%}{%- assign bt = "online" -%}
+  {%- when "interview" -%}{%- assign bt = "online" -%}
+  {%- else -%}{%- assign bt = "misc" -%}
+{%- endcase %}
+@{{ bt }}{% raw %}{{% endraw %}{% include publications/key.html pub=p %},
+  author = {{ "{" }}{{ p.authors | join: " and " | replace: "&", "\&" }}},
+{% if p.editors %}  editor = {{ "{" }}{{ p.editors | join: " and " }}},
+{% endif %}  title = {{ "{" }}{{ p.title | replace: "&", "\&" }}},
+  year = {{ "{" }}{{ p.year }}},
+{% if p.type == "article" %}  journal = {{ "{" }}{{ p.journal }}},
+{% elsif container %}  booktitle = {{ "{" }}{{ container }}},
+{% endif %}{% if p.type == "thesis" %}  school = {{ "{" }}{{ p.institution }}},
+  type = {{ "{" }}{{ p.genre }}},
+{% endif %}{% if p.type == "report" %}  institution = {{ "{" }}{{ p.publisher }}},
+{% if p.genre %}  type = {{ "{" }}{{ p.genre }}},
+{% endif %}{% elsif p.publisher %}  publisher = {{ "{" }}{{ p.publisher }}},
+{% endif %}{% if p.series %}  series = {{ "{" }}{{ p.series }}},
+{% endif %}{% if p.volume %}  volume = {{ "{" }}{{ p.volume }}},
+{% endif %}{% if p.issue %}  number = {{ "{" }}{{ p.issue }}},
+{% endif %}{% if p.pages %}  pages = {{ "{" }}{{ p.pages | replace: "–", "--" }}},
+{% endif %}{% if p.place and p.type != "presentation" and p.type != "poster" and p.event == nil %}  address = {{ "{" }}{{ p.place }}},
+{% endif %}{% if p.version %}  version = {{ "{" }}{{ p.version }}},
+{% endif %}{% if p.blog %}  organization = {{ "{" }}{{ p.blog }}},
+{% endif %}{% if p.event %}  eventtitle = {{ "{" }}{{ p.event }}},
+  howpublished = {{ "{" }}{% include publications/event.html pub=p %}},
+{% endif %}{% if p.note %}  note = {{ "{" }}{{ p.note }}},
+{% endif %}{% if p.url contains "https://doi.org/" %}  doi = {{ "{" }}{{ p.url | remove_first: "https://doi.org/" }}},
+{% endif %}{% if p.url %}  url = {{ "{" }}{{ p.url }}},
+{% endif %}}
+{% endfor %}

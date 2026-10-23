@@ -1,0 +1,30 @@
+{%- comment -%} COinS (OpenURL ContextObject in SPAN) so that Zotero and other reference managers detect the entry. {%- endcomment -%}
+{%- assign p = include.pub -%}
+{%- capture kev -%}
+ctx_ver=Z39.88-2004
+{%- if p.type == "thesis" -%}
+  &amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title={{ p.title | url_encode }}&amp;rft.inst={{ p.institution | url_encode }}&amp;rft.degree={{ p.genre | url_encode }}
+{%- elsif p.type == "article" -%}
+  &amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle={{ p.title | url_encode }}&amp;rft.jtitle={{ p.journal | url_encode }}
+{%- elsif p.type == "chapter" -%}
+  &amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle={{ p.title | url_encode }}&amp;rft.btitle={{ p.book | url_encode }}
+{%- elsif p.type == "report" -%}
+  &amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=report&amp;rft.btitle={{ p.title | url_encode }}
+{%- elsif p.type == "blog" or p.type == "interview" -%}
+  &amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=document&amp;rft.btitle={{ p.title | url_encode }}
+{%- else -%}
+  {%- assign container = p.book | default: p.journal | default: p.event -%}
+  &amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=proceeding&amp;rft.atitle={{ p.title | url_encode }}&amp;rft.btitle={{ container | url_encode }}
+{%- endif -%}
+&amp;rft.date={{ p.year }}
+{%- for a in p.authors -%}&amp;rft.au={% assign parts = a | split: ", " %}{{ parts[1] | append: " " | append: parts[0] | url_encode }}{%- endfor -%}
+{%- if p.volume -%}&amp;rft.volume={{ p.volume }}{%- endif -%}
+{%- if p.issue -%}&amp;rft.issue={{ p.issue }}{%- endif -%}
+{%- if p.pages -%}&amp;rft.pages={{ p.pages | url_encode }}{%- endif -%}
+{%- if p.publisher -%}&amp;rft.pub={{ p.publisher | url_encode }}{%- endif -%}
+{%- if p.place and p.event == nil -%}&amp;rft.place={{ p.place | url_encode }}{%- endif -%}
+{%- if p.series -%}&amp;rft.series={{ p.series | url_encode }}{%- endif -%}
+{%- if p.url contains "https://doi.org/" -%}&amp;rft_id={{ p.url | replace: "https://doi.org/", "info:doi/" | url_encode }}{%- endif -%}
+{%- if p.url -%}&amp;rft_id={{ p.url | url_encode }}{%- endif -%}
+{%- endcapture -%}
+<span class="Z3988" title="{{ kev | strip }}"></span>

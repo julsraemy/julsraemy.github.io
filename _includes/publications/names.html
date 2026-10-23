@@ -1,0 +1,15 @@
+{%- comment -%}
+  Chicago name list. include.names: list of "Last, First".
+  include.invert_first: true for authors ("Last, First, First Last, and First Last"),
+  false for editors ("First Last and First Last").
+{%- endcomment -%}
+{%- assign n = include.names | size -%}
+{%- for name in include.names -%}
+  {%- assign parts = name | split: ", " -%}
+  {%- unless forloop.first -%}
+    {%- if forloop.last -%}
+      {%- if n > 2 or include.invert_first -%}, and {% else %} and {% endif -%}
+    {%- else -%}, {% endif -%}
+  {%- endunless -%}
+  {%- if forloop.first and include.invert_first -%}{{ name }}{%- else -%}{{ parts[1] }} {{ parts[0] }}{%- endif -%}
+{%- endfor -%}

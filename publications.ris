@@ -1,0 +1,72 @@
+---
+layout: null
+permalink: /publications.ris
+sitemap: false
+---
+{%- for p in site.data.publications -%}
+{%- case p.type -%}
+  {%- when "thesis" -%}{%- assign ty = "THES" -%}
+  {%- when "article" -%}{%- assign ty = "JOUR" -%}
+  {%- when "chapter" -%}{%- assign ty = "CHAP" -%}
+  {%- when "report" -%}{%- assign ty = "RPRT" -%}
+  {%- when "presentation" -%}{%- assign ty = "SLIDE" -%}
+  {%- when "blog" -%}{%- assign ty = "BLOG" -%}
+  {%- when "interview" -%}{%- assign ty = "BLOG" -%}
+  {%- else -%}{%- assign ty = "CPAPER" -%}
+{%- endcase -%}
+{%- assign container = p.journal | default: p.book | default: p.blog | default: p.event %}
+TY  - {{ ty }}
+{% for a in p.authors -%}
+AU  - {{ a }}
+{% endfor -%}
+{% for e in p.editors -%}
+ED  - {{ e }}
+{% endfor -%}
+PY  - {{ p.year }}
+TI  - {{ p.title }}
+{% if container -%}
+T2  - {{ container }}
+{% endif -%}
+{% if p.series -%}
+T3  - {{ p.series }}
+{% endif -%}
+{% if p.volume -%}
+VL  - {{ p.volume }}
+{% endif -%}
+{% if p.issue -%}
+IS  - {{ p.issue }}
+{% endif -%}
+{% if p.pages -%}
+SP  - {{ p.pages }}
+{% endif -%}
+{% if p.genre -%}
+M3  - {{ p.genre }}
+{% endif -%}
+{% if p.version -%}
+ET  - {{ p.version }}
+{% endif -%}
+{% if p.type == "thesis" -%}
+PB  - {{ p.institution }}
+{% elsif p.publisher -%}
+PB  - {{ p.publisher }}
+{% endif -%}
+{% if p.place -%}
+CY  - {{ p.place }}
+{% endif -%}
+{% if p.date -%}
+DA  - {{ p.date }}
+{% endif -%}
+{% if p.note -%}
+N1  - {{ p.note }}
+{% endif -%}
+{% if p.url contains "https://doi.org/" -%}
+DO  - {{ p.url | remove_first: "https://doi.org/" }}
+{% endif -%}
+{% if p.url -%}
+UR  - {{ p.url }}
+{% endif -%}
+{% for link in p.links -%}
+N1  - {{ link.label }}: {{ link.url }}
+{% endfor -%}
+ER  - 
+{% endfor %}

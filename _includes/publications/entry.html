@@ -1,0 +1,40 @@
+{%- comment -%} One reference in Chicago author-date style, followed by its COinS and link buttons. {%- endcomment -%}
+{%- assign p = include.pub -%}
+{%- assign last_char = p.title | slice: -1 -%}
+{%- if last_char == "?" or last_char == "!" -%}{%- assign stop = "" -%}{%- else -%}{%- assign stop = "." -%}{%- endif -%}
+<li class="pub">
+  <span class="pub__text">
+  {%- include publications/names.html names=p.authors invert_first=true -%}. {{ p.year }}.{{ " " }}
+  {%- if p.type == "report" -%}
+    <em>{{ p.title }}</em>{{ stop }}
+    {%- if p.version %} Version {{ p.version }}.{% endif -%}
+    {%- if p.genre %} {{ p.genre }}.{% endif -%}
+    {%- if p.note %} {{ p.note }}.{% endif -%}
+    {%- if p.place %} {{ p.place }}{% if p.publisher %}: {{ p.publisher }}{% endif %}.{% endif -%}
+  {%- else -%}
+    "{{ p.title }}{{ stop }}"
+    {%- if p.type == "thesis" %} {{ p.genre }}, {{ p.institution }}.
+    {%- elsif p.journal %} <em>{{ p.journal }}</em>
+      {%- if p.volume %} {{ p.volume }}{% if p.issue %} ({{ p.issue }}){% endif %}{% elsif p.issue %}, no. {{ p.issue }}{% endif -%}
+      {%- if p.pages %}: {{ p.pages }}{% endif %}.
+    {%- elsif p.book %} In <em>{{ p.book }}</em>
+      {%- if p.editors %}, edited by {% include publications/names.html names=p.editors invert_first=false %}{% endif -%}
+      {%- if p.pages %}, {{ p.pages }}{% endif %}.
+      {%- if p.series %} {{ p.series }}.{% endif -%}
+      {%- if p.place %} {{ p.place }}{% if p.publisher %}: {{ p.publisher }}{% endif %}.{% endif -%}
+    {%- elsif p.blog %} <em>{{ p.blog }}</em>{{ p.blog_suffix }}{% if p.publisher %}, {{ p.publisher }}{% endif %}, {{ p.date }}.
+    {%- else %} {% include publications/event.html pub=p %}.
+    {%- endif -%}
+  {%- endif -%}
+  {%- if p.url %} <a href="{{ p.url }}">{{ p.url }}</a>.{% endif -%}
+  {%- if p.lang %} :{{ p.lang }}:{% endif -%}
+  </span>
+  {%- include publications/coins.html pub=p -%}
+  {%- if p.links -%}
+  <span class="pub__links">
+    {%- for link in p.links %}
+    <a class="pub__link" href="{{ link.url }}">:video_camera: {{ link.label }}</a>
+    {%- endfor %}
+  </span>
+  {%- endif %}
+</li>

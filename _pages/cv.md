@@ -3,6 +3,8 @@ title: "CV"
 excerpt: "Julien A. Raemy's curriculum vitae (CV)"
 toc: true
 toc_label: Table of Contents
+toc_sticky: true
+classes: cv
 permalink: /cv/
 ---
 

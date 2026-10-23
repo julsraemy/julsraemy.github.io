@@ -1,0 +1,12 @@
+{%- comment -%} Citation key, e.g. raemy2024linked; posters and presentations get a suffix. {%- endcomment -%}
+{%- assign p = include.pub -%}
+{%- if p.id -%}{{ p.id }}{%- else -%}
+  {%- assign surname = p.authors[0] | split: "," | first | slugify: "latin" | remove: "-" -%}
+  {%- assign words = p.title | split: " " -%}
+  {%- assign word = "" -%}
+  {%- for w in words -%}
+    {%- assign s = w | slugify: "latin" | remove: "-" -%}
+    {%- if s.size > 3 -%}{%- assign word = s -%}{%- break -%}{%- endif -%}
+  {%- endfor -%}
+  {{ surname }}{{ p.year }}{{ word }}{% if p.type == "poster" or p.type == "presentation" %}{{ p.type }}{% endif %}{{ p.lang }}
+{%- endif -%}
