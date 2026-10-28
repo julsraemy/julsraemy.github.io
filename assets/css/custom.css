@@ -232,6 +232,11 @@
   background: #f3f3f3;
 }
 
+/* "formerly ..." note under an organisation name */
+.cv-subentries > p br + em {
+  font-size: 0.85em;
+}
+
 .cv-subentries > ul {
   padding-left: 1.2em;
   margin-bottom: 0.6em;

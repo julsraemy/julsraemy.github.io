@@ -4,6 +4,7 @@ excerpt: "Julien A. Raemy's curriculum vitae (CV)"
 toc: true
 toc_label: Table of Contents
 toc_sticky: true
+toc_levels: 2..3
 classes: cv
 permalink: /cv/
 ---
@@ -142,8 +143,9 @@ August 2016 – October 2016: **University Intern** at the University of Basel, 
 
 ### Community and standards involvement :busts_in_silhouette:
 
-#### International Image Interoperability Framework (IIIF) [:link:](https://iiif.io/)
+<div class="cv-subentries" markdown="1">
 
+**International Image Interoperability Framework (IIIF)** [:link:](https://iiif.io/)
 - Since May 2020: IIIF [Coordinating Committee (CoCo)](https://iiif.io/community/coordinating-committee/) Member
 - February 2019 – September 2024: IIIF [Technical Review Committee (TRC)](https://iiif.io/community/trc/) Member
 - Member of the IIIF A/V, 3D and Discovery Technical Specification Groups
@@ -152,43 +154,40 @@ August 2016 – October 2016: **University Intern** at the University of Basel, 
 - September 2017 – July 2020: IIIF [Code of Conduct](https://iiif.io/event/conduct/) Team Member
 - Invited participant in the in‑person editorial workshops on A/V and the IIIF Presentation API 3.0 at the Getty (2017) and the British Library (2018)
 
-#### Linked Art [:link:](https://linked.art)
-
+**Linked Art** [:link:](https://linked.art)
 - Since 2023: Member of the Linked Art [Editorial Board](https://linked.art/community/)
 
-#### Archival Resource Key (ARK) Alliance [:link:](https://arks.org/)
-*formerly "ARKs in the Open (AITO)"*
-
+**Archival Resource Key (ARK) Alliance** [:link:](https://arks.org/)<br>*formerly "ARKs in the Open (AITO)"*
 - Since February 2026: ARK Alliance [Technical Working Group](https://arks.org/community-groups/) Member
 - January 2020 – January 2026: ARK Alliance [Outreach Working Group](https://arks.org/community-groups/) Member
 
-#### Event organisation
-
+**Event organisation**
 - 2018: Bern IIIF Showcase (TICKS project), Swiss National Library
 - 2023: DaSCHCon on IIIF, 3D & Interoperability, University of Basel
 - 2024: Linked Art event, University of Basel
 - 2026: docuteam Community Day, Lausanne
 
+</div>
+
 ### Other memberships :handshake:
 
-#### Bibliosuisse [:link:](https://bibliosuisse.ch/)
-*formerly "Bibliothèque Information Suisse" (BIS)*
+<div class="cv-subentries" markdown="1">
 
+**Bibliosuisse** [:link:](https://bibliosuisse.ch/)<br>*formerly "Bibliothèque Information Suisse" (BIS)*
 - Since March 2014: Member
 
-#### Association genevoise des bibliothécaires et professionnels diplômés en information documentaire (AGBD) [:link:](https://www.agbd.ch/)
-
+**Association genevoise des bibliothécaires et professionnels diplômés en information documentaire (AGBD)** [:link:](https://www.agbd.ch/)
 - May 2018 – February 2021: Member
 
-#### Fri‑Son [:link:](https://fri-son.ch/)
-
+**Fri‑Son** [:link:](https://fri-son.ch/)
 - Since October 2010: Member
 - September 2013 – July 2016: Bar Manager
 - September 2010 – August 2013: Bartender
 
-#### Association des amis de la Maison d'Ailleurs (AMDA) [:link:](https://amda.ch/)
-
+**Association des amis de la Maison d'Ailleurs (AMDA)** [:link:](https://amda.ch/)
 - Since January 2008: Member
+
+</div>
 
 ### Education :school:
 
@@ -201,7 +200,7 @@ August 2016 – October 2016: **University Intern** at the University of Basel, 
 ### Certificates :scroll:
 
 - 2025: HERMES Foundation, TÜV SÜD Akademie
-- Cambridge CELTA (Certificate in Teaching English to Speakers of Other Languages)
+- 2012: Cambridge CELTA (Certificate in Teaching English to Speakers of Other Languages)
 
 ### Languages :speech_balloon:
 
