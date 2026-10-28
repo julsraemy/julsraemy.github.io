@@ -82,11 +82,13 @@ February 2021 – October 2024: **Interoperability Specialist** at [DaSCH, Swiss
 - Organising DaSCHCon on IIIF, 3D & Interoperability (2023) and co‑organising academic conferences
 - Supervising a master's thesis on IIIF and 3D visualisation
 
-February 2021 – March 2024: **Assistant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab](https://dhlab.philhist.unibas.ch/)
+February 2021 – March 2024: **Assistant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab](https://dhlab.philhist.unibas.ch/) (75%, alongside a 20% role at [DaSCH](https://www.dasch.swiss/))
 - PhD undertaken within the Sinergia project "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / [Participatory Knowledge Practices in Analogue and Digital Image Archives](https://about.participatory-archives.ch/)" (PIA), a 20‑person project funded by the Swiss National Science Foundation (SNSF)
-- Dissertation: [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://phd.julsraemy.ch/), implementing community‑driven standards (IIIF, Linked Art) and leading interdisciplinary working groups
-- Co‑teaching a master's course
-- Conducting a research residency at Yale University
+- Dissertation: [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://phd.julsraemy.ch/) (successfully defended in November 2024, published in December 2024), implementing community‑driven standards (IIIF, Linked Art) and leading interdisciplinary working groups
+- Contributing to the migration from SALSAH to the DaSCH Service Platform (DSP): adapting the EKWS (Empirische Kulturwissenschaft Schweiz) data model and its associated data pipelines
+- Co‑teaching the interdisciplinary master's course "Bist du sicher, dass du dieses Foto löschen möchtest? Private Fotopraxis im Archivkontext" with Murielle Cornut (Cultural Anthropology), spring 2023
+- Conducting a two-week research residency at Yale University
+- Co‑designing and presenting the PIA public lecture series (Ringvorlesung), spring 2024
 - Organising workshops on Citizen Science, Design Research and Linked Art
 
 July 2020 – December 2020: **Knowledge Graph Engineer / IIIF Systems Architect** for the [Swiss Art Research Infrastructure (SARI)](https://swissartresearch.net/) at the University of Zurich
