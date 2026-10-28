@@ -16,15 +16,37 @@
   "worksFor": { "@type": "Organization", "name": "docuteam", "url": "https://www.docuteam.ch/" },
   "affiliation": {
     "@type": "Organization",
-    "name": "Walter Benjamin Kolleg / Digital Humanities Center, University of Bern",
-    "url": "https://www.dh.unibe.ch/"
+    "name": "Walter Benjamin Kolleg / Digital Humanities Center",
+    "url": "https://www.dh.unibe.ch/",
+    "parentOrganization": {
+      "@type": "CollegeOrUniversity",
+      "@id": "https://ror.org/02k7v4d05",
+      "name": "University of Bern"
+    }
   },
   "alumniOf": [
-    { "@type": "CollegeOrUniversity", "name": "University of Basel" },
-    { "@type": "CollegeOrUniversity", "name": "HES-SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève" }
+    {
+      "@type": "CollegeOrUniversity",
+      "@id": "https://ror.org/02s6k3f65",
+      "name": "University of Basel"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Haute école de gestion de Genève",
+      "parentOrganization": {
+        "@type": "CollegeOrUniversity",
+        "@id": "https://ror.org/01xkakk17",
+        "name": "HES-SO University of Applied Sciences and Arts Western Switzerland"
+      }
+    }
   ],
   "memberOf": [
-    { "@type": "Organization", "name": "International Image Interoperability Framework (IIIF)", "url": "https://iiif.io/" },
+    {
+      "@type": "Organization",
+      "@id": "https://ror.org/055e01504",
+      "name": "International Image Interoperability Framework (IIIF)",
+      "url": "https://iiif.io/"
+    },
     { "@type": "Organization", "name": "Linked Art", "url": "https://linked.art/" },
     { "@type": "Organization", "name": "ARK Alliance", "url": "https://arks.org/" }
   ],
