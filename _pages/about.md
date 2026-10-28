@@ -9,36 +9,13 @@ permalink: /about/
 
 ## [In a nutshell]
 
-![Portrait of Julien A. Raemy](/assets/images/portrait-favicon.jpg){: .about-portrait}
-
 I'm [Julien Antoine Raemy][name] (he/him), originally from Fribourg, Switzerland. Trained as a bookseller, I went on to study Information Science at the [Haute école de gestion de Genève][heg] (HES-SO), then earned a PhD in Digital Humanities at the University of Basel.
 
 My work focuses on improving the digital preservation, dissemination and interoperability of cultural heritage and its metadata through open standards built on the [Linked Open Usable Data (LOUD)][phd] design principles. I'm an active member of the [International Image Interoperability Framework (IIIF)][iiif], [Linked Art][linkedart] and [ARK Alliance][ark] communities.
 
 ## [What I do now]
 
-<div class="about-now">
-<div class="about-now__card" markdown="1">
-<p class="about-now__label">Since January 2026</p>
-
-Semantic Architect and Project Manager at [docuteam][docuteam], primarily helping archives and other heritage institutions model, preserve and share their resources.
-</div>
-<div class="about-now__card" markdown="1">
-<p class="about-now__label">Since February 2025</p>
-
-Research Associate at the [Walter Benjamin Kolleg / Digital Humanities Center][dh-unibe] at the University of Bern.
-</div>
-<div class="about-now__card" markdown="1">
-<p class="about-now__label">Since February 2021</p>
-
-Lecturer, teaching:
-- *Introduction to Open Data*, BSc in Information Science, [HEG-GE][heg] (2023–2027)
-- *IIIF*, CAS Data Management and Information Technologies, University of Zurich / Zurich Central Library (2021–2026)
-- *IIIF*, MAS Bibliotheks‑ und Informationswissenschaft, University of Zurich / Zurich Central Library (2021–2027)
-- *IIIF and Linked Data*, MAS in Archival, Library and Information Science, Universities of Bern and Lausanne (2024–2026)
-- *Semantic interoperability of cultural heritage*, CAS in Digital Literacy for ALIS Professions, Universities of Bern and Lausanne (2027)
-</div>
-</div>
+{% include now.html %}
 
 ## [How I got here]
 
@@ -72,13 +49,11 @@ From April 2024 to December 2025, I was a Data Scientist and Project Manager at 
 
 This website gathers my work, views and expectations on information interoperability, knowledge representation, Linked Open Data, digital preservation, Science and Technology Studies and all sorts of things related to the cultural heritage field.
 
-[CV](/cv/){: .btn .btn--primary} [Projects](/projects/){: .btn .btn--primary} [Publications](/publications/){: .btn .btn--primary} [Blog](/){: .btn .btn--inverse}
+[CV](/cv/){: .btn .btn--primary} [Projects](/projects/){: .btn .btn--primary} [Publications](/publications/){: .btn .btn--primary} [Blog](/blog/){: .btn .btn--primary}
 
 [ark]: https://arks.org/
 [bar]: https://www.bar.admin.ch/
 [elt]: https://elt.oup.com/
-[docuteam]: https://www.docuteam.ch/
-[dh-unibe]: https://www.dh.unibe.ch/
 [heg]: https://heg.hesge.ch/
 [metamedia]: https://www.epfl.ch/research/domains/centre-innovation-patrimoines-culturels/
 [master-is]: https://heg.hesge.ch/formations/masters/sciences-l'information

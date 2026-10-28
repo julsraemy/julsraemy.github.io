@@ -1,0 +1,29 @@
+---
+layout: archive
+---
+{%- comment -%}
+  Copy of the Minimal Mistakes 4.28.1 home layout: the subtitle says "Most recent posts" on the
+  first page of the pagination and "Older posts" after it.
+{%- endcomment -%}
+{%- assign locale = page.locale | default: layout.locale | default: site.locale %}
+
+{{ content }}
+
+{% if paginator and paginator.page > 1 %}
+<h3 class="archive__subtitle">Older posts · page {{ paginator.page }} of {{ paginator.total_pages }}</h3>
+{% else %}
+<h3 class="archive__subtitle">Most recent posts</h3>
+{% endif %}
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html locale=locale entries=posts type=entries_layout %}
+</div>
+
+{% include paginator.html locale=locale %}

@@ -1,0 +1,6 @@
+---
+layout: null
+permalink: /me.json
+sitemap: false
+---
+{% include jsonld-person.html raw=true %}

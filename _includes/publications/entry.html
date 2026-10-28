@@ -2,7 +2,7 @@
 {%- assign p = include.pub -%}
 {%- assign last_char = p.title | slice: -1 -%}
 {%- if last_char == "?" or last_char == "!" -%}{%- assign stop = "" -%}{%- else -%}{%- assign stop = "." -%}{%- endif -%}
-<li class="pub">
+<li class="pub" data-type="{{ p.type }}" data-year="{{ p.year }}">
   <span class="pub__text">
   {%- include publications/names.html names=p.authors invert_first=true -%}. {{ p.year }}.{{ " " }}
   {%- if p.type == "report" -%}

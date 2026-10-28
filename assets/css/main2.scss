@@ -1,8 +1,27 @@
 ---
 # In dark mode, used to replace: https://github.com/mmistakes/minimal-mistakes/blob/master/assets/css/main.scss
+# Warm dark palette, lighter than the theme's "dark" skin; the skin only fills in what is not set here.
 ---
 
 @charset "utf-8";
+
+@import "custom/typography";
+
+$background-color: #2a2724;
+$text-color: #e8e2d6;
+$muted-text-color: #a8a093;
+$primary-color: #8a7750;
+$border-color: #4a443c;
+$code-background-color: #22201d;
+$code-background-color-dark: #1d1b19;
+$form-background-color: #22201d;
+$footer-background-color: #221f1c;
+$link-color: #e3cf9c;
+$link-color-hover: #f2e3bd;
+$link-color-visited: #cdb889;
+$masthead-link-color: $text-color;
+$masthead-link-color-hover: #ffffff;
+$navicon-link-color-hover: #221f1c;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin_dark | default: 'dark' }}"; // skin
 @import "minimal-mistakes"; // main partials

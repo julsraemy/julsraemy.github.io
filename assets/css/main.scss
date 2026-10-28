@@ -1,0 +1,10 @@
+---
+# Replaces https://github.com/mmistakes/minimal-mistakes/blob/master/assets/css/main.scss to set custom fonts
+search: false
+---
+
+@charset "utf-8";
+
+@import "custom/typography";
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials

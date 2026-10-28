@@ -8,6 +8,11 @@
   </style>
 {% endif %}
 
+<!-- Fonts: Inter (text) and Source Serif 4 (headings) -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:wght@600;700&display=swap">
+
 <!-- Link to Academicon icons -->
 <link rel="stylesheet" href="/assets/css/academicons.css"/>
 
@@ -30,5 +35,9 @@
 <link rel="me" href="https://scholar.google.ch/citations?user=pGROUG0AAAAJ">
 <link rel="me" href="https://www.linkedin.com/in/julienaraemy/">
 <link rel="me" href="https://www.researchgate.net/profile/Julien_Raemy">
+
+<!-- Structured data about the author (schema.org JSON-LD), also served as /me.json -->
+{% include jsonld-person.html %}
+<link rel="alternate" type="application/ld+json" href="/me.json" title="Julien A. Raemy (schema.org JSON-LD)">
 
 <!-- end custom head snippets -->

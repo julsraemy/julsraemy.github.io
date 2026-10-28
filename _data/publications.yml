@@ -16,6 +16,7 @@
 #   url           DOI (as https://doi.org/...) or other link
 #   links         extra links shown as buttons, e.g. recordings
 #   lang          language flag emoji code shown after the reference
+#   selected      true to feature the entry on the homepage
 
 # ---------- Theses ----------
 
@@ -23,6 +24,7 @@
   authors: ["Raemy, Julien Antoine"]
   year: 2024
   title: "Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability"
+  selected: true
   genre: PhD dissertation
   institution: University of Basel
   url: https://hdl.handle.net/20.500.14716/148352
@@ -49,6 +51,7 @@
   authors: ["Cornut, Murielle", "Raemy, Julien Antoine", "Spiess, Florian"]
   year: 2023
   title: "Annotations as Knowledge Practices in Image Archives: Application of Linked Open Usable Data and Machine Learning"
+  selected: true
   journal: Journal on Computing and Cultural Heritage
   volume: 16
   issue: 4
@@ -206,6 +209,7 @@
   authors: ["Raemy, Julien Antoine"]
   year: 2026
   title: "IIIF in Switzerland: A Landscape of Compatible Platforms and Engaged Institutions"
+  selected: true
   version: "1.0"
   genre: Report
   place: Bern
@@ -236,6 +240,7 @@
   authors: ["Raemy, Julien Antoine", "Sanderson, Robert"]
   year: 2024
   title: "Analysis of the Usability of Automatically Enriched Cultural Heritage Data"
+  selected: true
   book: "Decoding Cultural Heritage: A Critical Dissection and Taxonomy of Human Creativity through Digital Tools"
   editors: ["Moral‑Andrés, Fernando", "Merino‑Gómez, Elena", "Reviriego, Pedro"]
   pages: 69–93

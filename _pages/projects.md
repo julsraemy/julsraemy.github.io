@@ -78,8 +78,6 @@ Since January 2026, I have been working as a Semantic Architect and Project Mana
 
 ### LINDASnext
 
-![LINDAS logo](/assets/images/lindas-logo.png){: .project-card__logo}
-
 *LINDASnext* - next-generation platform evolved from [LINDAS][lindas], the Linked Data Service of the Swiss Federal Administration [:link:][lindas]
 
 At the [Swiss Federal Archives][bar], I coordinated the development of LINDASnext, a scalable platform enabling Swiss public administrations to publish and visualise their data as knowledge graphs. I oversaw the contractual, financial and resource aspects of the project, with a CHF 2 million baseline and an implementation phase of approximately CHF 40 million, and coordinated a ten-person team across more than 15 stakeholders, including the Federal Office for the Environment (FOEN) and the Federal Statistical Office (FSO). This involved co-orchestrating a two-lot public tender, ensuring compliance with Open Government Data (OGD) directives, and working with the selected bidders and partners to define concepts and reports in line with the HERMES project management methodology.
@@ -89,8 +87,6 @@ At the [Swiss Federal Archives][bar], I coordinated the development of LINDASnex
 <div class="project-card" markdown="1">
 
 ### PIA
-
-![PIA informal logo](/assets/images/pia.png){: .project-card__logo}
 
 *Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA)* - Swiss National Science Foundation (SNSF) Sinergia funded project [:link:][pia]
 
@@ -115,8 +111,6 @@ As Knowledge Graph Engineer and IIIF Systems Architect for the [Swiss Art Resear
 
 ### INCIPIT
 
-![INCIPIT logo](/assets/images/incipit-logo.png){: .project-card__logo}
-
 *Infrastructure Nationale d’un Complément d’Identifiants Pérennes, Interopérables et Traçables* (INCIPIT) - swissuniversities P-5 funded project [:link:][incipit]
 
 INCIPIT continued the persistent identifier work started in ICOPAD and turned it into a service. Running from January to December 2020 with CHF 132,603 in funding from the swissuniversities P-5 "Scientific Information" programme, co-financed by the Haute école de gestion de Genève (HEG-GE), it set out to build a low-cost infrastructure for assigning persistent identifiers (PIDs) to any concept or resource, based on the Archival Resource Key (ARK) scheme. Its focus was the long tail of research data and the cultural heritage field (libraries, archives and museums).
@@ -129,11 +123,9 @@ I managed the project, which was carried out at the HEG-GE with the help of the 
 
 ### TICKS
 
-![TICKS logo](/assets/images/ticks-logo.jpg){: .project-card__logo}
-
 *Towards IIIF-Compliance Knowledge in Switzerland* (TICKS) - Hasler Foundation funded project [:link:][ticks]
 
-TICKS set out to map and encourage the adoption of IIIF in Switzerland. Alongside managing the project, I wrote a [white paper][ticks-wp] on the state of IIIF compliance in Swiss institutions and organised the Bern IIIF Showcase at the Swiss National Library in 2018. It was my first sustained involvement in the IIIF community, which led to my roles on the Outreach Community Group and the Technical Review Committee.
+TICKS set out to map and encourage the adoption of IIIF in Switzerland. Alongside managing the project, I wrote a [white paper][ticks-wp] on the state of IIIF compliance in Swiss institutions and organised the Bern IIIF Showcase at the Swiss National Library in 2019. It was my first sustained involvement in the IIIF community, which led to my roles on the Outreach Community Group and the Technical Review Committee.
 
 </div>
 

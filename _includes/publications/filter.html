@@ -1,0 +1,109 @@
+{%- comment -%}
+  Search box, type chips and year menu for the Publications page. Hidden until the script runs,
+  so visitors without JavaScript simply get the full list.
+{%- endcomment -%}
+{%- assign pubs = site.data.publications -%}
+{%- capture types -%}thesis:Theses,article:Journal articles,paper:Conference papers,report:Reports,chapter:Book chapters,poster:Posters,presentation:Presentations,blog:Blog posts,interview:Interviews{%- endcapture -%}
+{%- assign years = pubs | map: "year" | uniq | sort | reverse -%}
+<div class="pub-filter" hidden>
+  <input class="pub-filter__search" type="search" placeholder="Search by title, author, venue…" aria-label="Search publications">
+  <select class="pub-filter__year" aria-label="Filter by year">
+    <option value="">All years</option>
+    {%- for y in years %}
+    <option value="{{ y }}">{{ y }}</option>
+    {%- endfor %}
+  </select>
+  <div class="pub-filter__chips" role="group" aria-label="Filter by type">
+    <button type="button" class="pub-chip" data-type="" aria-pressed="true">All <span class="pub-chip__count">{{ pubs | size }}</span></button>
+    {%- assign type_list = types | split: "," -%}
+    {%- for t in type_list -%}
+      {%- assign parts = t | split: ":" -%}
+      {%- assign n = pubs | where: "type", parts[0] | size -%}
+      {%- if n > 0 %}
+    <button type="button" class="pub-chip" data-type="{{ parts[0] }}" aria-pressed="false">{{ parts[1] }} <span class="pub-chip__count">{{ n }}</span></button>
+      {%- endif -%}
+    {%- endfor %}
+  </div>
+  <p class="pub-filter__status" aria-live="polite"></p>
+</div>
+
+<script>
+  // Runs once the whole page is parsed: the lists come after this script
+  document.addEventListener("DOMContentLoaded", function () {
+    var filter = document.querySelector(".pub-filter");
+    var content = filter && filter.closest(".page__content");
+    if (!content) return;
+
+    var search = filter.querySelector(".pub-filter__search");
+    var yearSelect = filter.querySelector(".pub-filter__year");
+    var chips = Array.prototype.slice.call(filter.querySelectorAll(".pub-chip"));
+    var status = filter.querySelector(".pub-filter__status");
+    var fold = function (text) {
+      return text.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+    };
+
+    // A section is an h2 and everything up to the next h2
+    var sections = Array.prototype.map.call(content.querySelectorAll(":scope > h2"), function (h2) {
+      var elements = [h2];
+      for (var el = h2.nextElementSibling; el && el.tagName !== "H2"; el = el.nextElementSibling) elements.push(el);
+      var items = [];
+      elements.forEach(function (el) {
+        if (el.classList.contains("pub-list")) {
+          Array.prototype.forEach.call(el.querySelectorAll(":scope > li.pub"), function (li) {
+            items.push({ el: li, type: li.dataset.type, year: li.dataset.year, text: fold(li.textContent) });
+          });
+        }
+      });
+      var tocLink = document.querySelector('.toc__menu a[href="#' + h2.id + '"]');
+      return { elements: elements, items: items, toc: tocLink && tocLink.parentElement };
+    });
+    var total = sections.reduce(function (sum, s) { return sum + s.items.length; }, 0);
+    var state = { type: "", year: "", q: "" };
+
+    var apply = function () {
+      var words = fold(state.q).split(/\s+/).filter(Boolean);
+      var active = state.type || state.year || words.length;
+      var shown = 0;
+      sections.forEach(function (section) {
+        var visible = 0;
+        section.items.forEach(function (item) {
+          var match = (!state.type || item.type === state.type) &&
+            (!state.year || item.year === state.year) &&
+            words.every(function (w) { return item.text.indexOf(w) !== -1; });
+          item.el.hidden = !match;
+          if (match) visible++;
+        });
+        shown += visible;
+        // Sections without matches (and non-publication sections such as Awards) are hidden while filtering
+        var hide = active && visible === 0;
+        section.elements.forEach(function (el) { el.hidden = hide; });
+        if (section.toc) section.toc.hidden = hide;
+      });
+      chips.forEach(function (chip) { chip.setAttribute("aria-pressed", String(chip.dataset.type === state.type)); });
+      status.textContent = active ? "Showing " + shown + " of " + total + " references" : "";
+
+      var params = new URLSearchParams();
+      if (state.type) params.set("type", state.type);
+      if (state.year) params.set("year", state.year);
+      if (state.q) params.set("q", state.q);
+      var query = params.toString();
+      history.replaceState(null, "", location.pathname + (query ? "?" + query : "") + location.hash);
+    };
+
+    chips.forEach(function (chip) {
+      chip.addEventListener("click", function () { state.type = chip.dataset.type; apply(); });
+    });
+    yearSelect.addEventListener("change", function () { state.year = yearSelect.value; apply(); });
+    search.addEventListener("input", function () { state.q = search.value; apply(); });
+
+    // Restore a shared filter, e.g. /publications/?type=article&year=2023
+    var params = new URLSearchParams(location.search);
+    state.type = params.get("type") || "";
+    state.year = params.get("year") || "";
+    state.q = params.get("q") || "";
+    search.value = state.q;
+    yearSelect.value = state.year;
+    filter.hidden = false;
+    apply();
+  });
+</script>

@@ -10,9 +10,11 @@ permalink: /publications/
 
 References follow the Chicago Manual of Style (author‑date). Entries are listed in reverse chronological order.
 
-All references can be imported into Zotero with its browser connector, or downloaded as a bibliography file:
+All references can be imported into Zotero with its browser connector, or downloaded as a bibliography file (RIS, BibTeX) or as linked data (schema.org JSON-LD):
 
-[:arrow_down: RIS](/publications.ris){: .btn .btn--primary .btn--small} [:arrow_down: BibTeX](/publications.bib){: .btn .btn--primary .btn--small}
+[:arrow_down: RIS](/publications.ris){: .btn .btn--primary .btn--small} [:arrow_down: BibTeX](/publications.bib){: .btn .btn--primary .btn--small} [:arrow_down: JSON-LD](/publications.json){: .btn .btn--primary .btn--small}
+
+{% include publications/filter.html %}
 
 ## Theses :mortar_board:
 
@@ -57,3 +59,5 @@ The following are blog posts published independently of this website.
 ## Awards :tada:
 
 - November 2017: [Prix romand en bibliothéconomie](https://heg.hesge.ch/photos/ceremonie-diplomes-2017-prix-speciaux) awarded for my bachelor's thesis on IIIF by Association genevoise des bibliothécaires et professionnels diplômés en information documentaire (AGBD), Groupe régional des bibliothécaires vaudois (GRBV), Info Doc Valais - Info Dok Wallis (IDVS), and Association des bibliothèques fribourgeoises (ABF)
+
+{% include publications/jsonld.html %}

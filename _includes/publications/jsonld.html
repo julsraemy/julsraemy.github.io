@@ -1,0 +1,103 @@
+{%- comment -%}
+  Schema.org JSON-LD for every entry of _data/publications.yml, so that search engines and
+  scholarly crawlers can read the bibliography. With raw=true the <script> wrapper is left
+  out, for /publications.json. Authors named "Raemy, Julien Antoine" point
+  to the Person described in _includes/jsonld-person.html.
+{%- endcomment -%}
+{%- unless include.raw %}<script type="application/ld+json">{% endunless %}
+{
+  "@context": "https://schema.org",
+  "@graph": [
+{%- for p in site.data.publications %}
+    {
+      {%- case p.type -%}
+        {%- when "thesis" -%}{%- assign st = "Thesis" -%}
+        {%- when "article" -%}{%- assign st = "ScholarlyArticle" -%}
+        {%- when "paper" -%}{%- assign st = "ScholarlyArticle" -%}
+        {%- when "chapter" -%}{%- assign st = "Chapter" -%}
+        {%- when "report" -%}{%- assign st = "Report" -%}
+        {%- when "presentation" -%}{%- assign st = "PresentationDigitalDocument" -%}
+        {%- when "blog" -%}{%- assign st = "BlogPosting" -%}
+        {%- when "interview" -%}{%- assign st = "BlogPosting" -%}
+        {%- else -%}{%- assign st = "CreativeWork" -%}
+      {%- endcase %}
+      "@type": "{{ st }}",
+      "name": {{ p.title | jsonify }},
+      "datePublished": "{{ p.year }}",
+      "author": [
+        {%- for a in p.authors -%}
+          {%- if a == "Raemy, Julien Antoine" -%}
+        { "@id": "{{ site.url }}/#person" }
+          {%- else -%}
+            {%- assign parts = a | split: ", " -%}
+        { "@type": "Person", "givenName": {{ parts[1] | jsonify }}, "familyName": {{ parts[0] | jsonify }} }
+          {%- endif -%}
+          {%- unless forloop.last %},{% endunless -%}
+        {%- endfor %}
+      ]
+      {%- if p.genre %},
+      "genre": {{ p.genre | jsonify }}
+      {%- elsif p.type == "poster" %},
+      "genre": "Poster"
+      {%- endif -%}
+      {%- if p.institution %},
+      "sourceOrganization": { "@type": "CollegeOrUniversity", "name": {{ p.institution | jsonify }} }
+      {%- endif -%}
+      {%- if p.journal %},
+      "isPartOf": { "@type": "Periodical", "name": {{ p.journal | jsonify }} }
+      {%- elsif p.book %},
+      "isPartOf": {
+        "@type": "Book",
+        "name": {{ p.book | jsonify }}
+        {%- if p.editors %},
+        "editor": [
+          {%- for e in p.editors -%}
+            {%- assign parts = e | split: ", " -%}
+          { "@type": "Person", "givenName": {{ parts[1] | jsonify }}, "familyName": {{ parts[0] | jsonify }} }
+            {%- unless forloop.last %},{% endunless -%}
+          {%- endfor %}
+        ]
+        {%- endif -%}
+        {%- if p.publisher %},
+        "publisher": { "@type": "Organization", "name": {{ p.publisher | jsonify }} }
+        {%- endif %}
+      }
+      {%- elsif p.blog %},
+      "isPartOf": { "@type": "Blog", "name": {{ p.blog | jsonify }} }
+      {%- endif -%}
+      {%- if p.volume %},
+      "volumeNumber": "{{ p.volume }}"
+      {%- endif -%}
+      {%- if p.issue %},
+      "issueNumber": "{{ p.issue }}"
+      {%- endif -%}
+      {%- if p.pages %},
+      "pagination": {{ p.pages | jsonify }}
+      {%- endif -%}
+      {%- if p.publisher and p.book == nil %},
+      "publisher": { "@type": "Organization", "name": {{ p.publisher | jsonify }} }
+      {%- endif -%}
+      {%- if p.event %},
+      "recordedAt": {
+        "@type": "Event",
+        "name": {{ p.event | jsonify }}
+        {%- if p.place %},
+        "location": {{ p.place | jsonify }}
+        {%- endif %}
+      }
+      {%- endif -%}
+      {%- if p.url contains "https://doi.org/" %},
+      "identifier": { "@type": "PropertyValue", "propertyID": "DOI", "value": {{ p.url | remove_first: "https://doi.org/" | jsonify }} }
+      {%- endif -%}
+      {%- if p.url %},
+      "url": {{ p.url | jsonify }}
+      {%- endif -%}
+      {%- if p.lang %},
+      "inLanguage": "{{ p.lang }}"
+      {%- endif %}
+    }{% unless forloop.last %},{% endunless %}
+{%- endfor %}
+  ]
+}
+{%- unless include.raw %}
+</script>{% endunless %}

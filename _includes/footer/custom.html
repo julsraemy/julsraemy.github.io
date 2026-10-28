@@ -1,0 +1,16 @@
+<!-- start custom footer snippets -->
+
+<!-- Back to top button, shown once the page has been scrolled down -->
+<button class="back-to-top" type="button" aria-label="Back to top" hidden>↑</button>
+<script>
+  (function () {
+    var button = document.querySelector(".back-to-top");
+    if (!button) return;
+    var toggle = function () { button.hidden = window.scrollY < 600; };
+    window.addEventListener("scroll", toggle, { passive: true });
+    button.addEventListener("click", function () { window.scrollTo({ top: 0, behavior: "smooth" }); });
+    toggle();
+  })();
+</script>
+
+<!-- end custom footer snippets -->

@@ -47,10 +47,10 @@ Since February 2021: **Lecturer** (self‑employed/contract)
 
 **HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève**
 - BSc in Information Science
-	- Teaching the [Introduction to Open Data](https://julsraemy.ch/intro-open-data) course: 2023–2024 (16h), 2024-2025 (16h), 2025-2026 (16h), 2026-2027 (16h)
+	- Teaching the [Introduction to Open Data](https://julsraemy.ch/intro-open-data/) course: 2023–2024 (16h), 2024-2025 (16h), 2025-2026 (16h), 2026-2027 (16h)
 	- Assessing bachelor's theses as an expert examiner: 2021–2022 (1x), 2022–2023 (1x), 2023–2024 (1x)
 
-**University of Zurich / Zurich Central Library**
+**[University of Zurich / Zurich Central Library](https://www.zb.uzh.ch/en/services/aus-und-weiterbildung/)**
 - CAS Data Management and Information Technologies (CAS DMIT)
 	- Teaching the IIIF course: 2021 (4h), 2022 (8h), 2023 (8h), 2024 (8h), 2025 (8h), 2026 (8h)
 	- Monitoring and assessing students' project work and reports
@@ -59,9 +59,9 @@ Since February 2021: **Lecturer** (self‑employed/contract)
 	- Monitoring and assessing students' project work and reports
 
 **Universities of Bern and Lausanne**
-- MAS in Archival, Library and Information Science (MAS ALIS)
+- [MAS in Archival, Library and Information Science](https://www.unibe.ch/weiterbildungsangebote/mas_alis/index_ger.html) (MAS ALIS)
 	- Teaching IIIF and Linked Data: 2024–2026 (1.5h)
-- CAS in Digital Literacy for ALIS Professions (CAS ALIS-DL)
+- [CAS in Digital Literacy for ALIS Professions](https://www.unibe.ch/weiterbildungsangebote/cas_alis_dl/index_ger.html) (CAS ALIS-DL)
 	- Teaching Semantic interoperability of cultural heritage: linked data, identifiers, vocabularies and IIIF: 2027 (8h)
 
 </div>
@@ -118,11 +118,12 @@ August 2017 – January 2021: **Research and Teaching Assistant in Information S
 - Coordinating the bilingual French‑German curriculum of the BSc in Information Science
 - Teaching the course "Informations‑ und Dokumentationssysteme" and running the hands‑on exercises of the "User‑centred design" and "Linked Open Data in Libraries" courses
 - Assisting Professor René Schneider with his research projects, assignments and the training sessions he gives in continuing education programmes
-	- Two‑day continuing education courses on "Web Usability" at CERN in 2017 and for members of the Handschriftenportal (HSP) project in 2019
+	- Two‑day continuing education courses on "Web Usability" at the European Organization for Nuclear Research (CERN) in November 2017, and on user‑centred design for members of the [Handschriftenportal](https://handschriftenportal.de/) (HSP) project at the Berlin State Library in September–October 2019
+	- One‑day workshop "Research Data Literacy : acquérir des compétences pour la gestion des données de la recherche" for Bibliosuisse's continuing education programme, Bibliomedia, Lausanne, 11 November 2019
 	- Moderating the workshop "Rolle der Schweizerischen Nationalbibliothek (NB) in der digitalen Gesellschaft" (_Role of the Swiss National Library (NL) in the digital society_) on 5 December 2018
-	- User Friendly Online Services for Scientific Information (UFO) assignments with the Fachhochschule Graubünden (FHGR)
+	- [User Friendly Online Services for Scientific Information](https://www.fhgr.ch/fhgr/angewandte-zukunftstechnologien/schweizerisches-institut-fuer-informationswissenschaft-sii/projekte/ufo/) (UFO) assignments with the Fachhochschule Graubünden (FHGR), October 2017 – December 2019, assessing SWITCH Swiss edu-ID (2018), Enhancer (2018), SWITCHhub (2019) and histHub (2019)
 	- Conducting research, reporting and presenting, as well as developing models and approaches for assigning persistent identifiers, within the "Identités de confiance pour les données de l'art et du design" (ICOPAD) project, in partnership with the Swiss Institute for Art Research (SIK‑ISEA), the Zentralbibliothek Zürich and the Zürcher Hochschule der Künste (ZHdK)
-	- Managing the "Towards IIIF‑Compliance Knowledge in Switzerland" (TICKS) project and the uptake of IIIF in Switzerland, including authoring a [white paper](https://doi.org/10.5281/zenodo.2640416) and organising the Bern IIIF Showcase outreach event (2018)
+	- Managing the "Towards IIIF‑Compliance Knowledge in Switzerland" (TICKS) project and the uptake of IIIF in Switzerland, including authoring a [white paper](https://doi.org/10.5281/zenodo.2640416) and organising the Bern IIIF Showcase outreach event (2019)
 	- Managing the "Infrastructure Nationale d'un Complément d'Identifiants Pérennes, Interopérables et Traçables" (INCIPIT) project, which developed [ARKetype](https://web.archive.org/web/20230204083123/https://www.arketype.ch/), an Archival Resource Key (ARK) allocation service in Switzerland
 
 January 2015 – July 2017: **Photo Archivist for the Montreux Jazz Digital Project** at the École Polytechnique Fédérale de Lausanne (EPFL), [Cultural Heritage & Innovation Center (formerly MetaMedia Center)](https://metamedia.epfl.ch/)
@@ -165,7 +166,8 @@ August 2016 – October 2016: **University Intern** at the University of Basel, 
 - 2026: docuteam Community Day, Lausanne
 - 2024: Linked Art event, University of Basel
 - 2023: DaSCHCon on IIIF, 3D & Interoperability, University of Basel
-- 2018: Bern IIIF Showcase (TICKS project), Swiss National Library
+- 2019: Bern IIIF Showcase (TICKS project), Swiss National Library
+- 2018: [Data Professionals Day](https://heg.hesge.ch/actualites/2018/plus-400-professionnels-etudiants-reunis-feter-les-100-ans-la-filiere-information-documentaire), with Professor René Schneider, as part of the 100th anniversary of Information Science training in Geneva (100 ID)
 
 </div>
 

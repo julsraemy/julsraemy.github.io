@@ -1,4 +1,51 @@
 ---
-layout: home
-author_profile: true
+layout: single
+author_profile: false
+classes: wide home
+excerpt: "Julien A. Raemy, Semantic Architect and Digital Humanities practitioner working on IIIF, Linked Art, persistent identifiers and Linked Open Usable Data (LOUD) for cultural heritage."
 ---
+
+<section class="home-hero">
+  <div class="home-hero__text">
+    <p class="home-hero__kicker">Cultural Heritage · Digital Preservation · IIIF · Linked Data</p>
+    <h1 class="home-hero__title">Julien Antoine Raemy</h1>
+    <p class="home-hero__lead">I work on the digital preservation, dissemination and interoperability of cultural heritage and its metadata, through open standards built on the Linked Open Usable Data (LOUD) design principles, such as IIIF, Linked Art and Archival Resource Keys (ARKs).</p>
+    <p class="home-hero__actions">
+      <a class="btn btn--primary" href="/about/">About me</a>
+      <a class="btn btn--primary" href="/cv/">CV</a>
+      <a class="btn btn--primary" href="/projects/">Projects</a>
+      <a class="btn btn--primary" href="/publications/">Publications</a>
+      <a class="btn btn--primary" href="/blog/">Blog</a>
+    </p>
+  </div>
+  <img class="home-hero__photo" src="/assets/images/portrait-favicon.jpg" alt="Portrait of Julien A. Raemy" width="300" height="300">
+</section>
+
+<h2>What I do now</h2>
+
+{% include now.html %}
+
+<h2>Latest posts</h2>
+
+<div class="home-posts">
+  {%- for post in site.posts limit: 3 %}
+  <article class="home-post">
+    <p class="home-post__date">{{ post.date | date: "%d %B %Y" }}</p>
+    <h3 class="home-post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <p class="home-post__excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+  </article>
+  {%- endfor %}
+</div>
+
+<p class="home-more"><a href="/blog/">All posts →</a></p>
+
+<h2>Selected publications</h2>
+
+{%- assign selected = site.data.publications | where: "selected", true %}
+<ul class="pub-list">
+{%- for p in selected %}
+  {% include publications/entry.html pub=p %}
+{%- endfor %}
+</ul>
+
+<p class="home-more"><a href="/publications/">All publications →</a></p>
