@@ -41,21 +41,33 @@ Since February 2025: **Associate Researcher** at the [Walter Benjamin Kolleg / D
 - Reviewing the [TextRefs](https://textrefs.org/) open standard, an open, persistent, machine‑readable registry for canonical text references, with a focus on JSON‑LD context and entity‑linking modelling issues
 
 Since February 2021: **Lecturer** (self‑employed/contract)
-- At the HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève, BSc in Information Science
+
+<div class="cv-subentries" markdown="1">
+
+**HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève**
+- BSc in Information Science
 	- Teaching the [Introduction to Open Data](https://julsraemy.ch/intro-open-data) course: 2023–2024 (16h), 2024-2025 (16h), 2025-2026 (16h), 2026-2027 (16h)
 	- Assessing bachelor's theses as an expert examiner: 2021–2022 (1x), 2022–2023 (1x), 2023–2024 (1x)
-- At the University of Zurich / Zurich Central Library, CAS Data Management and Information Technologies (CAS DMIT)
+
+**University of Zurich / Zurich Central Library**
+- CAS Data Management and Information Technologies (CAS DMIT)
 	- Teaching the IIIF course: 2021 (4h), 2022 (8h), 2023 (8h), 2024 (8h), 2025 (8h), 2026 (8h)
 	- Monitoring and assessing students' project work and reports
-- At the University of Zurich / Zurich Central Library, MAS Bibliotheks‑ und Informationswissenschaft (MAS BIW)
+- MAS Bibliotheks‑ und Informationswissenschaft (MAS BIW)
 	- Teaching the IIIF course: 2021–2023 (4h), 2023–2025 (4h), 2025-2027 (4h)
 	- Monitoring and assessing students' project work and reports
-- At the Universities of Bern and Lausanne, MAS in Archival, Library and Information Science (MAS ALIS)
+
+**Universities of Bern and Lausanne**
+- MAS in Archival, Library and Information Science (MAS ALIS)
 	- Teaching IIIF and Linked Data: 2024–2026 (1.5h)
-- At the Universities of Bern and Lausanne, CAS in Digital Literacy for ALIS Professions (CAS ALIS-DL)
-  - Teaching Semantic interoperability of cultural heritage: linked data, identifiers, vocabularies and IIIF: 2027 (8h)
+- CAS in Digital Literacy for ALIS Professions (CAS ALIS-DL)
+	- Teaching Semantic interoperability of cultural heritage: linked data, identifiers, vocabularies and IIIF: 2027 (8h)
+
+</div>
 
 April 2024 – December 2025: **Data Scientist and Project Manager** at the [Swiss Federal Archives](https://www.bar.admin.ch/)
+
+<div class="cv-subentries" markdown="1">
 
 **LINDASnext**, a next‑generation scalable platform evolved from [LINDAS](https://lindas.admin.ch), enabling Swiss public administrations to publish and visualise their data as knowledge graphs (CHF 2M baseline, approximately CHF 40M implementation phase)
 - Management and coordination: oversaw contractual, financial and resource aspects, coordinating a ten‑person team across more than 15 stakeholders, including the Federal Office for the Environment (FOEN) and the Federal Statistical Office (FSO)
@@ -74,6 +86,8 @@ April 2024 – December 2025: **Data Scientist and Project Manager** at the [Swi
 **IIIF and persistent identifiers**
 - Authored a feasibility study for the IIIF Authorization Flow API on the Federal Archives' Online Access portal
 - Authored a blueprint for deploying persistent identifiers (ARKs) across the Federal Archives' IT ecosystem
+
+</div>
 
 February 2021 – October 2024: **Interoperability Specialist** at [DaSCH, Swiss National Data and Service Center for the Humanities](https://dasch.swiss/)
 - Advising on the use of standards and tools
@@ -179,10 +193,10 @@ August 2016 – October 2016: **University Intern** at the University of Basel, 
 ### Education :school:
 
 - 2021–2024: **PhD in Digital Humanities** at the University of Basel
-- 2018–2020: **Master of Science in Information Science** at the HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève
-- 2013–2017: **Bachelor of Science in Library and Information Science** at the HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève
-- 2010–2011: **Professional Business Baccalaureate** ("Maturité professionnelle commerciale") at the École professionnelle artisanale et commerciale (EPAC)
-- 2005–2008: **Federal Diploma of Vocational Education and Training, Bookseller** ("Certificat fédéral de capacité de libraire") at the École professionnelle commerciale de Lausanne (EPCL)
+- 2018–2020: **Master of Science in Information Science** (_Master of Science HES-SO en sciences de l'information_) at the HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève
+- 2013–2017: **Bachelor of Science in Information Science** (_Bachelor of Science HES-SO en information documentaire_) at the HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève
+- 2010–2011: **Professional Business Baccalaureate** (_Maturité professionnelle commerciale_) at the École professionnelle artisanale et commerciale (EPAC)
+- 2005–2008: **Federal Diploma of Vocational Education and Training, Bookseller** (_Certificat fédéral de capacité de libraire_) at the École professionnelle commerciale de Lausanne (EPCL)
 
 ### Certificates :scroll:
 

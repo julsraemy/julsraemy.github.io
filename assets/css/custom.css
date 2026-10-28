@@ -161,7 +161,8 @@
 }
 
 /* Entry header (paragraph followed by its list of tasks) gets a dot */
-.cv .page__content > p:has(+ ul):not(h4 + p) {
+.cv .page__content > p:has(+ ul):not(h4 + p),
+.cv .page__content > p:has(+ .cv-subentries) {
   position: relative;
   margin-top: 1.5em;
   margin-bottom: 0.3em;
@@ -169,6 +170,7 @@
 }
 
 .cv .page__content > p:has(+ ul):not(h4 + p)::before,
+.cv .page__content > p:has(+ .cv-subentries)::before,
 .cv .page__content > :is(h3, h4) + ul > li::before,
 .cv .page__content > h4 + p + ul > li::before {
   content: "";
@@ -179,7 +181,8 @@
   background: var(--card-accent);
 }
 
-.cv .page__content > p:has(+ ul):not(h4 + p)::before {
+.cv .page__content > p:has(+ ul):not(h4 + p)::before,
+.cv .page__content > p:has(+ .cv-subentries)::before {
   left: 0;
   top: 0.45em;
 }
@@ -200,6 +203,38 @@
 .cv .page__content > h4 + p + ul > li::before {
   left: calc(-1.95em - 1px);
   top: 0.45em;
+}
+
+/* Activities grouped under one position (e.g. projects at the Swiss Federal Archives) */
+.cv-subentries {
+  border-left: 2px solid var(--card-border);
+  margin: 0 0 1em 0.3em;
+  padding: 0.1em 1em 0.1em 1.6em;
+  background: rgba(185, 167, 127, 0.07);
+  border-radius: 0 6px 6px 0;
+}
+
+.cv-subentries > p {
+  position: relative;
+  margin: 0.8em 0 0.2em;
+}
+
+.cv-subentries > p::before {
+  content: "";
+  position: absolute;
+  left: calc(-1.9em - 1px);
+  top: 0.5em;
+  box-sizing: border-box;
+  width: 0.6em;
+  height: 0.6em;
+  border: 2px solid var(--card-accent);
+  border-radius: 50%;
+  background: #f3f3f3;
+}
+
+.cv-subentries > ul {
+  padding-left: 1.2em;
+  margin-bottom: 0.6em;
 }
 
 /* ---------- About: portrait, current positions and timeline ---------- */
