@@ -162,10 +162,10 @@ August 2016 – October 2016: **University Intern** at the University of Basel, 
 - January 2020 – January 2026: ARK Alliance [Outreach Working Group](https://arks.org/community-groups/) Member
 
 **Event organisation**
-- 2018: Bern IIIF Showcase (TICKS project), Swiss National Library
-- 2023: DaSCHCon on IIIF, 3D & Interoperability, University of Basel
-- 2024: Linked Art event, University of Basel
 - 2026: docuteam Community Day, Lausanne
+- 2024: Linked Art event, University of Basel
+- 2023: DaSCHCon on IIIF, 3D & Interoperability, University of Basel
+- 2018: Bern IIIF Showcase (TICKS project), Swiss National Library
 
 </div>
 
