@@ -82,7 +82,7 @@ February 2021 – October 2024: **Interoperability Specialist** at [DaSCH, Swiss
 - Organising DaSCHCon on IIIF, 3D & Interoperability (2023) and co‑organising academic conferences
 - Supervising a master's thesis on IIIF and 3D visualisation
 
-February 2021 – March 2024: **Assistant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab](https://dhlab.philhist.unibas.ch/) (75%, alongside a 20% role at [DaSCH](https://www.dasch.swiss/))
+February 2021 – March 2024: **Assistant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab](https://dhlab.philhist.unibas.ch/)
 - PhD undertaken within the Sinergia project "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / [Participatory Knowledge Practices in Analogue and Digital Image Archives](https://about.participatory-archives.ch/)" (PIA), a 20‑person project funded by the Swiss National Science Foundation (SNSF)
 - Dissertation: [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://phd.julsraemy.ch/) (successfully defended in November 2024, published in December 2024), implementing community‑driven standards (IIIF, Linked Art) and leading interdisciplinary working groups
 - Contributing to the migration from SALSAH to the DaSCH Service Platform (DSP): adapting the EKWS (Empirische Kulturwissenschaft Schweiz) data model and its associated data pipelines
