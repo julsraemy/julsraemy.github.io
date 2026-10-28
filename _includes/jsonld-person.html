@@ -1,6 +1,7 @@
 {%- comment -%}
   Schema.org description of the site's author, on every page. Publications on /publications/
-  point to it through its @id. sameAs reuses the social links from _config.yml.
+  point to it through its @id. sameAs reuses the social links from _config.yml. schema.org has no pronouns property,
+  so they are an additionalProperty pointing to the Homosaurus concept.
   With raw=true the <script> wrapper is left out, for /me.json.
 {%- endcomment -%}
 {%- unless include.raw %}<script type="application/ld+json">{% endunless %}
@@ -10,6 +11,17 @@
   "@id": "{{ site.url }}/#person",
   "name": "Julien Antoine Raemy",
   "alternateName": "Julien A. Raemy",
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "Pronouns",
+    "value": "he/him",
+    "valueReference": {
+      "@type": "DefinedTerm",
+      "@id": "https://homosaurus.org/v3/homoit0001681",
+      "name": "He/Him/Himself (Pronouns)",
+      "inDefinedTermSet": "https://homosaurus.org/v3"
+    }
+  },
   "url": "{{ site.url }}/",
   "image": "{{ site.url }}/assets/images/portrait-favicon.jpg",
   "jobTitle": "Semantic Architect and Project Manager",
