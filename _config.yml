@@ -93,7 +93,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /assets/images/portrait-favicon.jpg
+og_image                 : /assets/images/social-card.jpg # 1200x630 link preview (LinkedIn, Mastodon, Slack...)
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
