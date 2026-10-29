@@ -1,6 +1,6 @@
 ---
 title: "About me"
-excerpt: "About page about Julien A. Raemy's website"
+excerpt: "About Julien A. Raemy: from bookseller to PhD in Digital Humanities, working on the preservation and interoperability of cultural heritage data."
 toc: true
 toc_label: Table of Contents
 classes: about

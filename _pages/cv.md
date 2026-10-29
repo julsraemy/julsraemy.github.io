@@ -1,6 +1,6 @@
 ---
 title: "CV"
-excerpt: "Julien A. Raemy's curriculum vitae (CV)"
+excerpt: "Curriculum vitae of Julien A. Raemy: experience in digital preservation, IIIF and linked data, teaching, community involvement, education and skills."
 toc: true
 toc_label: Table of Contents
 toc_sticky: true

@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-excerpt: "Julien A. Raemy's publications"
+excerpt: "Publications by Julien A. Raemy on IIIF, Linked Art, persistent identifiers and Linked Open Usable Data, with RIS, BibTeX and JSON-LD exports."
 toc: true
 toc_label: Table of Contents
 toc_sticky: true
