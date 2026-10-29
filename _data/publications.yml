@@ -185,6 +185,7 @@
   authors: ["Freire, Nuno", "Meijers, Enno", "de Valk, Sjors", "Raemy, Julien Antoine", "Isaac, Antoine"]
   year: 2021
   title: "Metadata Aggregation via Linked Data: Results of the Europeana Common Culture Project"
+  selected: true
   book: "Metadata and Semantic Research: MTSR 2020"
   editors: ["Garoufallou, Emmanouel", "Ovalle‑Perandones, María‑Antonia"]
   pages: 383–94
@@ -296,6 +297,16 @@
 # ---------- Presentations ----------
 
 - type: presentation
+  authors: ["Cornut, Murielle", "Raemy, Julien Antoine"]
+  year: 2026
+  title: "Rethinking Photo Album Representation Through IIIF"
+  presented: Presentation at the
+  event: "11th International Conference on Digital Heritage (EuroMed 2026)"
+  place: online
+  date: 3 November 2026
+  url: https://doi.org/10.5281/zenodo.23762494
+
+- type: presentation
   authors: ["Raemy, Julien Antoine"]
   year: 2025
   title: "Linked Open Usable Data for Cultural Heritage: Community Building and Semantic Interoperability in Practice"
@@ -303,6 +314,9 @@
   event: 17th Semantic Web in Libraries Conference (SWIB25)
   date: November 2025
   url: https://doi.org/10.48620/92261
+  links: 
+    - label: Recording
+      url: https://www.youtube.com/watch?v=DnE8xItqC-4
 
 - type: presentation
   authors: ["Raemy, Julien Antoine"]
@@ -311,6 +325,9 @@
   event: Linked Data Day 2025
   date: 10 November 2025
   url: https://doi.org/10.48620/92348
+  links: 
+    - label: Recording
+      url: https://www.youtube.com/watch?v=Xg2BJgaGXJE
 
 - type: presentation
   authors: ["Raemy, Julien Antoine"]
