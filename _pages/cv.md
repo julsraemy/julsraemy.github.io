@@ -1,4 +1,5 @@
 ---
+date_published: 2022-07-11
 title: "CV"
 excerpt: "Curriculum vitae of Julien A. Raemy: experience in digital preservation, IIIF and linked data, teaching, community involvement, education and skills."
 toc: true

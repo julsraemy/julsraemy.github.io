@@ -1,4 +1,5 @@
 ---
+date_published: 2022-10-22
 title: "Projects"
 excerpt: "Research and infrastructure projects by Julien A. Raemy on IIIF, Linked Art, persistent identifiers (ARKs) and knowledge graphs, from participatory image archives (PIA) to linked government data (LINDASnext)."
 toc: true

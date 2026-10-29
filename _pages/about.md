@@ -1,4 +1,5 @@
 ---
+date_published: 2013-05-24
 title: "About me"
 excerpt: "About Julien A. Raemy: from bookseller to PhD in Digital Humanities, working on the preservation and interoperability of cultural heritage data."
 toc: true

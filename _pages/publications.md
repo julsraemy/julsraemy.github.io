@@ -1,4 +1,5 @@
 ---
+date_published: 2022-10-22
 title: "Publications"
 excerpt: "Publications by Julien A. Raemy on IIIF, Linked Art, persistent identifiers and Linked Open Usable Data, with RIS, BibTeX and JSON-LD exports."
 toc: true

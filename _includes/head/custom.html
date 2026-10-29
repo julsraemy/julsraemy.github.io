@@ -21,6 +21,26 @@
 <meta name="twitter:card" content="summary_large_image">
 {% endunless %}
 
+<!-- Publication and update dates for link previews (LinkedIn reads og:publish_date).
+     Posts get their published date from the theme; pages use date_published from their front matter
+     and, as "last updated", the date of the last site build. -->
+{%- assign published = page.date | default: page.date_published -%}
+{%- if page.date -%}
+  {%- assign modified = page.last_modified_at -%}
+{%- else -%}
+  {%- assign modified = page.last_modified_at | default: site.time -%}
+{%- endif %}
+{% if published -%}
+{% unless page.date %}<meta property="article:published_time" content="{{ published | date_to_xmlschema }}">
+{% endunless -%}
+<meta name="publish_date" property="og:publish_date" content="{{ published | date_to_xmlschema }}">
+{% endif -%}
+{% if modified -%}
+{% unless page.date and page.last_modified_at %}<meta property="article:modified_time" content="{{ modified | date_to_xmlschema }}">
+{% endunless -%}
+<meta property="og:updated_time" content="{{ modified | date_to_xmlschema }}">
+{% endif %}
+
 <!-- Link to Academicon icons -->
 <link rel="stylesheet" href="/assets/css/academicons.css"/>
 
