@@ -171,7 +171,7 @@ August 2016 – October 2016: **University Intern** at the University of Basel, 
 - 2018: [Data Professionals Day](https://heg.hesge.ch/actualites/2018/plus-400-professionnels-etudiants-reunis-feter-les-100-ans-la-filiere-information-documentaire), with Professor René Schneider, as part of the 100th anniversary of Information Science training in Geneva (100 ID)
 
 **Panels and round tables**
-- 19 November 2022: Moderator of the round table "Fri-Memoria : encore une plateforme patrimoniale ?" at [Les 10 heures du patrimoine](https://www.fr.ch/sites/default/files/2022-11/le-programme--les-10-heures-du-patrimoine.pdf?v=1667487212), Bibliothèque cantonale et universitaire (BCU) Fribourg
+- 19 November 2022: Moderator of the round table "Fri-Memoria : encore une plateforme patrimoniale ?" at [Les 10 heures du patrimoine fribourgeois](https://www.fr.ch/sites/default/files/2022-11/le-programme--les-10-heures-du-patrimoine.pdf?v=1667487212), Bibliothèque cantonale et universitaire (BCU) Fribourg
 - 20 April 2021: Panellist in the e-rara podium discussion "[Retrodigitalisierung im Dienste von Forschung und Lehre](https://library.ethz.ch/ueber-uns-und-standorte/veranstaltungen/retrodigitalisierung-im-dienste-von-forschung-und-lehre.html)", ETH Library, online
 
 </div>
