@@ -297,6 +297,25 @@
 # ---------- Presentations ----------
 
 - type: presentation
+  authors: ["Raemy, Julien Antoine"]
+  year: 2026
+  title: "Cap sur IIIF : ce qui se prépare chez docuteam"
+  presented: Presentation at the
+  event: "docuteam Community Day"
+  place: Lausanne, Switzerland
+  date: 12 November 2026
+
+- type: presentation
+  authors: ["Raemy, Julien Antoine"]
+  year: 2026
+  title: "Kurs auf IIIF: Was bei docuteam in Vorbereitung ist"
+  presented: Presentation at the
+  event: "docuteam Community Day"
+  place: Zürich, Switzerland
+  date: 5 November 2026
+
+
+- type: presentation
   authors: ["Cornut, Murielle", "Raemy, Julien Antoine"]
   year: 2026
   title: "Rethinking Photo Album Representation Through IIIF"

@@ -648,3 +648,62 @@
 .page__content .pub-filter__status:empty {
   display: none;
 }
+
+/* ---------- 404 page ---------- */
+
+@media (min-width: 64em) {
+  .notfound .page {
+    float: none;
+    width: 100%;
+  }
+}
+
+/* The page title is shown in the hero instead */
+.notfound .page__title {
+  display: none;
+}
+
+.notfound-hero {
+  max-width: 46em;
+  margin: 1em 0 2em;
+}
+
+.page__content .notfound-hero__title {
+  margin: 0.2em 0 0.5em;
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  font-size: 2.2em;
+  font-weight: 700;
+  line-height: 1.15;
+}
+
+.notfound-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1em;
+  margin-bottom: 2.5em;
+}
+
+.notfound-link {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3em;
+  padding: 0.9em 1.1em;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-top: 4px solid var(--card-accent);
+  border-radius: 6px;
+  box-shadow: var(--card-shadow);
+  color: inherit;
+  text-decoration: none;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.notfound-link:hover {
+  box-shadow: var(--card-shadow-hover);
+  transform: translateY(-2px);
+}
+
+.notfound-link span {
+  font-size: 0.75em;
+  color: var(--muted);
+}
