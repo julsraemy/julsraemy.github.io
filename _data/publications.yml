@@ -304,6 +304,7 @@
   event: "docuteam Community Day"
   place: Lausanne, Switzerland
   date: 12 November 2026
+  url: https://julsraemy.ch/prezi/cap-sur-iiif-docuteam.html
 
 - type: presentation
   authors: ["Raemy, Julien Antoine"]
@@ -313,6 +314,7 @@
   event: "docuteam Community Day"
   place: Zürich, Switzerland
   date: 5 November 2026
+  url: https://julsraemy.ch/prezi/kurs-auf-iiif-docuteam.html
 
 - type: presentation
   authors: ["Cornut, Murielle", "Raemy, Julien Antoine"]
