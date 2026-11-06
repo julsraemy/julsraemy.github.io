@@ -1,6 +1,6 @@
 ---
 title: "IIIF in Switzerland: A Report Series"
-excerpt: "A living panorama of IIIF-compatible platforms and engaged institutions in Switzerland"
+excerpt: "A living panorama of IIIF-compatible platforms and engaged institutions in Switzerland, now in version 1.1 with 27 platforms, from libraries and archives to research infrastructures and museums."
 toc: false
 categories:
   - posts
