@@ -707,3 +707,42 @@
   font-size: 0.75em;
   color: var(--muted);
 }
+
+/* ---------- Share buttons (see _includes/social-share.html) ---------- */
+
+.page__share .btn {
+  margin: 0 0.3em 0.4em 0;
+}
+
+.btn--mastodon,
+.btn--mastodon:visited {
+  background-color: #6364ff;
+  color: #fff;
+}
+
+.btn--mastodon:hover {
+  background-color: #4f50cc;
+  color: #fff;
+}
+
+.btn--email,
+.btn--email:visited,
+.btn--copy-link {
+  background-color: var(--muted);
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+/* A <button>, not a link: take the same text metrics as the other buttons */
+.page__share .btn--copy-link {
+  font-family: inherit;
+  line-height: inherit;
+  vertical-align: top;
+}
+
+.btn--email:hover,
+.btn--copy-link:hover {
+  background-color: #4f4b43;
+  color: #fff;
+}
