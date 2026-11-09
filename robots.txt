@@ -7,3 +7,5 @@ Allow: /
 
 Sitemap: {{ "/sitemap.xml" | absolute_url }}
 Sitemap: {{ site.url }}/prezi/sitemap.xml
+Sitemap: {{ site.url }}/intro-open-data/sitemap.xml
+Sitemap: https://phd.julsraemy.ch/sitemap.xml
