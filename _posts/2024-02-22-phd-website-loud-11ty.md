@@ -14,7 +14,6 @@ tags:
   - 11ty
   - Omeka S
 date: 2024-02-22 12:50:28 +0100
-link: https://phd.julsraemy.ch
 ---
 
 ## Redesigning the PhD Website with 11ty

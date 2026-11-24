@@ -23,7 +23,6 @@ tags:
   - Sitemaps
   - Social Web Protocols
 date: 2020-08-31 12:00:42 +0100
-link: https://sonar.ch/hesso/documents/315109
 ---
 
 ## Preamble

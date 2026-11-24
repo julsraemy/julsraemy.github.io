@@ -325,6 +325,7 @@ defaults:
       show_date: true
       share: true
       related: true
+      toc_sticky: true
   # _pages
   - scope:
       path: ""
@@ -332,6 +333,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      toc_sticky: true
   # Keep the thesis PDF and its redirect stub out of the sitemap
   - scope:
       path: "assets/doc"
