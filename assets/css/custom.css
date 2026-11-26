@@ -747,23 +747,6 @@
   color: #fff;
 }
 
-/* ---------- About: timeline items fade in as they scroll into view ---------- */
-
-@supports (animation-timeline: view()) {
-  @media (prefers-reduced-motion: no-preference) {
-    .about-timeline__item {
-      animation: timeline-reveal linear both;
-      animation-timeline: view();
-      animation-range: entry 0% entry 60%;
-    }
-  }
-}
-
-@keyframes timeline-reveal {
-  from { opacity: 0; transform: translateY(1.5em); }
-  to   { opacity: 1; transform: none; }
-}
-
 /* ---------- Communities (homepage) ---------- */
 
 .community-grid {
@@ -973,19 +956,6 @@
   border-color: var(--card-accent);
 }
 
-/* Cards fade in as they scroll into view */
-@supports (animation-timeline: view()) {
-  @media (prefers-reduced-motion: no-preference) {
-    .about-now__card,
-    .home-post,
-    .community-card {
-      animation: timeline-reveal linear both;
-      animation-timeline: view();
-      animation-range: entry 0% entry 50%;
-    }
-  }
-}
-
 @media (max-width: 700px) {
   .home-hero {
     padding: 1.4em 1.2em;
@@ -996,3 +966,352 @@
   }
 }
 
+/* ---------- Scroll reveal (assets/js/reveal.js) ---------- */
+
+.js-reveal .reveal {
+  opacity: 0;
+  transform: translateY(48px) scale(0.96);
+  filter: blur(6px);
+  transition:
+    opacity 0.8s ease,
+    transform 0.8s cubic-bezier(0.2, 0.7, 0.2, 1),
+    filter 0.8s ease;
+  transition-delay: var(--reveal-delay, 0ms);
+}
+
+.js-reveal .reveal.is-visible {
+  opacity: 1;
+  transform: none;
+  filter: none;
+}
+
+/* ---------- CV: each activity as a block ---------- */
+
+.cv-block {
+  position: relative;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 16px;
+  box-shadow: var(--card-shadow);
+  padding: 1.1em 1.4em 0.6em;
+  margin: 0 0 1.1em;
+  overflow: hidden;
+  transition: box-shadow 0.25s ease, transform 0.25s ease, border-color 0.25s ease;
+}
+
+.cv-block::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 4px;
+  background: linear-gradient(180deg, var(--card-accent), transparent);
+}
+
+.cv-block:hover {
+  box-shadow: var(--card-shadow-hover);
+  border-color: var(--card-accent);
+}
+
+/* Date as a pill above the role */
+.cv-block > .cv-block__date {
+  display: inline-block;
+  margin: 0 0 0.5em;
+  background: var(--badge-bg);
+  border-radius: 999px;
+  padding: 0.1em 0.75em;
+  font-size: 0.72em;
+  font-weight: bold;
+}
+
+/* Role line */
+.cv-block > p:not(.cv-block__date) {
+  margin: 0 0 0.5em;
+  font-size: 1.02em;
+  line-height: 1.4;
+}
+
+.cv-block > ul {
+  margin: 0 0 0.6em;
+  padding-left: 1.2em;
+  font-size: 0.9em;
+}
+
+.cv-block > ul li {
+  margin-bottom: 0.25em;
+}
+
+.cv-block li::marker {
+  color: var(--card-accent);
+}
+
+/* Sub-activities inside a block (Lecturer, Swiss Federal Archives…) */
+.cv-block .cv-subentries {
+  margin: 0.4em 0 0.8em;
+  border-radius: 10px;
+  border-left-width: 0;
+  padding: 0.2em 1em 0.2em 1em;
+}
+
+.cv-block .cv-subentries > p {
+  font-weight: 600;
+}
+
+.cv-block .cv-subentries > p::before {
+  display: none;
+}
+
+/* Organisations side by side (Community, Other memberships) */
+.cv-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1em;
+  align-items: start;
+}
+
+.cv-grid > .cv-block {
+  margin: 0;
+}
+
+.cv-grid > .cv-block > p:first-child {
+  font-weight: normal;
+}
+
+/* ---------- Skills as tags (CV and About) ---------- */
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1em;
+  margin: 1em 0 1.5em;
+}
+
+.skills-group {
+  position: relative;
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 16px;
+  box-shadow: var(--card-shadow);
+  padding: 1em 1.2em 0.9em;
+  overflow: hidden;
+}
+
+.skills-group::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 4px;
+  background: linear-gradient(90deg, var(--card-accent), transparent);
+}
+
+.page__content .skills-group__name {
+  margin: 0 0 0.6em;
+  font-size: 0.72em;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.skills-group__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  list-style: none;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+}
+
+.skills-group__tags li {
+  margin: 0 !important;
+  background: var(--badge-bg);
+  border-radius: 999px;
+  padding: 0.2em 0.75em;
+  font-size: 0.72em;
+  line-height: 1.4;
+}
+
+.skills-group__tags li::before {
+  display: none !important;
+}
+
+.skills-group__note {
+  margin: 0.7em 0 0;
+  font-size: 0.7em;
+  color: var(--muted);
+}
+
+/* ---------- CV: collapsible "Other experience" ---------- */
+
+.cv-more {
+  margin: 0.5em 0 1.5em;
+  background: var(--tint);
+  border: 1px dashed var(--card-border);
+  border-radius: 16px;
+  padding: 0.7em 1.3em;
+}
+
+.cv-more > summary {
+  cursor: pointer;
+  font-weight: bold;
+  list-style: none;
+}
+
+.cv-more > summary::-webkit-details-marker {
+  display: none;
+}
+
+.cv-more > summary::before {
+  content: "+";
+  display: inline-block;
+  width: 1.2em;
+  color: var(--card-accent);
+  transition: transform 0.2s ease;
+}
+
+.cv-more[open] > summary::before {
+  content: "−";
+}
+
+.cv-more > ul {
+  margin: 0.8em 0 0.3em;
+  padding-left: 1.2em;
+  font-size: 0.88em;
+}
+
+.cv-more li {
+  margin-bottom: 0.35em;
+}
+
+.cv-more li::marker {
+  color: var(--card-accent);
+}
+
+/* ---------- CV: show/hide each block (assets/js/cv-toggle.js) ---------- */
+
+.cv-block.has-toggle {
+  padding-right: 3.2em;
+}
+
+.cv-block__toggle {
+  position: absolute;
+  top: 0.8em;
+  right: 0.8em;
+  width: 2em;
+  height: 2em;
+  display: grid;
+  place-items: center;
+  border: 1px solid var(--card-border);
+  border-radius: 50%;
+  background: var(--card-bg);
+  color: inherit;
+  cursor: pointer;
+  transition: border-color 0.2s ease, background 0.2s ease;
+}
+
+.cv-block__toggle::before {
+  content: "";
+  width: 0.5em;
+  height: 0.5em;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: translateY(-20%) rotate(45deg);
+  transition: transform 0.3s ease;
+}
+
+.cv-block.is-collapsed .cv-block__toggle::before {
+  transform: translateY(15%) rotate(-135deg);
+}
+
+.cv-block__toggle:hover,
+.cv-block__toggle:focus-visible {
+  border-color: var(--card-accent);
+  background: var(--badge-bg);
+}
+
+/* Smooth open/close: the body animates its height via grid rows */
+.cv-block__body {
+  display: grid;
+  grid-template-rows: 1fr;
+  transition: grid-template-rows 0.35s ease, opacity 0.35s ease;
+}
+
+.cv-block__inner {
+  min-height: 0;
+  overflow: hidden;
+}
+
+.cv-block.is-collapsed .cv-block__body {
+  grid-template-rows: 0fr;
+  opacity: 0;
+}
+
+.cv-block.is-collapsed {
+  padding-bottom: 0.4em;
+}
+
+.cv-block__inner > ul {
+  margin: 0 0 0.6em;
+  padding-left: 1.2em;
+  font-size: 0.9em;
+}
+
+.cv-block__inner > ul li {
+  margin-bottom: 0.25em;
+}
+
+.cv-toolbar {
+  display: flex;
+  gap: 0.5em;
+  justify-content: flex-end;
+  margin: -0.5em 0 0.5em;
+}
+
+.cv-toolbar button {
+  border: 1px solid var(--card-border);
+  border-radius: 999px;
+  background: var(--card-bg);
+  color: inherit;
+  padding: 0.25em 0.9em;
+  font-size: 0.72em;
+  cursor: pointer;
+}
+
+.cv-toolbar button:hover {
+  border-color: var(--card-accent);
+  background: var(--badge-bg);
+}
+
+/* Skills section toggle (assets/js/cv-toggle.js): closed shows only category names */
+.skills-toggle {
+  display: block;
+  margin: -0.4em 0 0 auto;
+  border: 1px solid var(--card-border);
+  border-radius: 999px;
+  background: var(--card-bg);
+  color: inherit;
+  padding: 0.25em 0.9em;
+  font-size: 0.72em;
+  cursor: pointer;
+}
+
+.skills-toggle:hover {
+  border-color: var(--card-accent);
+  background: var(--badge-bg);
+}
+
+.skills-grid.is-collapsed .skills-group__tags {
+  display: none !important;
+}
+
+.page__content .skills-grid.is-collapsed .skills-group__name {
+  margin: 0;
+}
+
+/* Small blocks, e.g. languages */
+.cv-grid--compact {
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+}
+
+.cv-grid--compact > .cv-block {
+  padding: 0.8em 1.1em 0.4em;
+}

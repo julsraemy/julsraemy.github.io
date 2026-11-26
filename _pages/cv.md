@@ -12,37 +12,48 @@ permalink: /cv/
 
 ## Summary (tl;dr)
 
-[Julien Antoine Raemy](https://name.pn/julien-antoine-raemy) (he/him) is a Semantic Architect and Project Manager at [docuteam](https://www.docuteam.ch/), where he designs and advises on digital preservation systems while driving IIIF strategy and linked data modelling for memory institutions and private companies. He is also an Associate Researcher at the University of Bern ([Walter Benjamin Kolleg / Digital Humanities Center](https://www.dh.unibe.ch/)). He holds a PhD in Digital Humanities from the University of Basel, having defended his thesis, [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://phd.julsraemy.ch/), in November 2024. He also holds a Bachelor's and a Master's degree in Information Science from the HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève.
+[Julien Antoine Raemy](https://name.pn/julien-antoine-raemy) (he/him) is a Semantic Architect and Project Manager at [docuteam](https://www.docuteam.ch/), where he designs digital preservation systems and drives IIIF strategy and linked data modelling for memory institutions, and an Associate Researcher at the University of Bern ([Walter Benjamin Kolleg / Digital Humanities Center](https://www.dh.unibe.ch/)). He holds a PhD in Digital Humanities from the University of Basel (2024) and a Bachelor's and a Master's degree in Information Science from the Haute école de gestion de Genève (HES‑SO).
 
-He has worked extensively in academia and in or for the cultural heritage domain, including as a Photo Archivist for the Montreux Jazz Digital Project at the École Polytechnique Fédérale de Lausanne (2015–2017), as a Research and Teaching Assistant at the Haute école de gestion de Genève (2017–2021), as an Interoperability Specialist at DaSCH, Swiss National Data and Service Center for the Humanities (2021–2024), and as a Data Scientist and Project Manager at the Swiss Federal Archives (2024–2025).
+With more than ten years of experience with memory institutions and research infrastructures, he works on the preservation, dissemination and interoperability of cultural heritage through open standards built on the Linked Open Usable Data (LOUD) design principles. He has served on the IIIF Coordinating Committee since 2020 and is a member of the Linked Art Editorial Board and of the ARK Alliance Technical Working Group.
 
-With over a decade of involvement in the International Image Interoperability Framework (IIIF) community, he has served on its Coordinating Committee since 2020 and on its Technical Review Committee from 2019 to 2024. He is also a member of the Linked Art Editorial Board and of the Archival Resource Key (ARK) Alliance Technical Working Group.
-
-Julien is particularly interested in ways of improving the digital preservation, dissemination and interoperability of cultural heritage objects and their associated metadata through the application of standards that adhere to the Linked Open Usable Data (LOUD) design principles.
-
-An overview of the research and professional projects he has contributed to is available on the [Projects](/projects/) page.
+More background is on the [About](/about/) page, and the projects he has contributed to are on the [Projects](/projects/) page.
 
 ## Curriculum vitae
 
 ### Experience :office:
 
-Since January 2026: **Semantic Architect and Project Manager** at [docuteam](https://www.docuteam.ch/)
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">Since January 2026</p>
+
+**Semantic Architect and Project Manager** at [docuteam](https://www.docuteam.ch/) (docuteam SA), Yverdon‑les‑Bains
 - Leading database migration and mapping to Records in Contexts (RiC) for customer projects
 - Configuring docuteam desk, a submission management application, for pre-ingest: submission spaces, required metadata and validation workflows that streamline ingest into docuteam box or docuteam context, with docuteam feeder running in the background
-- Designing processing workflows in line with the OAIS model in docuteam feeder, from transfer preparation to the creation and ingest of submission information packages (SIPs), alongside ETL pipelines for metadata
+- Designing processing workflows in line with the OAIS model in docuteam feeder, from transfer preparation to the creation and ingest of submission information packages (SIPs), alongside ETL pipelines for metadata (EAD, PREMIS)
 - Defining the IIIF implementation strategy and architectural blueprints for docuteam cosmos, a digital preservation software suite
 - Supporting archival description and dissemination projects, drawing on docuteam context (a RiC-based archival information system) and docuteam sirius (docuteam's publication portal)
 - Contributing to preserve2027, delivering docuteam box, built on a Fedora 6-based repository system, for the Staatsarchiv Basel-Stadt
 - Developing and validating (SHACL) docuteam's data model ahead of its publication as dereferenceable linked data
 - Producing and translating technical documentation, and providing training and support for customers
 
+</div>
 
-Since February 2025: **Associate Researcher** at the [Walter Benjamin Kolleg / Digital Humanities Center](https://www.dh.unibe.ch/), University of Bern
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">Since February 2025</p>
+
+**Associate Researcher** at the [Walter Benjamin Kolleg / Digital Humanities Center](https://www.dh.unibe.ch/), University of Bern
 - Pursuing research on Linked Open Usable Data (LOUD) for cultural heritage, with a focus on interoperable linked data modelling for dispersed photographic archives
 - Bridging research and community practice through ongoing contributions to IIIF and Linked Art (Editorial Board member)
 - Reviewing the [TextRefs](https://textrefs.org/) open standard, an open, persistent, machine‑readable registry for canonical text references, with a focus on JSON‑LD context and entity‑linking modelling issues
 
-Since February 2021: **Lecturer** (self‑employed/contract)
+</div>
+
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">Since February 2021</p>
+
+**Lecturer** (self‑employed/contract)
 
 <div class="cv-subentries" markdown="1">
 
@@ -67,7 +78,13 @@ Since February 2021: **Lecturer** (self‑employed/contract)
 
 </div>
 
-April 2024 – December 2025: **Data Scientist and Project Manager** at the [Swiss Federal Archives](https://www.bar.admin.ch/)
+</div>
+
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">April 2024 – December 2025</p>
+
+**Data Scientist and Project Manager** at the [Swiss Federal Archives](https://www.bar.admin.ch/)
 
 <div class="cv-subentries" markdown="1">
 
@@ -91,14 +108,26 @@ April 2024 – December 2025: **Data Scientist and Project Manager** at the [Swi
 
 </div>
 
-February 2021 – October 2024: **Interoperability Specialist** at [DaSCH, Swiss National Data and Service Center for the Humanities](https://dasch.swiss/)
+</div>
+
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">February 2021 – October 2024</p>
+
+**Interoperability Specialist** at [DaSCH, Swiss National Data and Service Center for the Humanities](https://dasch.swiss/)
 - Advising on the use of standards and tools
 - Designing proof‑of‑concept APIs for the DaSCH Service Platform and developing Python scripts to automatically generate IIIF Manifests for all media files across the archive
 - Representing DaSCH within international standardisation bodies, notably as a member of the IIIF Technical Review Committee (TRC), as a contributor to the IIIF 3D Community and Technical Specification Groups, and within the ARK Alliance
 - Organising DaSCHCon on IIIF, 3D & Interoperability (2023) and co‑organising academic conferences
 - Supervising a master's thesis on IIIF and 3D visualisation
 
-February 2021 – March 2024: **Assistant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab](https://dhlab.philhist.unibas.ch/)
+</div>
+
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">February 2021 – March 2024</p>
+
+**Assistant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab](https://dhlab.philhist.unibas.ch/)
 - PhD undertaken within the Sinergia project "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / [Participatory Knowledge Practices in Analogue and Digital Image Archives](https://about.participatory-archives.ch/)" (PIA), a 20‑person project funded by the Swiss National Science Foundation (SNSF)
 - Dissertation: [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://phd.julsraemy.ch/) (successfully defended in November 2024, published in December 2024)
 - Implementing community‑driven standards (IIIF, Linked Art) and leading interdisciplinary working groups
@@ -108,14 +137,26 @@ February 2021 – March 2024: **Assistant and PhD Candidate in Digital Humanitie
 - Co‑designing and presenting the PIA public lecture series (Ringvorlesung), spring 2024
 - Organising workshops on Citizen Science, Design Research and Linked Art
 
-July 2020 – December 2020: **Knowledge Graph Engineer / IIIF Systems Architect** for the [Swiss Art Research Infrastructure (SARI)](https://swissartresearch.net/) at the University of Zurich
+</div>
+
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">July 2020 – December 2020</p>
+
+**Knowledge Graph Engineer / IIIF Systems Architect** for the [Swiss Art Research Infrastructure (SARI)](https://swissartresearch.net/) at the University of Zurich
 - Developing an overarching strategy for the integration of the International Image Interoperability Framework (IIIF) within SARI
 - Conceiving different IIIF implementation scenarios and assessing which IIIF APIs should be leveraged for the Bilder der Schweiz Online (BSO) project
 - Assessing the conformance of image formats and the optimal conversion recipes for their dissemination on the research platform and the BSO website
 - Building a IIIF Manifest template
 - Representing SARI on relevant IIIF committees and working groups
 
-August 2017 – January 2021: **Research and Teaching Assistant in Information Science** at the HES‑SO University of Applied Sciences and Arts Western Switzerland, [Haute école de gestion de Genève (HEG‑GE)](https://heg.hesge.ch/)
+</div>
+
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">August 2017 – January 2021</p>
+
+**Research and Teaching Assistant in Information Science** at the HES‑SO University of Applied Sciences and Arts Western Switzerland, [Haute école de gestion de Genève (HEG‑GE)](https://heg.hesge.ch/)
 - Coordinating the bilingual French‑German curriculum of the BSc in Information Science
 - Teaching the course "Informations‑ und Dokumentationssysteme" and running the hands‑on exercises of the "User‑centred design" and "Linked Open Data in Libraries" courses
 - Assisting Professor René Schneider with his research projects, assignments and the training sessions he gives in continuing education programmes
@@ -127,9 +168,16 @@ August 2017 – January 2021: **Research and Teaching Assistant in Information S
 	- Managing the "Towards IIIF‑Compliance Knowledge in Switzerland" (TICKS) project and the uptake of IIIF in Switzerland, including authoring a [white paper](https://doi.org/10.5281/zenodo.2640416) and organising the Bern IIIF Showcase outreach event (2019)
 	- Managing the "Infrastructure Nationale d'un Complément d'Identifiants Pérennes, Interopérables et Traçables" (INCIPIT) project, which developed [ARKetype](https://web.archive.org/web/20230204083123/https://www.arketype.ch/), an Archival Resource Key (ARK) allocation service in Switzerland
 
-January 2015 – July 2017: **Photo Archivist for the Montreux Jazz Digital Project** at the École Polytechnique Fédérale de Lausanne (EPFL), [Cultural Heritage & Innovation Center (formerly MetaMedia Center)](https://metamedia.epfl.ch/)
+</div>
+
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">January 2015 – July 2017</p>
+
+**Photo Archivist for the Montreux Jazz Digital Project** at the École Polytechnique Fédérale de Lausanne (EPFL), [Cultural Heritage & Innovation Center (formerly MetaMedia Center)](https://metamedia.epfl.ch/)
 - Evaluating, digitising and enriching the metadata of Georges Braunschweig's Montreux Jazz Festival photography collection (approximately 80,000 items)
 - Checking the quality process and adding metadata on the Montreux Jazz Festival database
+- Standardising the metadata of the collection
 - Conducting research and interviews to ensure the authenticity and integrity of the records and of the added metadata
 - Executing long‑term preservation workflows, including transferring data to servers and magnetic tapes (LTO)
 - Defining long‑term archiving strategies
@@ -138,14 +186,39 @@ January 2015 – July 2017: **Photo Archivist for the Montreux Jazz Digital Proj
 - Collating anecdotes for the [Montreux Jazz Heritage Lab II](http://www.epfl-ecal-lab.ch/work/montreux-jazz-heritage-lab-ii/) designed by the EPFL+ECAL Lab
 - Taking part in conferences and working group sessions such as iPRES, IIIF and Museomix
 
-August 2016 – October 2016: **University Intern** at the University of Basel, [Digital Humanities Lab](https://dhlab.philhist.unibas.ch/)
+</div>
+
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">August 2016 – October 2016</p>
+
+**University Intern** at the University of Basel, [Digital Humanities Lab](https://dhlab.philhist.unibas.ch/)
 - Conducting a survey and writing a report on the criteria for standard digital video formats for long‑term preservation (based on the recommendations of IASA, FADGI and Memoriav)
 - Conducting video transcoding tests with FFmpeg
 - Writing a conference paper demonstrating the benefits of structuring digital video assets according to IIIF concepts for use in archival environments
 
+</div>
+
+<details class="cv-more" markdown="1">
+<summary>Other experience</summary>
+
+- Since 2011 (annually): **Bar Manager** (since 2023), **Bartender** (2011–2022) at the [Bad Bonn Kilbi](https://kilbi.badbonn.ch/) festival, Düdingen
+- September 2010 – July 2016: **Night and Bar Manager** (2013–2016), **Bartender** (2010–2013) at [Fri‑Son](https://fri-son.ch/), Fribourg
+- April 2013 – December 2014: **Visitor Services Assistant** at [Maison Cailler](https://www.cailler.ch/), Nestlé Suisse SA, Broc
+- August 2012 – March 2013: **Freelance Teacher of English as a Foreign Language**, Warsaw, Poland
+- September 2011 – March 2012: **Sales Assistant** at [True Alliance](https://www.truealliance.com.au/), Sydney, Australia
+- January 2010 – August 2010: **Bookseller** at [Albert le Grand SA](https://www.albert-le-grand.ch/), Fribourg
+- March 2009 – January 2010: **Fusilier** (single‑term model), [Swiss Armed Forces](https://www.vtg.admin.ch/)
+- September 2008 – February 2009: **Marketing Intern** at [Oxford University Press, ELT Division](https://elt.oup.com/), Oxford, United Kingdom
+- August 2005 – July 2008: **Bookseller Apprentice** at [OLF SA](https://www.olf.ch/), Fribourg
+
+</details>
+
 ### Community and standards involvement :busts_in_silhouette:
 
-<div class="cv-subentries" markdown="1">
+<div class="cv-grid" markdown="1">
+
+<div class="cv-block" markdown="1">
 
 **International Image Interoperability Framework (IIIF)** [:link:](https://iiif.io/)
 - Since May 2020: IIIF [Coordinating Committee (CoCo)](https://iiif.io/community/coordinating-committee/) Member
@@ -154,14 +227,27 @@ August 2016 – October 2016: **University Intern** at the University of Basel, 
 - Sustained contributions to the IIIF Conference Program Committees
 - January 2018 – September 2019: IIIF [Outreach Community Group](https://iiif.io/community/groups/outreach/) Co‑Chair
 - September 2017 – July 2020: IIIF [Code of Conduct](https://iiif.io/event/conduct/) Team Member
-- Invited participant in the in‑person editorial workshops on A/V and the IIIF Presentation API 3.0 at the Getty (2017) and the British Library (2018)
+- Invited participant in the in‑person editorial workshops on A/V and the IIIF Presentation API 3.0 at the Getty, Los Angeles (2017) and the British Library (2018)
+
+</div>
+
+<div class="cv-block" markdown="1">
 
 **Linked Art** [:link:](https://linked.art)
 - Since 2023: Member of the Linked Art [Editorial Board](https://linked.art/community/)
 
-**Archival Resource Key (ARK) Alliance** [:link:](https://arks.org/)<br>*formerly "ARKs in the Open (AITO)"*
+</div>
+
+<div class="cv-block" markdown="1">
+
+**Archival Resource Key (ARK) Alliance** [:link:](https://arks.org/)
+- ARK Alliance Community Leader
 - Since February 2026: ARK Alliance [Technical Working Group](https://arks.org/community/groups/) Member
 - January 2020 – January 2026: ARK Alliance [Outreach Working Group](https://arks.org/community/groups/) Member
+
+</div>
+
+<div class="cv-block" markdown="1">
 
 **Event organisation**
 - 2026: docuteam Community Day, Lausanne
@@ -170,58 +256,166 @@ August 2016 – October 2016: **University Intern** at the University of Basel, 
 - 2019: Bern IIIF Showcase (TICKS project), Swiss National Library
 - 2018: [Data Professionals Day](https://heg.hesge.ch/actualites/2018/plus-400-professionnels-etudiants-reunis-feter-les-100-ans-la-filiere-information-documentaire), with Professor René Schneider, as part of the 100th anniversary of Information Science training in Geneva (100 ID)
 
+</div>
+
+<div class="cv-block" markdown="1">
+
 **Panels and round tables**
 - 19 November 2022: Moderator of the round table "Fri-Memoria : encore une plateforme patrimoniale ?" at [Les 10 heures du patrimoine fribourgeois](https://www.fr.ch/sites/default/files/2022-11/le-programme--les-10-heures-du-patrimoine.pdf?v=1667487212), Bibliothèque cantonale et universitaire (BCU) Fribourg
 - 20 April 2021: Panellist in the e-rara podium discussion "[Retrodigitalisierung im Dienste von Forschung und Lehre](https://library.ethz.ch/ueber-uns-und-standorte/veranstaltungen/retrodigitalisierung-im-dienste-von-forschung-und-lehre.html)", ETH Library, online
 
 </div>
 
+</div>
+
 ### Other memberships :handshake:
 
-<div class="cv-subentries" markdown="1">
+<div class="cv-grid" markdown="1">
+
+<div class="cv-block" markdown="1">
 
 **Bibliosuisse** [:link:](https://bibliosuisse.ch/)<br>*formerly "Bibliothèque Information Suisse" (BIS)*
 - Since March 2014: Member
 
+</div>
+
+<div class="cv-block" markdown="1">
+
 **Association genevoise des bibliothécaires et professionnels diplômés en information documentaire (AGBD)** [:link:](https://www.agbd.ch/)
 - May 2018 – February 2021: Member
 
+</div>
+
+<div class="cv-block" markdown="1">
+
 **Fri‑Son** [:link:](https://fri-son.ch/)
 - Since October 2010: Member
-- September 2013 – July 2016: Bar Manager
-- September 2010 – August 2013: Bartender
+
+</div>
+
+<div class="cv-block" markdown="1">
 
 **Association des amis de la Maison d'Ailleurs (AMDA)** [:link:](https://amda.ch/)
 - Since January 2008: Member
 
 </div>
 
+</div>
+
 ### Education :school:
 
-- 2021–2024: **PhD in Digital Humanities** at the University of Basel
-- 2018–2020: **Master of Science in Information Science** (_Master of Science HES-SO en sciences de l'information_) at the HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève
-- 2013–2017: **Bachelor of Science in Information Science** (_Bachelor of Science HES-SO en information documentaire_) at the HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève
-- 2010–2011: **Professional Business Baccalaureate** (_Maturité professionnelle commerciale_) at the École professionnelle artisanale et commerciale (EPAC)
-- 2005–2008: **Federal Diploma of Vocational Education and Training, Bookseller** (_Certificat fédéral de capacité de libraire_) at the École professionnelle commerciale de Lausanne (EPCL)
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">2021–2024</p>
+
+**PhD in Digital Humanities** at the University of Basel
+- Dissertation: [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://hdl.handle.net/20.500.14716/148352)
+
+</div>
+
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">2018–2020</p>
+
+**Master of Science in Information Science** (_Master of Science HES-SO en sciences de l'information_) at the HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève
+- Master's thesis on the aggregation and discovery of cultural heritage content for Europeana and its partner institutions: [Enabling Better Aggregation and Discovery of Cultural Heritage Content for Europeana and Its Partner Institutions](https://sonar.ch/hesso/documents/315109)
+
+</div>
+
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">2013–2017</p>
+
+**Bachelor of Science in Information Science** (_Bachelor of Science HES-SO en information documentaire_) at the HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève
+- Bachelor's thesis on IIIF, including usability testing of IIIF viewers: [The International Image Interoperability Framework (IIIF): Raising Awareness of the User Benefits for Scholarly Editions](https://sonar.ch/hesso/documents/314853)
+- Awarded the Prix romand en bibliothéconomie 2017
+
+</div>
+
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">2010–2011</p>
+
+**Professional Business Baccalaureate** (_Maturité professionnelle commerciale_) at the École professionnelle artisanale et commerciale (EPAC), Bulle
+
+</div>
+
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">2005–2008</p>
+
+**Federal Diploma of Vocational Education and Training, Bookseller** (_Certificat fédéral de capacité de libraire_) at the École professionnelle commerciale de Lausanne (EPCL)
+
+</div>
 
 ### Certificates :scroll:
 
-- 2025: HERMES Foundation, TÜV SÜD Akademie
-- 2012: Cambridge CELTA (Certificate in Teaching English to Speakers of Other Languages)
+<div class="cv-grid" markdown="1">
+
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">2025</p>
+
+**HERMES Foundation**, TÜV SÜD Akademie
+
+</div>
+
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">2012</p>
+
+**Cambridge CELTA** (Certificate in Teaching English to Speakers of Other Languages)
+
+</div>
+
+</div>
 
 ### Languages :speech_balloon:
 
-- French: native
-- English: fluent (C2)
-- German: advanced (C1)
-- Swiss German: conversational
-- Portuguese: currently learning
+<div class="cv-grid cv-grid--compact" markdown="1">
 
-### Technical skills :wrench:
+<div class="cv-block" markdown="1">
 
-- **Semantic Web:** RDF/XML, JSON‑LD, Turtle, RDFS, OWL, SPARQL, SHACL
-- **Metadata and ontologies:** RiC‑O, CIDOC CRM, EAD, ISAD(G), Dublin Core, EDM, MARC, METS/MODS
-- **APIs and models:** IIIF (Image, Presentation, Authorization Flow, Content Search, Change Discovery), Linked Art, Activity Streams, OAI‑PMH
-- **IIIF viewers:** Mirador, Universal Viewer; usability testing (2017) and viewer matrix evaluation (2022–2023)
-- **Programming and data:** Python, Bash, SQL, R; OpenRefine, pandas; Git, CI/CD
-- **Infrastructure:** Docker, Kubernetes, triplestores, Neo4j
+<p class="cv-block__date">Native</p>
+
+**French**
+
+</div>
+
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">Fluent (C2)</p>
+
+**English**
+
+</div>
+
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">Advanced (C1)</p>
+
+**German**
+
+</div>
+
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">Good</p>
+
+**Swiss German**
+
+</div>
+
+<div class="cv-block" markdown="1">
+
+<p class="cv-block__date">Elementary</p>
+
+**Brazilian Portuguese**
+
+</div>
+
+</div>
+
+### Skills :wrench:
+
+{% include skills.html %}

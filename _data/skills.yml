@@ -1,0 +1,46 @@
+# Skills shown on the CV (_includes/skills.html).
+- group: Metadata and standards
+  items:
+    - ISAD(G)
+    - ISAAR(CPF)
+    - EAD
+    - MARC 21
+    - RDA
+    - METS/MODS
+    - BIBFRAME
+    - IFLA LRM
+    - Dublin Core
+    - LIDO
+    - CDWA
+    - CCO
+    - VRA Core
+    - Getty vocabularies (AAT, TGN, ULAN)
+
+- group: Digital preservation
+  items:
+    - OAIS reference model
+    - PREMIS
+    - Pre‑ingest and ingest workflows
+    - File format assessment and conversion
+    - Audiovisual preservation (IASA, FADGI, Memoriav)
+    - Fedora repository
+    - docuteam suite
+
+- group: APIs and models
+  items:
+    - IIIF APIs
+    - Activity Streams
+    - OAI‑PMH
+    - Linked Art
+    - CIDOC CRM
+    - Records in Contexts (RiC‑CM, RiC‑O)
+    - Europeana Data Model (EDM)
+
+- group: Semantic Web
+  items: [RDF, RDF/XML, JSON‑LD, Turtle, RDFS, OWL, SKOS, SPARQL, SHACL]
+
+- group: Programming and data
+  items: [Python, Bash, SQL, R, OpenRefine, pandas, Git, CI/CD]
+
+- group: Infrastructure
+  items: [Docker, Kubernetes, Triplestores, Neo4j]

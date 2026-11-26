@@ -14,6 +14,8 @@ I'm [Julien Antoine Raemy][name] (he/him), originally from Fribourg, Switzerland
 
 My work focuses on improving the digital preservation, dissemination and interoperability of cultural heritage and its metadata through open standards built on the [Linked Open Usable Data (LOUD)][phd] design principles. I'm an active member of the [International Image Interoperability Framework (IIIF)][iiif], [Linked Art][linkedart] and [ARK Alliance][ark] communities.
 
+Over more than ten years with memory institutions and research infrastructures, I have worked on managing, preserving and providing access to heritage holdings, from manuscripts and printed material to photographic and audiovisual collections. In practice, this means designing OAIS‑compliant processing workflows, helping to steer data governance, and implementing open interoperability standards (IIIF, Linked Art, CIDOC CRM, PREMIS, RiC) together with persistent identifiers (ARKs).
+
 ## [What I do now]
 
 {% include now.html %}

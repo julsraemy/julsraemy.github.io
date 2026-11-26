@@ -1,0 +1,14 @@
+{%- comment -%} Skill groups as tags, from _data/skills.yml. Used on the CV. {%- endcomment -%}
+<div class="skills-grid">
+{%- for g in site.data.skills %}
+  <section class="skills-group">
+    <h4 class="skills-group__name">{{ g.group }}</h4>
+    <ul class="skills-group__tags">
+    {%- for item in g.items %}
+      <li>{{ item }}</li>
+    {%- endfor %}
+    </ul>
+    {%- if g.note %}<p class="skills-group__note">{{ g.note }}</p>{% endif %}
+  </section>
+{%- endfor %}
+</div>

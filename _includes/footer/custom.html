@@ -13,4 +13,12 @@
   })();
 </script>
 
+<!-- Scroll reveal for cards, timelines and CV entries -->
+<script src="/assets/js/reveal.js?v={{ site.time | date: '%s' }}" defer></script>
+
+{%- if page.classes contains "cv" %}
+<!-- Show/hide toggles on CV blocks -->
+<script src="/assets/js/cv-toggle.js?v={{ site.time | date: '%s' }}"></script>
+{%- endif %}
+
 <!-- end custom footer snippets -->
