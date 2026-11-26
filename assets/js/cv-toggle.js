@@ -1,6 +1,13 @@
-/* Show/hide toggle for each CV block (.cv-block), one for the whole Skills section, plus "Collapse all / Expand all".
-   Blocks start open; without JavaScript they simply stay open. */
+/* Show/hide toggle for each CV block (.cv-block), one for the whole Skills section, plus "Expand all / Collapse all".
+   Blocks start collapsed; without JavaScript they simply stay open. */
 (function () {
+  /* No open/close animation while the initial (collapsed) state is applied */
+  var root = document.documentElement;
+  root.classList.add("cv-toggle-init");
+  requestAnimationFrame(function () {
+    requestAnimationFrame(function () { root.classList.remove("cv-toggle-init"); });
+  });
+
   var blocks = document.querySelectorAll(".cv-block");
   var toggles = [];
 
@@ -38,7 +45,7 @@
     });
     block.classList.add("has-toggle");
     block.insertBefore(button, block.firstChild);
-    set(true);
+    set(false);
     toggles.push(set);
   });
 
@@ -56,16 +63,16 @@
     };
     sbtn.addEventListener("click", function () { setSkills(grid.classList.contains("is-collapsed")); });
     grid.insertAdjacentElement("beforebegin", sbtn);
-    setSkills(true);
+    setSkills(false);
     toggles.push(setSkills);
   }
 
-  /* Collapse all / Expand all, placed under the "Curriculum vitae" heading */
+  /* Expand all / Collapse all, placed under the "Curriculum vitae" heading */
   var heading = document.getElementById("curriculum-vitae");
   if (heading && toggles.length) {
     var bar = document.createElement("p");
     bar.className = "cv-toolbar";
-    [["Collapse all", false], ["Expand all", true]].forEach(function (pair) {
+    [["Expand all", true], ["Collapse all", false]].forEach(function (pair) {
       var b = document.createElement("button");
       b.type = "button";
       b.textContent = pair[0];

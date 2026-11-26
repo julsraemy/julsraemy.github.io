@@ -1315,3 +1315,9 @@
 .cv-grid--compact > .cv-block {
   padding: 0.8em 1.1em 0.4em;
 }
+
+/* CV blocks start collapsed: skip the animation on first render */
+.cv-toggle-init .cv-block__body,
+.cv-toggle-init .cv-block__toggle::before {
+  transition: none !important;
+}
