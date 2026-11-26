@@ -1,0 +1,44 @@
+# Community involvement shown on the homepage (_includes/communities.html).
+# Keep in sync with "Community and standards involvement" in _pages/cv.md.
+- name: IIIF
+  full: International Image Interoperability Framework
+  url: https://iiif.io/
+  since: 2016
+  blurb: A set of open standards for delivering high-quality, attributed digital objects online at scale, and an international community developing and implementing the IIIF APIs, backed by a consortium of leading cultural institutions.
+  roles:
+    - when: Since 2020
+      what: Coordinating Committee
+      url: https://iiif.io/community/coordinating-committee/
+    - when: 2019–2024
+      what: Technical Review Committee
+      url: https://iiif.io/community/trc/
+    - when: 2018–2019
+      what: Outreach Community Group, Co‑Chair
+      url: https://iiif.io/community/groups/outreach/
+    - when: Regularly since 2018
+      what: Conference Programme Committee
+
+- name: Linked Art
+  full: Linked Art
+  url: https://linked.art/
+  since: 2023
+  blurb: A shared Linked Open Usable Data model based on CIDOC CRM for describing cultural heritage, focused on artworks but also covering archival and bibliographic material, developed by a community that also specifies APIs giving access to data in that model.
+  roles:
+    - when: Since 2023
+      what: Editorial Board
+      url: https://linked.art/community/
+
+- name: ARK Alliance
+  full: Archival Resource Key Alliance
+  url: https://arks.org/
+  since: 2020
+  blurb: An international community supporting Archival Resource Keys (ARKs), free and decentralised persistent identifiers for any kind of object, digital, physical or abstract, and the tools and services that keep them resolvable over time.
+  roles:
+    - when: Recognised as
+      what: Community Leader
+    - when: Since 2026
+      what: Technical Working Group
+      url: https://arks.org/community/groups/
+    - when: 2020–2026
+      what: Outreach Working Group
+      url: https://arks.org/community/groups/

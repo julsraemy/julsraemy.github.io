@@ -1,0 +1,19 @@
+{%- comment -%} Community involvement cards, from _data/communities.yml. {%- endcomment -%}
+<div class="community-grid">
+{%- for c in site.data.communities %}
+  <article class="community-card">
+    <header class="community-card__head">
+      <h3 class="community-card__name"><a href="{{ c.url }}">{{ c.name }}</a></h3>
+      <span class="community-card__since">since {{ c.since }}</span>
+    </header>
+    <p class="community-card__full">{% if c.full != c.name %}{{ c.full }}{% endif %}</p>
+    <p class="community-card__blurb">{{ c.blurb }}</p>
+    <ol class="community-card__roles">
+    {%- for r in c.roles %}
+      <li>{% if r.when %}<span class="community-card__when">{{ r.when }}</span>{% endif %}
+        {%- if r.url %}<a href="{{ r.url }}">{{ r.what }}</a>{% else %}{{ r.what }}{% endif %}</li>
+    {%- endfor %}
+    </ol>
+  </article>
+{%- endfor %}
+</div>

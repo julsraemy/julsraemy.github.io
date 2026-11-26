@@ -160,8 +160,8 @@ August 2016 – October 2016: **University Intern** at the University of Basel, 
 - Since 2023: Member of the Linked Art [Editorial Board](https://linked.art/community/)
 
 **Archival Resource Key (ARK) Alliance** [:link:](https://arks.org/)<br>*formerly "ARKs in the Open (AITO)"*
-- Since February 2026: ARK Alliance [Technical Working Group](https://arks.org/community-groups/) Member
-- January 2020 – January 2026: ARK Alliance [Outreach Working Group](https://arks.org/community-groups/) Member
+- Since February 2026: ARK Alliance [Technical Working Group](https://arks.org/community/groups/) Member
+- January 2020 – January 2026: ARK Alliance [Outreach Working Group](https://arks.org/community/groups/) Member
 
 **Event organisation**
 - 2026: docuteam Community Day, Lausanne
