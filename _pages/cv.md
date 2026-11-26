@@ -310,7 +310,7 @@ More background is on the [About](/about/) page, and the projects he has contrib
 
 **PhD in Digital Humanities** at the University of Basel
 - Dissertation: [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://hdl.handle.net/20.500.14716/148352)
-- HTML version: [phd.julsraemy.ch](https://phd.julsraemy.ch/)
+- HTML version: [phd.julsraemy.ch](https://phd.julsraemy.ch/thesis.html)
 
 </div>
 
