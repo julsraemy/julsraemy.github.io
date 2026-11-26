@@ -18,7 +18,7 @@ date: 2019-02-07 12:00:42 +0100
 
 ## 15.05.2019 - Save the date!
 
-On Wednesday, May 15, 2019, from 9:15am to 5pm, a [IIIF][iiif] Showcase Event will take place in the Dürrenmatt room of the Swiss National Library in Bern. This event is organised as part of the [Towards IIIF-Compliance Knowledge in Switzerland (TICKS)][ticks-rg] project.
+On Wednesday, May 15, 2019, from 9:15am to 5pm, a [IIIF][iiif] Showcase Event will take place in the Dürrenmatt room of the Swiss National Library in Bern. This event is organised as part of the Towards IIIF-Compliance Knowledge in Switzerland (TICKS) project.
 
 Presentations will be conducted in English by representatives of international and Swiss organisations. We will have the chance to have the following people presenting:
 
@@ -58,11 +58,10 @@ Registrations will be open from March 1st on the following link: <https://web.ar
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=7.447587847709656%2C46.94051696292513%2C7.451128363609315%2C46.94221821145187&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/46.94137/7.44936" target="_blank">View the Swiss National Library on a larger map</a></small>
 
 [iiif]: https://iiif.io/
-[iiif360]: https://projet.biblissima.fr/en/resources/iiif-360
+[iiif360]: https://iiif.biblissima.fr/services-iiif/
 [news]: https://www.e-newspaperarchives.ch/
 [manuscripta]: https://www.e-manuscripta.ch/ 
 [programme]: https://web.archive.org/web/20260804133914/https://campus.hesge.ch/id_bilingue/projekte/ticks/assets/bern_iiif_showcase_programme.pdf
-[sos]: https://www.bl.uk/projects/save-our-sounds
-[ticks-rg]: https://www.researchgate.net/project/Towards-IIIF-Compliance-Knowledge-in-Switzerland-TICKS
+[sos]: https://web.archive.org/web/20191226031607/https://www.bl.uk/projects/save-our-sounds
 [ticks-logo]: https://julsraemy.github.io/assets/images/ticks.png
 [video-emanuscripta]: https://julsraemy.github.io/assets/videos/emanuscripta.mp4
