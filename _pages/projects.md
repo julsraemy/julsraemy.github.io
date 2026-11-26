@@ -150,7 +150,7 @@ ICOPAD looked at how trustworthy, persistent identifiers could be assigned to ar
 [docuteam]: https://www.docuteam.ch/
 [bso]: https://www.bilder-der-schweiz.online/
 [ekws-pia]: https://www.ekws.ch/de/aktivitaeten/projekte/partizipative-wissenspraktiken-in-analogen-und-digitalen-bildarchiven-pia
-[icopad]: https://campus.hesge.ch/id_bilingue/projekte/icopad/index_fr.asp
+[icopad]: https://web.archive.org/web/20261016064559/https://campus.hesge.ch/id_bilingue/projekte/icopad/index_fr.asp
 [incipit]: https://www.swissuniversities.ch/en/topics/digitalisation/p-5-scientific-information/projects/incipit
 [lindas]: https://lindas.admin.ch/
 [n2t]: https://n2t.net/
@@ -159,5 +159,5 @@ ICOPAD looked at how trustworthy, persistent identifiers could be assigned to ar
 [sari]: https://www.sari.uzh.ch/
 [sib]: https://www.sib.swiss/
 [snf-pia]: https://data.snf.ch/grants/grant/193788
-[ticks]: https://campus.hesge.ch/id_bilingue/projekte/ticks/index_fr.asp
+[ticks]: https://web.archive.org/web/20261019174108/https://campus.hesge.ch/id_bilingue/projekte/ticks/index_fr.asp
 [ticks-wp]: https://doi.org/10.5281/zenodo.2640416

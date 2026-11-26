@@ -18,13 +18,13 @@ date: 2019-07-01 12:00:42 +0100
 
 ## Rationale
 
-As part of the [Towards IIIF-Compliance Knowledge in Switzerland](https://campus.hesge.ch/id_bilingue/projekte/ticks/index_fr.asp) (TICKS) project, a white paper titled ["Suggested measures for deploying IIIF in Swiss cultural heritage institutions"](https://doi.org/10.5281/zenodo.2640415) was released on May 29th 2019. This project originated on the acknowledgements that the [International Image Interoperability Framework](https://iiif.io/) (IIIF - 'triple-eye-eff') ecosystem was not enough known and deployed in the cultural heritage field in Switzerland.
+As part of the [Towards IIIF-Compliance Knowledge in Switzerland](https://web.archive.org/web/20261019174108/https://campus.hesge.ch/id_bilingue/projekte/ticks/index_fr.asp) (TICKS) project, a white paper titled ["Suggested measures for deploying IIIF in Swiss cultural heritage institutions"](https://doi.org/10.5281/zenodo.2640415) was released on May 29th 2019. This project originated on the acknowledgements that the [International Image Interoperability Framework](https://iiif.io/) (IIIF - 'triple-eye-eff') ecosystem was not enough known and deployed in the cultural heritage field in Switzerland.
 
 This short blog post provides information on the main components of the white paper. These same indications were presented on the occasion of the 2019 IIIF Conference on Wednesday 26th June at one of the [lightning talk sessions](https://iiif.io/event/2019/goettingen/wednesday/) in Göttingen, Germany - ["Swiss institutions climbing up the IIIF ladder"](https://doi.org/10.5281/zenodo.3238160). 
 
 ### Abstract's abstract
 
-_The white paper starts with the main principles of the IIIF, notably indicating the [different technical specifications](https://iiif.io/api/), or application programming interfaces (APIs), produced by the [IIIF community](https://iiif.io/community/) as well as the platforms of Swiss projects or institutions that have deployed IIIF. Going from general to specific, a generic [IIIF step-by-step graph](https://campus.hesge.ch/id_bilingue/projekte/ticks/assets/step_by_step.svg) and six more precise use cases reflecting different needs of the GLAM (Galleries, Libraries, Archives, Museums) sector giving implementation measures have been produced._ 
+_The white paper starts with the main principles of the IIIF, notably indicating the [different technical specifications](https://iiif.io/api/), or application programming interfaces (APIs), produced by the [IIIF community](https://iiif.io/community/) as well as the platforms of Swiss projects or institutions that have deployed IIIF. Going from general to specific, a generic [IIIF step-by-step graph](https://julsraemy.ch/assets/images/step_by_step.svg) and six more precise use cases reflecting different needs of the GLAM (Galleries, Libraries, Archives, Museums) sector giving implementation measures have been produced._ 
 
 _Finally, the document contains recommendations for further action as well as some information on the possible reuse of this document for other regions of the world or for other scientific fields._
 
@@ -59,7 +59,7 @@ The IIIF step-by-step diagram gives a generic approach to implement IIIF, which 
 
 ![TICKS Logo][ticks-steps]
 
-An SVG version of the IIIF step-by-step diagram can be downloaded [on the Zenodo platform](https://zenodo.org/record/2640416/files/RAEMY_SCHNEIDER_TICKS_IIIF%20Step-by-Step_v1_1_logos.svg?download=1) or can be viewed at the following URL: <https://campus.hesge.ch/id_bilingue/projekte/ticks/assets/step_by_step.svg>. 
+An SVG version of the IIIF step-by-step diagram can be downloaded [on the Zenodo platform](https://zenodo.org/record/2640416/files/RAEMY_SCHNEIDER_TICKS_IIIF%20Step-by-Step_v1_1_logos.svg?download=1) or can be viewed at the following URL: <https://julsraemy.ch/assets/images/step_by_step.svg>. 
 
 ### Use cases and suggested measures
 
@@ -124,7 +124,7 @@ It would be very interesting to have more feedback from institutions or individu
 
 ### A possible follow-up project
 
-I am thinking about how to carry out a follow-up project and see which institutions would be interested in a TICKS V2 while also relying on the results of the break-out session that happened during the [Bern IIIF Showcase Event](https://campus.hesge.ch/id_bilingue/projekte/ticks/bern-iiif-showcase-event_fr.html) on May 15th (presentations and notes of this event can be found at the following URL address: <http://bit.ly/iiifbern>). The event participants were particularly interested in a platform that would guide institutions wishing to implement IIIF based somewhat on the French approach provided by Biblissima, known as [IIIF360](https://projet.biblissima.fr/en/resources/iiif-360).  
+I am thinking about how to carry out a follow-up project and see which institutions would be interested in a TICKS V2 while also relying on the results of the break-out session that happened during the [Bern IIIF Showcase Event](https://web.archive.org/web/20261016064003/https://campus.hesge.ch/id_bilingue/projekte/ticks/bern-iiif-showcase-event_fr.html) on May 15th (presentations and notes of this event can be found at the following URL address: <http://bit.ly/iiifbern>). The event participants were particularly interested in a platform that would guide institutions wishing to implement IIIF based somewhat on the French approach provided by Biblissima, known as [IIIF360](https://projet.biblissima.fr/en/resources/iiif-360).  
 
 [ticks-logo]: https://julsraemy.ch/assets/images/ticks.png
 [ticks-steps]: https://julsraemy.ch/assets/images/iiif-step-by-step.jpg

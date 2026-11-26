@@ -65,6 +65,6 @@ If you have any questions or comments, please contact me directly. Further infor
 
 
 [survey]: https://goo.gl/forms/J2fPHaaJdNbLI7Z23 
-[ticks-fr]: http://campus.hesge.ch/id_bilingue/projekte/ticks/index_fr.asp
-[ticks-de]: http://campus.hesge.ch/id_bilingue/projekte/ticks/default.asp
+[ticks-fr]: https://web.archive.org/web/20261019174108/https://campus.hesge.ch/id_bilingue/projekte/ticks/index_fr.asp
+[ticks-de]: https://web.archive.org/web/20260518003815/http://campus.hesge.ch/id_bilingue/projekte/ticks/default.asp
 [ticks-en]: https://www.researchgate.net/project/Towards-IIIF-Compliance-Knowledge-in-Switzerland-TICKS

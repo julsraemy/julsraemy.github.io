@@ -51,7 +51,7 @@ Then, there will also be a demonstration of the work of a Digital Humanities Lab
 
 ## Registration
 
-Registrations will be open from March 1st on the following link: <https://campus.hesge.ch/id_bilingue/projekte/ticks/bern-iiif-showcase-event_fr.html>. In the meantime, don't forget to mark this date in your agenda. The capacity will be approximately 80 people. The participation fee is CHF 70 per person (lunch and snacks during breaks included). The reduced price for students is CHF 40. 
+Registrations will be open from March 1st on the following link: <https://web.archive.org/web/20261016064003/https://campus.hesge.ch/id_bilingue/projekte/ticks/bern-iiif-showcase-event_fr.html>. In the meantime, don't forget to mark this date in your agenda. The capacity will be approximately 80 people. The participation fee is CHF 70 per person (lunch and snacks during breaks included). The reduced price for students is CHF 40. 
 
 *Swiss National Library, Hallwylstrasse 15, CH-3003 Bern, Switzerland*
 
@@ -61,7 +61,7 @@ Registrations will be open from March 1st on the following link: <https://campus
 [iiif360]: https://projet.biblissima.fr/en/resources/iiif-360
 [news]: https://www.e-newspaperarchives.ch/
 [manuscripta]: https://www.e-manuscripta.ch/ 
-[programme]: https://campus.hesge.ch/id_bilingue/projekte/ticks/assets/bern_iiif_showcase_programme.pdf
+[programme]: https://web.archive.org/web/20260804133914/https://campus.hesge.ch/id_bilingue/projekte/ticks/assets/bern_iiif_showcase_programme.pdf
 [sos]: https://www.bl.uk/projects/save-our-sounds
 [ticks-rg]: https://www.researchgate.net/project/Towards-IIIF-Compliance-Knowledge-in-Switzerland-TICKS
 [ticks-logo]: https://julsraemy.github.io/assets/images/ticks.png
