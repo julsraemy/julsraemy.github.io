@@ -309,8 +309,8 @@ More background is on the [About](/about/) page, and the projects he has contrib
 <p class="cv-block__date">2021–2024</p>
 
 **PhD in Digital Humanities** at the University of Basel
-- Dissertation: [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://hdl.handle.net/20.500.14716/148352)
-- HTML version: [phd.julsraemy.ch](https://phd.julsraemy.ch/thesis.html)
+- Dissertation: [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://hdl.handle.net/20.500.14716/148352) | [HTML version](https://phd.julsraemy.ch/thesis.html)
+- PhD undertaken in the context of the SNSF-funded Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA) research project
 
 </div>
 
@@ -319,7 +319,7 @@ More background is on the [About](/about/) page, and the projects he has contrib
 <p class="cv-block__date">2018–2020</p>
 
 **Master of Science in Information Science** (_Master of Science HES-SO en sciences de l'information_) at the HES‑SO University of Applied Sciences and Arts Western Switzerland, Haute école de gestion de Genève
-- Master's thesis on the aggregation and discovery of cultural heritage content for Europeana and its partner institutions: [Enabling Better Aggregation and Discovery of Cultural Heritage Content for Europeana and Its Partner Institutions](https://sonar.ch/hesso/documents/315109)
+- Master's thesis on the aggregation and discovery of cultural heritage data: [Enabling Better Aggregation and Discovery of Cultural Heritage Content for Europeana and Its Partner Institutions](https://sonar.ch/hesso/documents/315109)
 
 </div>
 
