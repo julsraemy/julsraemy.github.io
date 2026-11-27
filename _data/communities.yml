@@ -7,10 +7,10 @@
   blurb: A set of open standards for delivering high-quality, attributed digital objects online at scale, and an international community developing and implementing the IIIF APIs, backed by a consortium of leading cultural institutions.
   roles:
     - when: Since 2020
-      what: Coordinating Committee
+      what: Coordinating Committee (CoCo)
       url: https://iiif.io/community/coordinating-committee/
     - when: 2019–2024
-      what: Technical Review Committee
+      what: Technical Review Committee (TRC)
       url: https://iiif.io/community/trc/
     - when: 2018–2019
       what: Outreach Community Group, Co‑Chair
@@ -27,6 +27,8 @@
     - when: Since 2023
       what: Editorial Board
       url: https://linked.art/community/
+    - when: Since 2020
+      what: Community Member
 
 - name: ARK Alliance
   full: Archival Resource Key Alliance

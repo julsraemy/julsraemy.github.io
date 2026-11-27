@@ -78,11 +78,34 @@
       "publisher": { "@type": "Organization", "name": {{ p.publisher | jsonify }} }
       {%- endif -%}
       {%- if p.event %},
+      {%- comment -%} ISO 8601 start date: "27 March 2018" → 2018-03-27, "December 2025" → 2025-12, none → year {%- endcomment -%}
+      {%- if p.date -%}
+        {%- assign date_words = p.date | split: " " | size -%}
+        {%- if date_words == 2 -%}{%- assign start = p.date | prepend: "1 " | date: "%Y-%m" -%}
+        {%- else -%}{%- assign start = p.date | date: "%Y-%m-%d" -%}{%- endif -%}
+      {%- else -%}{%- assign start = p.year | append: "" -%}{%- endif %}
       "recordedAt": {
         "@type": "Event",
-        "name": {{ p.event | jsonify }}
-        {%- if p.place %},
-        "location": {{ p.place | jsonify }}
+        "name": {{ p.event | jsonify }},
+        "startDate": "{{ start }}",
+        "description": {{ p.title | jsonify }},
+        "performer": [
+          {%- for a in p.authors -%}
+            {%- if a == "Raemy, Julien Antoine" -%}
+          { "@id": "{{ site.url }}/#person" }
+            {%- else -%}
+              {%- assign parts = a | split: ", " -%}
+          { "@type": "Person", "givenName": {{ parts[1] | jsonify }}, "familyName": {{ parts[0] | jsonify }} }
+            {%- endif -%}
+            {%- unless forloop.last %},{% endunless -%}
+          {%- endfor %}
+        ]
+        {%- if p.place == "online" %},
+        "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+        "location": { "@type": "VirtualLocation"{% if p.url %}, "url": {{ p.url | jsonify }}{% endif %} }
+        {%- elsif p.place %},
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "location": { "@type": "Place", "name": {{ p.place | jsonify }}, "address": {{ p.place | jsonify }} }
         {%- endif %}
       }
       {%- endif -%}
