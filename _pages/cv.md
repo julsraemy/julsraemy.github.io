@@ -309,7 +309,7 @@ More background is on the [About](/about/) page, and the projects he has contrib
 <p class="cv-block__date">2021–2024</p>
 
 **PhD in Digital Humanities** at the University of Basel
-- Dissertation: [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://hdl.handle.net/20.500.14716/148352) | [HTML version](https://phd.julsraemy.ch/thesis.html)
+- Dissertation: [Linked Open Usable Data for Cultural Heritage: Perspectives on Community Practices and Semantic Interoperability](https://hdl.handle.net/20.500.14716/148352) - [HTML version](https://phd.julsraemy.ch/thesis.html)
 - PhD undertaken in the context of the SNSF-funded Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA) research project
 
 </div>
