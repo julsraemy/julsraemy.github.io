@@ -36,11 +36,11 @@
   since: 2020
   blurb: An international community supporting Archival Resource Keys (ARKs), free and decentralised persistent identifiers for any kind of object, digital, physical or abstract, and the tools and services that keep them resolvable over time.
   roles:
-    - when: Recognised as
-      what: Community Leader
     - when: Since 2026
       what: Technical Working Group
       url: https://arks.org/community/groups/
     - when: 2020–2026
       what: Outreach Working Group
       url: https://arks.org/community/groups/
+    - when: Recognised as
+      what: Community Leader

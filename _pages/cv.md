@@ -223,8 +223,7 @@ More background is on the [About](/about/) page, and the projects he has contrib
 **International Image Interoperability Framework (IIIF)** [:link:](https://iiif.io/)
 - Since May 2020: IIIF [Coordinating Committee (CoCo)](https://iiif.io/community/coordinating-committee/) Member
 - February 2019 – September 2024: IIIF [Technical Review Committee (TRC)](https://iiif.io/community/trc/) Member
-- Member of the IIIF A/V, 3D and Discovery Technical Specification Groups
-- Sustained contributions to the IIIF Conference Program Committees
+- Since 2018: Sustained contributions to the IIIF Conference Program Committees
 - January 2018 – September 2019: IIIF [Outreach Community Group](https://iiif.io/community/groups/outreach/) Co‑Chair
 - September 2017 – July 2020: IIIF [Code of Conduct](https://iiif.io/event/conduct/) Team Member
 - Invited participant in the in‑person editorial workshops on A/V and the IIIF Presentation API 3.0 at the Getty, Los Angeles (2017) and the British Library (2018)
@@ -235,6 +234,7 @@ More background is on the [About](/about/) page, and the projects he has contrib
 
 **Linked Art** [:link:](https://linked.art)
 - Since 2023: Member of the Linked Art [Editorial Board](https://linked.art/community/)
+- Since 2020: Community Member
 
 </div>
 
