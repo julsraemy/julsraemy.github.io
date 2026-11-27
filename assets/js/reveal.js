@@ -30,20 +30,25 @@
   document.documentElement.classList.add("js-reveal");
   items.forEach(function (el) { el.classList.add("reveal"); });
 
+  /* Lighter effect on small screens: shorter stagger and cleanup */
+  var small = window.matchMedia("(max-width: 700px)").matches;
+  var step = small ? 40 : 90;
+  var duration = small ? 550 : 900;
+
   var observer = new IntersectionObserver(function (entries) {
     var batch = 0;
     entries.forEach(function (entry) {
       if (!entry.isIntersecting) return;
       /* Items entering together appear one after another */
       var el = entry.target;
-      var delay = Math.min(batch, 6) * 90;
+      var delay = Math.min(batch, small ? 3 : 6) * step;
       el.style.setProperty("--reveal-delay", delay + "ms");
       el.classList.add("is-visible");
       /* Hand back to the element's own styles (e.g. hover lift) once shown */
       setTimeout(function () {
         el.classList.remove("reveal", "is-visible");
         el.style.removeProperty("--reveal-delay");
-      }, delay + 900);
+      }, delay + duration);
       observer.unobserve(el);
       batch++;
     });
